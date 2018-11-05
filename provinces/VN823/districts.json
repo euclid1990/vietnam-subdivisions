@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN82309",
+    "LocationName": "Huyện Cái Nước"
+  },
+  {
+    "LocationID": "VN82311",
+    "LocationName": "Huyện Đầm Dơi"
+  },
+  {
+    "LocationID": "VN82312",
+    "LocationName": "Huyện Năm Căn"
+  },
+  {
+    "LocationID": "VN82313",
+    "LocationName": "Huyện Ngọc Hiển"
+  },
+  {
+    "LocationID": "VN82308",
+    "LocationName": "Huyện Phú Tân"
+  },
+  {
+    "LocationID": "VN82303",
+    "LocationName": "Huyện Thới Bình"
+  },
+  {
+    "LocationID": "VN82307",
+    "LocationName": "Huyện Trần Văn Thời"
+  },
+  {
+    "LocationID": "VN82305",
+    "LocationName": "Huyện U Minh"
+  },
+  {
+    "LocationID": "VN82301",
+    "LocationName": "Thành phố Cà Mau"
+  }
+]

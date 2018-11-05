@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN4110911",
+    "LocationName": "Thị trấn Phú Đa"
+  },
+  {
+    "LocationID": "VN4110901",
+    "LocationName": "Thị trấn Thuận An"
+  },
+  {
+    "LocationID": "VN4110919",
+    "LocationName": "Xã Phú An"
+  },
+  {
+    "LocationID": "VN4110923",
+    "LocationName": "Xã Phú Diên"
+  },
+  {
+    "LocationID": "VN4110917",
+    "LocationName": "Xã Phú Dương"
+  },
+  {
+    "LocationID": "VN4110921",
+    "LocationName": "Xã Phú Hải"
+  },
+  {
+    "LocationID": "VN4110929",
+    "LocationName": "Xã Phú Hồ"
+  },
+  {
+    "LocationID": "VN4110903",
+    "LocationName": "Xã Phú Lương"
+  },
+  {
+    "LocationID": "VN4110905",
+    "LocationName": "Xã Phú Mậu"
+  },
+  {
+    "LocationID": "VN4110927",
+    "LocationName": "Xã Phú Mỹ"
+  },
+  {
+    "LocationID": "VN4110925",
+    "LocationName": "Xã Phú Thanh"
+  },
+  {
+    "LocationID": "VN4110915",
+    "LocationName": "Xã Phú Thuận"
+  },
+  {
+    "LocationID": "VN4110909",
+    "LocationName": "Xã Phú Thượng"
+  },
+  {
+    "LocationID": "VN4110907",
+    "LocationName": "Xã Phú Xuân"
+  },
+  {
+    "LocationID": "VN4110935",
+    "LocationName": "Xã Vinh An"
+  },
+  {
+    "LocationID": "VN4110939",
+    "LocationName": "Xã Vinh Hà"
+  },
+  {
+    "LocationID": "VN4110937",
+    "LocationName": "Xã Vinh Phú"
+  },
+  {
+    "LocationID": "VN4110913",
+    "LocationName": "Xã Vinh Thái"
+  },
+  {
+    "LocationID": "VN4110933",
+    "LocationName": "Xã Vinh Thanh"
+  },
+  {
+    "LocationID": "VN4110931",
+    "LocationName": "Xã Vinh Xuân"
+  }
+]

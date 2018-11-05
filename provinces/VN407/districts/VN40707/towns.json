@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN4070709",
+    "LocationName": "Xã Cảnh Dương"
+  },
+  {
+    "LocationID": "VN4070711",
+    "LocationName": "Xã Cảnh Hóa"
+  },
+  {
+    "LocationID": "VN4070745",
+    "LocationName": "Xã Phù Hóa"
+  },
+  {
+    "LocationID": "VN4070707",
+    "LocationName": "Xã Quảng Châu"
+  },
+  {
+    "LocationID": "VN4070725",
+    "LocationName": "Xã Quảng Đông"
+  },
+  {
+    "LocationID": "VN4070705",
+    "LocationName": "Xã Quảng Hợp"
+  },
+  {
+    "LocationID": "VN4070735",
+    "LocationName": "Xã Quảng Hưng"
+  },
+  {
+    "LocationID": "VN4070723",
+    "LocationName": "Xã Quảng Kim"
+  },
+  {
+    "LocationID": "VN4070739",
+    "LocationName": "Xã Quảng Liên"
+  },
+  {
+    "LocationID": "VN4070731",
+    "LocationName": "Xã Quảng Lưu"
+  },
+  {
+    "LocationID": "VN4070727",
+    "LocationName": "Xã Quảng Phú"
+  },
+  {
+    "LocationID": "VN4070743",
+    "LocationName": "Xã Quảng Phương"
+  },
+  {
+    "LocationID": "VN4070729",
+    "LocationName": "Xã Quảng Thạch"
+  },
+  {
+    "LocationID": "VN4070715",
+    "LocationName": "Xã Quảng Thanh"
+  },
+  {
+    "LocationID": "VN4070701",
+    "LocationName": "Xã Quảng Tiến"
+  },
+  {
+    "LocationID": "VN4070741",
+    "LocationName": "Xã Quảng Trường"
+  },
+  {
+    "LocationID": "VN4070733",
+    "LocationName": "Xã Quảng Tùng"
+  },
+  {
+    "LocationID": "VN4070737",
+    "LocationName": "Xã Quảng Xuân"
+  }
+]

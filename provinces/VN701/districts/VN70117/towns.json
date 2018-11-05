@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN7011717",
+    "LocationName": "Phường Hiệp Phú"
+  },
+  {
+    "LocationID": "VN7011721",
+    "LocationName": "Phường Long Bình"
+  },
+  {
+    "LocationID": "VN7011723",
+    "LocationName": "Phường Long Phước"
+  },
+  {
+    "LocationID": "VN7011719",
+    "LocationName": "Phường Long Thạnh Mỹ"
+  },
+  {
+    "LocationID": "VN7011709",
+    "LocationName": "Phường Long Trường"
+  },
+  {
+    "LocationID": "VN7011725",
+    "LocationName": "Phường Phú Hữu"
+  },
+  {
+    "LocationID": "VN7011713",
+    "LocationName": "Phường Phước Bình"
+  },
+  {
+    "LocationID": "VN7011701",
+    "LocationName": "Phường Phước Long A"
+  },
+  {
+    "LocationID": "VN7011703",
+    "LocationName": "Phường Phước Long B"
+  },
+  {
+    "LocationID": "VN7011715",
+    "LocationName": "Phường Tân Phú"
+  },
+  {
+    "LocationID": "VN7011705",
+    "LocationName": "Phường Tăng Nhơn Phú A"
+  },
+  {
+    "LocationID": "VN7011707",
+    "LocationName": "Phường Tăng Nhơn Phú B"
+  },
+  {
+    "LocationID": "VN7011711",
+    "LocationName": "Phường Trường Thạnh"
+  }
+]

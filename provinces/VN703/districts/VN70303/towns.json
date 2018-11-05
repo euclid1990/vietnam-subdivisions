@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN7030311",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN7030303",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN7030313",
+    "LocationName": "Phường B-lao"
+  },
+  {
+    "LocationID": "VN7030301",
+    "LocationName": "Phường Lộc Phát"
+  },
+  {
+    "LocationID": "VN7030315",
+    "LocationName": "Phường Lộc Sơn"
+  },
+  {
+    "LocationID": "VN7030309",
+    "LocationName": "Phường Lộc Tiến"
+  },
+  {
+    "LocationID": "VN7030321",
+    "LocationName": "Xã Đại Lào"
+  },
+  {
+    "LocationID": "VN7030305",
+    "LocationName": "Xã Đạm Bri"
+  },
+  {
+    "LocationID": "VN7030307",
+    "LocationName": "Xã Lộc Châu"
+  },
+  {
+    "LocationID": "VN7030319",
+    "LocationName": "Xã Lộc Nga"
+  },
+  {
+    "LocationID": "VN7030317",
+    "LocationName": "Xã Lộc Thanh"
+  }
+]

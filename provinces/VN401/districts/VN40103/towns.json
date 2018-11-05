@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN4010307",
+    "LocationName": "Phường Ba Đình"
+  },
+  {
+    "LocationID": "VN4010303",
+    "LocationName": "Phường Bắc Sơn"
+  },
+  {
+    "LocationID": "VN4010305",
+    "LocationName": "Phường Đông Sơn"
+  },
+  {
+    "LocationID": "VN4010301",
+    "LocationName": "Phường Lam Sơn"
+  },
+  {
+    "LocationID": "VN4010309",
+    "LocationName": "Phường Ngọc Trạo"
+  },
+  {
+    "LocationID": "VN4010315",
+    "LocationName": "Phường Phú Sơn"
+  },
+  {
+    "LocationID": "VN4010313",
+    "LocationName": "Xã Hà Lan"
+  },
+  {
+    "LocationID": "VN4010311",
+    "LocationName": "Xã Quang Trung"
+  }
+]

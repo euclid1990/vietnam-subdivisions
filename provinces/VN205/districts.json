@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN20509",
+    "LocationName": "Huyện Bắc Hà"
+  },
+  {
+    "LocationID": "VN20511",
+    "LocationName": "Huyện Bảo Thắng"
+  },
+  {
+    "LocationID": "VN20515",
+    "LocationName": "Huyện Bảo Yên"
+  },
+  {
+    "LocationID": "VN20507",
+    "LocationName": "Huyện Bát Xát"
+  },
+  {
+    "LocationID": "VN20505",
+    "LocationName": "Huyện Mường Khương"
+  },
+  {
+    "LocationID": "VN20513",
+    "LocationName": "Huyện Sa Pa"
+  },
+  {
+    "LocationID": "VN20521",
+    "LocationName": "Huyện Si Ma Cai"
+  },
+  {
+    "LocationID": "VN20519",
+    "LocationName": "Huyện Văn Bàn"
+  },
+  {
+    "LocationID": "VN20501",
+    "LocationName": "Thành phố Lào Cai"
+  }
+]

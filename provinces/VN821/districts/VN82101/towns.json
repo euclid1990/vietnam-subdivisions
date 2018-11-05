@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8210103",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8210101",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8210107",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8210109",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8210111",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN8210113",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN8210115",
+    "LocationName": "Phường Nhà Mát"
+  },
+  {
+    "LocationID": "VN8210119",
+    "LocationName": "Xã Hiệp Thành"
+  },
+  {
+    "LocationID": "VN8210105",
+    "LocationName": "Xã Vĩnh Trạch"
+  },
+  {
+    "LocationID": "VN8210117",
+    "LocationName": "Xã Vĩnh Trạch Đông"
+  }
+]

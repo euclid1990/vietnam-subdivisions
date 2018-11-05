@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN5111701",
+    "LocationName": "Thị trấn Cam Đức"
+  },
+  {
+    "LocationID": "VN5111721",
+    "LocationName": "Xã Cam An Bắc"
+  },
+  {
+    "LocationID": "VN5111723",
+    "LocationName": "Xã Cam An Nam"
+  },
+  {
+    "LocationID": "VN5111711",
+    "LocationName": "Xã Cam Hải Đông"
+  },
+  {
+    "LocationID": "VN5111713",
+    "LocationName": "Xã Cam Hải Tây"
+  },
+  {
+    "LocationID": "VN5111715",
+    "LocationName": "Xã Cam Hiệp Bắc"
+  },
+  {
+    "LocationID": "VN5111717",
+    "LocationName": "Xã Cam Hiệp Nam"
+  },
+  {
+    "LocationID": "VN5111709",
+    "LocationName": "Xã Cam Hòa"
+  },
+  {
+    "LocationID": "VN5111725",
+    "LocationName": "Xã Cam Phước Tây"
+  },
+  {
+    "LocationID": "VN5111707",
+    "LocationName": "Xã Cam Tân"
+  },
+  {
+    "LocationID": "VN5111719",
+    "LocationName": "Xã Cam Thành Bắc"
+  },
+  {
+    "LocationID": "VN5111727",
+    "LocationName": "Xã Sơn Tân"
+  },
+  {
+    "LocationID": "VN5111703",
+    "LocationName": "Xã Suối Cát"
+  },
+  {
+    "LocationID": "VN5111705",
+    "LocationName": "Xã Suối Tân"
+  }
+]

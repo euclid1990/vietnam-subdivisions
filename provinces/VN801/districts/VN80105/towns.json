@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8010503",
+    "LocationName": "Thị trấn Vĩnh Hưng"
+  },
+  {
+    "LocationID": "VN8010507",
+    "LocationName": "Xã Hưng Điền A"
+  },
+  {
+    "LocationID": "VN8010509",
+    "LocationName": "Xã Khánh Hưng"
+  },
+  {
+    "LocationID": "VN8010505",
+    "LocationName": "Xã Thái Bình Trung"
+  },
+  {
+    "LocationID": "VN8010511",
+    "LocationName": "Xã Thái Trị"
+  },
+  {
+    "LocationID": "VN8010517",
+    "LocationName": "Xã Tuyên Bình"
+  },
+  {
+    "LocationID": "VN8010519",
+    "LocationName": "Xã Tuyên Bình Tây"
+  },
+  {
+    "LocationID": "VN8010513",
+    "LocationName": "Xã Vĩnh Bình"
+  },
+  {
+    "LocationID": "VN8010515",
+    "LocationName": "Xã Vĩnh Thuận"
+  },
+  {
+    "LocationID": "VN8010501",
+    "LocationName": "Xã Vĩnh Trị"
+  }
+]

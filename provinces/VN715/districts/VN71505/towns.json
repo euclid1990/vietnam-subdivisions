@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN7150515",
+    "LocationName": "Thị trấn Chợ Lầu"
+  },
+  {
+    "LocationID": "VN7150509",
+    "LocationName": "Thị trấn Lương Sơn"
+  },
+  {
+    "LocationID": "VN7150501",
+    "LocationName": "Xã Bình An"
+  },
+  {
+    "LocationID": "VN7150533",
+    "LocationName": "Xã Bình Tân"
+  },
+  {
+    "LocationID": "VN7150507",
+    "LocationName": "Xã Hải Ninh"
+  },
+  {
+    "LocationID": "VN7150535",
+    "LocationName": "Xã Hòa Thắng"
+  },
+  {
+    "LocationID": "VN7150513",
+    "LocationName": "Xã Hồng Phong"
+  },
+  {
+    "LocationID": "VN7150531",
+    "LocationName": "Xã Hồng Thái"
+  },
+  {
+    "LocationID": "VN7150519",
+    "LocationName": "Xã Phan Điền"
+  },
+  {
+    "LocationID": "VN7150511",
+    "LocationName": "Xã Phan Hiệp"
+  },
+  {
+    "LocationID": "VN7150527",
+    "LocationName": "Xã Phan Hòa"
+  },
+  {
+    "LocationID": "VN7150517",
+    "LocationName": "Xã Phan Lâm"
+  },
+  {
+    "LocationID": "VN7150503",
+    "LocationName": "Xã Phan Rí Thành"
+  },
+  {
+    "LocationID": "VN7150505",
+    "LocationName": "Xã Phan Sơn"
+  },
+  {
+    "LocationID": "VN7150529",
+    "LocationName": "Xã Phan Thanh"
+  },
+  {
+    "LocationID": "VN7150523",
+    "LocationName": "Xã Phan Tiến"
+  },
+  {
+    "LocationID": "VN7150525",
+    "LocationName": "Xã Sông Bình"
+  },
+  {
+    "LocationID": "VN7150521",
+    "LocationName": "Xã Sông Lũy"
+  }
+]

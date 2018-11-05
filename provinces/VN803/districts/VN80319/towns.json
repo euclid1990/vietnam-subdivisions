@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN8031911",
+    "LocationName": "Thị trấn Lai Vung"
+  },
+  {
+    "LocationID": "VN8031903",
+    "LocationName": "Xã Định Hòa"
+  },
+  {
+    "LocationID": "VN8031919",
+    "LocationName": "Xã Hòa Long"
+  },
+  {
+    "LocationID": "VN8031915",
+    "LocationName": "Xã Hòa Thành"
+  },
+  {
+    "LocationID": "VN8031907",
+    "LocationName": "Xã Long Hậu"
+  },
+  {
+    "LocationID": "VN8031909",
+    "LocationName": "Xã Long Thắng"
+  },
+  {
+    "LocationID": "VN8031901",
+    "LocationName": "Xã Phong Hòa"
+  },
+  {
+    "LocationID": "VN8031913",
+    "LocationName": "Xã Tân Dương"
+  },
+  {
+    "LocationID": "VN8031905",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8031917",
+    "LocationName": "Xã Tân Phước"
+  },
+  {
+    "LocationID": "VN8031921",
+    "LocationName": "Xã Tân Thành"
+  },
+  {
+    "LocationID": "VN8031923",
+    "LocationName": "Xã Vĩnh Thới"
+  }
+]

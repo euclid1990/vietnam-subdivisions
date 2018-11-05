@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8010909",
+    "LocationName": "Thị trấn Tân Thạnh"
+  },
+  {
+    "LocationID": "VN8010911",
+    "LocationName": "Xã Bắc Hòa"
+  },
+  {
+    "LocationID": "VN8010917",
+    "LocationName": "Xã Hậu Thạnh Đông"
+  },
+  {
+    "LocationID": "VN8010913",
+    "LocationName": "Xã Hậu Thạnh Tây"
+  },
+  {
+    "LocationID": "VN8010919",
+    "LocationName": "Xã Kiến Bình"
+  },
+  {
+    "LocationID": "VN8010901",
+    "LocationName": "Xã Nhơn Hòa"
+  },
+  {
+    "LocationID": "VN8010903",
+    "LocationName": "Xã Nhơn Hòa Lập"
+  },
+  {
+    "LocationID": "VN8010925",
+    "LocationName": "Xã Nhơn Ninh"
+  },
+  {
+    "LocationID": "VN8010921",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN8010907",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8010915",
+    "LocationName": "Xã Tân Lập"
+  },
+  {
+    "LocationID": "VN8010923",
+    "LocationName": "Xã Tân Ninh"
+  },
+  {
+    "LocationID": "VN8010905",
+    "LocationName": "Xã Tân Thành"
+  }
+]

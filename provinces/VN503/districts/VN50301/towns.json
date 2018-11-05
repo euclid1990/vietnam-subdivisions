@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN5030117",
+    "LocationName": "Phường An Mỹ"
+  },
+  {
+    "LocationID": "VN5030123",
+    "LocationName": "Phường An Phú"
+  },
+  {
+    "LocationID": "VN5030107",
+    "LocationName": "Phường An Sơn"
+  },
+  {
+    "LocationID": "VN5030119",
+    "LocationName": "Phường An Xuân"
+  },
+  {
+    "LocationID": "VN5030101",
+    "LocationName": "Phường Hòa Hương"
+  },
+  {
+    "LocationID": "VN5030133",
+    "LocationName": "Phường Hòa Thuận"
+  },
+  {
+    "LocationID": "VN5030105",
+    "LocationName": "Phường Phước Hòa"
+  },
+  {
+    "LocationID": "VN5030115",
+    "LocationName": "Phường Tân Thạnh"
+  },
+  {
+    "LocationID": "VN5030121",
+    "LocationName": "Phường Trường Xuân"
+  },
+  {
+    "LocationID": "VN5030139",
+    "LocationName": "Xã Tam Ngọc"
+  },
+  {
+    "LocationID": "VN5030131",
+    "LocationName": "Xã Tam Phú"
+  },
+  {
+    "LocationID": "VN5030109",
+    "LocationName": "Xã Tam Thăng"
+  },
+  {
+    "LocationID": "VN5030125",
+    "LocationName": "Xã Tam Thanh"
+  }
+]

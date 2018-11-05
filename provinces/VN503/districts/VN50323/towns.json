@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN5032303",
+    "LocationName": "Thị trấn Khâm Đức"
+  },
+  {
+    "LocationID": "VN5032315",
+    "LocationName": "Xã Phước Chánh"
+  },
+  {
+    "LocationID": "VN5032317",
+    "LocationName": "Xã Phước Công"
+  },
+  {
+    "LocationID": "VN5032301",
+    "LocationName": "Xã Phước Đức"
+  },
+  {
+    "LocationID": "VN5032311",
+    "LocationName": "Xã Phước Hiệp"
+  },
+  {
+    "LocationID": "VN5032323",
+    "LocationName": "Xã Phước Hòa"
+  },
+  {
+    "LocationID": "VN5032319",
+    "LocationName": "Xã Phước Kim"
+  },
+  {
+    "LocationID": "VN5032307",
+    "LocationName": "Xã Phước Lộc"
+  },
+  {
+    "LocationID": "VN5032313",
+    "LocationName": "Xã Phước Mỹ"
+  },
+  {
+    "LocationID": "VN5032305",
+    "LocationName": "Xã Phước Năng"
+  },
+  {
+    "LocationID": "VN5032321",
+    "LocationName": "Xã Phước Thành"
+  },
+  {
+    "LocationID": "VN5032309",
+    "LocationName": "Xã Phước Xuân"
+  }
+]

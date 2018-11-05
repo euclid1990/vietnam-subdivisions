@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN5090307",
+    "LocationName": "Thị trấn La Hai"
+  },
+  {
+    "LocationID": "VN5090309",
+    "LocationName": "Xã Đa Lộc"
+  },
+  {
+    "LocationID": "VN5090311",
+    "LocationName": "Xã Phú Mỡ"
+  },
+  {
+    "LocationID": "VN5090303",
+    "LocationName": "Xã Xuân Lãnh"
+  },
+  {
+    "LocationID": "VN5090313",
+    "LocationName": "Xã Xuân Long"
+  },
+  {
+    "LocationID": "VN5090321",
+    "LocationName": "Xã Xuân Phước"
+  },
+  {
+    "LocationID": "VN5090315",
+    "LocationName": "Xã Xuân Quang 1"
+  },
+  {
+    "LocationID": "VN5090305",
+    "LocationName": "Xã Xuân Quang 2"
+  },
+  {
+    "LocationID": "VN5090301",
+    "LocationName": "Xã Xuân Quang 3"
+  },
+  {
+    "LocationID": "VN5090317",
+    "LocationName": "Xã Xuân Sơn Bắc"
+  },
+  {
+    "LocationID": "VN5090319",
+    "LocationName": "Xã Xuân Sơn Nam"
+  }
+]

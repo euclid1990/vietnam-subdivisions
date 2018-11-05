@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN40909",
+    "LocationName": "Huyện Cam Lộ"
+  },
+  {
+    "LocationID": "VN40917",
+    "LocationName": "Huyện Đa Krông"
+  },
+  {
+    "LocationID": "VN40919",
+    "LocationName": "Huyện Đảo Cồn Cỏ"
+  },
+  {
+    "LocationID": "VN40907",
+    "LocationName": "Huyện Gio Linh"
+  },
+  {
+    "LocationID": "VN40913",
+    "LocationName": "Huyện Hải Lăng"
+  },
+  {
+    "LocationID": "VN40915",
+    "LocationName": "Huyện Hướng Hoá"
+  },
+  {
+    "LocationID": "VN40911",
+    "LocationName": "Huyện Triệu Phong"
+  },
+  {
+    "LocationID": "VN40905",
+    "LocationName": "Huyện Vĩnh Linh"
+  },
+  {
+    "LocationID": "VN40901",
+    "LocationName": "Thành phố Đông Hà"
+  },
+  {
+    "LocationID": "VN40903",
+    "LocationName": "Thị xã Quảng Trị"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN5050703",
+    "LocationName": "Thị trấn Trà Xuân"
+  },
+  {
+    "LocationID": "VN5050701",
+    "LocationName": "Xã Trà Bình"
+  },
+  {
+    "LocationID": "VN5050707",
+    "LocationName": "Xã Trà Bùi"
+  },
+  {
+    "LocationID": "VN5050709",
+    "LocationName": "Xã Trà Giang"
+  },
+  {
+    "LocationID": "VN5050713",
+    "LocationName": "Xã Trà Hiệp"
+  },
+  {
+    "LocationID": "VN5050715",
+    "LocationName": "Xã Trà Lâm"
+  },
+  {
+    "LocationID": "VN5050705",
+    "LocationName": "Xã Trà Phú"
+  },
+  {
+    "LocationID": "VN5050719",
+    "LocationName": "Xã Trà Sơn"
+  },
+  {
+    "LocationID": "VN5050717",
+    "LocationName": "Xã Trà Tân"
+  },
+  {
+    "LocationID": "VN5050711",
+    "LocationName": "Xã Trà Thủy"
+  }
+]

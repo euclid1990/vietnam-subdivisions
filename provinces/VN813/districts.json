@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN81315",
+    "LocationName": "Huyện An Biên"
+  },
+  {
+    "LocationID": "VN81317",
+    "LocationName": "Huyện An Minh"
+  },
+  {
+    "LocationID": "VN81309",
+    "LocationName": "Huyện Châu Thành"
+  },
+  {
+    "LocationID": "VN81304",
+    "LocationName": "Huyện Giang Thành"
+  },
+  {
+    "LocationID": "VN81311",
+    "LocationName": "Huyện Giồng Riềng"
+  },
+  {
+    "LocationID": "VN81313",
+    "LocationName": "Huyện Gò Quao"
+  },
+  {
+    "LocationID": "VN81305",
+    "LocationName": "Huyện Hòn Đất"
+  },
+  {
+    "LocationID": "VN81323",
+    "LocationName": "Huyện Kiên Hải"
+  },
+  {
+    "LocationID": "VN81303",
+    "LocationName": "Huyện Kiên Lương"
+  },
+  {
+    "LocationID": "VN81321",
+    "LocationName": "Huyện Phú Quốc"
+  },
+  {
+    "LocationID": "VN81307",
+    "LocationName": "Huyện Tân Hiệp"
+  },
+  {
+    "LocationID": "VN81327",
+    "LocationName": "Huyện U Minh Thượng"
+  },
+  {
+    "LocationID": "VN81319",
+    "LocationName": "Huyện Vĩnh Thuận"
+  },
+  {
+    "LocationID": "VN81301",
+    "LocationName": "Thành phố Rạch Giá"
+  },
+  {
+    "LocationID": "VN81325",
+    "LocationName": "Thị xã Hà Tiên"
+  }
+]

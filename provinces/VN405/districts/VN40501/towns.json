@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN4050121",
+    "LocationName": " Phường Thạch Quý"
+  },
+  {
+    "LocationID": "VN4050123",
+    "LocationName": " Phường Văn Yên"
+  },
+  {
+    "LocationID": "VN4050113",
+    "LocationName": "Phường Bắc Hà"
+  },
+  {
+    "LocationID": "VN4050117",
+    "LocationName": "Phường Đại Nài"
+  },
+  {
+    "LocationID": "VN4050105",
+    "LocationName": "Phường Hà Huy Tập"
+  },
+  {
+    "LocationID": "VN4050103",
+    "LocationName": "Phường Nam Hà"
+  },
+  {
+    "LocationID": "VN4050131",
+    "LocationName": "Phường Nguyễn Du"
+  },
+  {
+    "LocationID": "VN4050115",
+    "LocationName": "Phường Tân Giang"
+  },
+  {
+    "LocationID": "VN4050101",
+    "LocationName": "Phường Thạch Linh"
+  },
+  {
+    "LocationID": "VN4050111",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN4050109",
+    "LocationName": "Xã Thạch Bình"
+  },
+  {
+    "LocationID": "VN4050127",
+    "LocationName": "Xã Thạch Đồng"
+  },
+  {
+    "LocationID": "VN4050107",
+    "LocationName": "Xã Thạch Hạ"
+  },
+  {
+    "LocationID": "VN4050129",
+    "LocationName": "Xã Thạch Hưng"
+  },
+  {
+    "LocationID": "VN4050125",
+    "LocationName": "Xã Thạch Môn"
+  },
+  {
+    "LocationID": "VN4050119",
+    "LocationName": "Xã Thạch Trung"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "LocationID": "VN2230111",
+    "LocationName": "Phường Đại Phúc"
+  },
+  {
+    "LocationID": "VN2230103",
+    "LocationName": "Phường Đáp Cầu"
+  },
+  {
+    "LocationID": "VN2230137",
+    "LocationName": "Phường Hạp Lĩnh"
+  },
+  {
+    "LocationID": "VN2230135",
+    "LocationName": "Phường Khắc Niệm"
+  },
+  {
+    "LocationID": "VN2230127",
+    "LocationName": "Phường Khúc Xuyên"
+  },
+  {
+    "LocationID": "VN2230105",
+    "LocationName": "Phường Kinh Bắc"
+  },
+  {
+    "LocationID": "VN2230113",
+    "LocationName": "Phường Ninh Xá"
+  },
+  {
+    "LocationID": "VN2230121",
+    "LocationName": "Phường Phong Khê"
+  },
+  {
+    "LocationID": "VN2230115",
+    "LocationName": "Phường Suối Hoa"
+  },
+  {
+    "LocationID": "VN2230117",
+    "LocationName": "Phường Thị Cầu"
+  },
+  {
+    "LocationID": "VN2230109",
+    "LocationName": "Phường Tiền An"
+  },
+  {
+    "LocationID": "VN2230125",
+    "LocationName": "Phường Vạn An"
+  },
+  {
+    "LocationID": "VN2230131",
+    "LocationName": "Phường Vân Dương"
+  },
+  {
+    "LocationID": "VN2230107",
+    "LocationName": "Phường Vệ An"
+  },
+  {
+    "LocationID": "VN2230119",
+    "LocationName": "Phường Võ Cường"
+  },
+  {
+    "LocationID": "VN2230101",
+    "LocationName": "Phường Vũ Ninh"
+  },
+  {
+    "LocationID": "VN2230123",
+    "LocationName": "Xã Hòa Long"
+  },
+  {
+    "LocationID": "VN2230129",
+    "LocationName": "Xã Kim Chân"
+  },
+  {
+    "LocationID": "VN2230133",
+    "LocationName": "Xã Nam Sơn"
+  }
+]

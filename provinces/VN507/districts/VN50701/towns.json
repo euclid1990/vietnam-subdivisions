@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN5070129",
+    "LocationName": "Phường Bùi Thị Xuân"
+  },
+  {
+    "LocationID": "VN5070113",
+    "LocationName": "Phường Đống Đa"
+  },
+  {
+    "LocationID": "VN5070109",
+    "LocationName": "Phường Ghềnh Ráng"
+  },
+  {
+    "LocationID": "VN5070117",
+    "LocationName": "Phường Hải Cảng"
+  },
+  {
+    "LocationID": "VN5070121",
+    "LocationName": "Phường Lê Hồng Phong"
+  },
+  {
+    "LocationID": "VN5070127",
+    "LocationName": "Phường Lê Lợi"
+  },
+  {
+    "LocationID": "VN5070107",
+    "LocationName": "Phường Lý Thường Kiệt"
+  },
+  {
+    "LocationID": "VN5070125",
+    "LocationName": "Phường Ngô Mây"
+  },
+  {
+    "LocationID": "VN5070131",
+    "LocationName": "Phường Nguyễn Văn Cừ"
+  },
+  {
+    "LocationID": "VN5070101",
+    "LocationName": "Phường Nhơn Bình"
+  },
+  {
+    "LocationID": "VN5070111",
+    "LocationName": "Phường Nhơn Phú"
+  },
+  {
+    "LocationID": "VN5070119",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN5070105",
+    "LocationName": "Phường Thị Nại"
+  },
+  {
+    "LocationID": "VN5070123",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN5070103",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN5070115",
+    "LocationName": "Phường Trần Quang Diệu"
+  },
+  {
+    "LocationID": "VN5070139",
+    "LocationName": "Xã Nhơn Châu"
+  },
+  {
+    "LocationID": "VN5070137",
+    "LocationName": "Xã Nhơn Hải"
+  },
+  {
+    "LocationID": "VN5070135",
+    "LocationName": "Xã Nhơn Hội"
+  },
+  {
+    "LocationID": "VN5070133",
+    "LocationName": "Xã Nhơn Lý"
+  },
+  {
+    "LocationID": "VN5070141",
+    "LocationName": "Xã Phước Mỹ"
+  }
+]

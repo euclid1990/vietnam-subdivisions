@@ -1,0 +1,102 @@
+[
+  {
+    "LocationID": "VN1130101",
+    "LocationName": "Phường Bà Triệu"
+  },
+  {
+    "LocationID": "VN1130115",
+    "LocationName": "Phường Cửa Bắc"
+  },
+  {
+    "LocationID": "VN1130137",
+    "LocationName": "Phường Cửa Nam"
+  },
+  {
+    "LocationID": "VN1130147",
+    "LocationName": "Phường Hạ Long"
+  },
+  {
+    "LocationID": "VN1130133",
+    "LocationName": "Phường Lộc Hạ"
+  },
+  {
+    "LocationID": "VN1130135",
+    "LocationName": "Phường Lộc Vượng"
+  },
+  {
+    "LocationID": "VN1130129",
+    "LocationName": "Phường Năng Tĩnh"
+  },
+  {
+    "LocationID": "VN1130123",
+    "LocationName": "Phường Ngô Quyền"
+  },
+  {
+    "LocationID": "VN1130117",
+    "LocationName": "Phường Nguyễn Du"
+  },
+  {
+    "LocationID": "VN1130121",
+    "LocationName": "Phường Phan Đình Phùng"
+  },
+  {
+    "LocationID": "VN1130113",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1130105",
+    "LocationName": "Phường Thống Nhất"
+  },
+  {
+    "LocationID": "VN1130127",
+    "LocationName": "Phường Trần Đăng Ninh"
+  },
+  {
+    "LocationID": "VN1130125",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1130103",
+    "LocationName": "Phường Trần Quang Khải"
+  },
+  {
+    "LocationID": "VN1130149",
+    "LocationName": "Phường Trần Tế Xương"
+  },
+  {
+    "LocationID": "VN1130119",
+    "LocationName": "Phường Trường Thi"
+  },
+  {
+    "LocationID": "VN1130131",
+    "LocationName": "Phường Văn Miếu"
+  },
+  {
+    "LocationID": "VN1130111",
+    "LocationName": "Phường Vị Hoàng"
+  },
+  {
+    "LocationID": "VN1130145",
+    "LocationName": "Phường Vị Xuyên"
+  },
+  {
+    "LocationID": "VN1130143",
+    "LocationName": "Xã Lộc An"
+  },
+  {
+    "LocationID": "VN1130107",
+    "LocationName": "Xã Lộc Hòa"
+  },
+  {
+    "LocationID": "VN1130141",
+    "LocationName": "Xã Mỹ Xá"
+  },
+  {
+    "LocationID": "VN1130139",
+    "LocationName": "Xã Nam Phong"
+  },
+  {
+    "LocationID": "VN1130109",
+    "LocationName": "Xã Nam Vân"
+  }
+]

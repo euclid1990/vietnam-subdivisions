@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN6050701",
+    "LocationName": "Thị trấn Krông Năng"
+  },
+  {
+    "LocationID": "VN6050703",
+    "LocationName": "Xã Cư Klông"
+  },
+  {
+    "LocationID": "VN6050705",
+    "LocationName": "Xã ĐLiê Ya"
+  },
+  {
+    "LocationID": "VN6050723",
+    "LocationName": "Xã Ea Đah"
+  },
+  {
+    "LocationID": "VN6050709",
+    "LocationName": "Xã Ea Hồ"
+  },
+  {
+    "LocationID": "VN6050721",
+    "LocationName": "Xã Ea Púk"
+  },
+  {
+    "LocationID": "VN6050719",
+    "LocationName": "Xã Ea Tam"
+  },
+  {
+    "LocationID": "VN6050713",
+    "LocationName": "Xã Ea Tân"
+  },
+  {
+    "LocationID": "VN6050717",
+    "LocationName": "Xã Ea Tóh"
+  },
+  {
+    "LocationID": "VN6050715",
+    "LocationName": "Xã Phú Lộc"
+  },
+  {
+    "LocationID": "VN6050711",
+    "LocationName": "Xã Phú Xuân"
+  },
+  {
+    "LocationID": "VN6050707",
+    "LocationName": "Xã Tam Giang"
+  }
+]

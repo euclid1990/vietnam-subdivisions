@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN80505",
+    "LocationName": "Huyện An Phú"
+  },
+  {
+    "LocationID": "VN80511",
+    "LocationName": "Huyện Châu Phú"
+  },
+  {
+    "LocationID": "VN80519",
+    "LocationName": "Huyện Châu Thành"
+  },
+  {
+    "LocationID": "VN80517",
+    "LocationName": "Huyện Chợ Mới"
+  },
+  {
+    "LocationID": "VN80509",
+    "LocationName": "Huyện Phú Tân"
+  },
+  {
+    "LocationID": "VN80521",
+    "LocationName": "Huyện Thoại Sơn"
+  },
+  {
+    "LocationID": "VN80513",
+    "LocationName": "Huyện Tịnh Biên"
+  },
+  {
+    "LocationID": "VN80515",
+    "LocationName": "Huyện Tri Tôn"
+  },
+  {
+    "LocationID": "VN80503",
+    "LocationName": "Thành phố Châu Đốc"
+  },
+  {
+    "LocationID": "VN80501",
+    "LocationName": "Thành phố Long Xuyên "
+  },
+  {
+    "LocationID": "VN80507",
+    "LocationName": "Thị xã Tân Châu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN7091307",
+    "LocationName": "Thị trấn Bến Cầu"
+  },
+  {
+    "LocationID": "VN7091317",
+    "LocationName": "Xã An Thạnh"
+  },
+  {
+    "LocationID": "VN7091305",
+    "LocationName": "Xã Lợi Thuận"
+  },
+  {
+    "LocationID": "VN7091309",
+    "LocationName": "Xã Long Chữ"
+  },
+  {
+    "LocationID": "VN7091311",
+    "LocationName": "Xã Long Giang"
+  },
+  {
+    "LocationID": "VN7091313",
+    "LocationName": "Xã Long Khánh"
+  },
+  {
+    "LocationID": "VN7091303",
+    "LocationName": "Xã Long Phước"
+  },
+  {
+    "LocationID": "VN7091315",
+    "LocationName": "Xã Long Thuận"
+  },
+  {
+    "LocationID": "VN7091301",
+    "LocationName": "Xã Tiên Thuận"
+  }
+]

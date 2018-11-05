@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN1030501",
+    "LocationName": "Phường An Biên"
+  },
+  {
+    "LocationID": "VN1030517",
+    "LocationName": "Phường An Dương"
+  },
+  {
+    "LocationID": "VN1030505",
+    "LocationName": "Phường Cát Dài"
+  },
+  {
+    "LocationID": "VN1030509",
+    "LocationName": "Phường Đông Hải"
+  },
+  {
+    "LocationID": "VN1030523",
+    "LocationName": "Phường Dư Hàng"
+  },
+  {
+    "LocationID": "VN1030511",
+    "LocationName": "Phường Dư Hàng Kênh"
+  },
+  {
+    "LocationID": "VN1030525",
+    "LocationName": "Phường Hàng Kênh"
+  },
+  {
+    "LocationID": "VN1030519",
+    "LocationName": "Phường Hồ Nam"
+  },
+  {
+    "LocationID": "VN1030529",
+    "LocationName": "Phường Kênh Dương"
+  },
+  {
+    "LocationID": "VN1030515",
+    "LocationName": "Phường Lam Sơn"
+  },
+  {
+    "LocationID": "VN1030503",
+    "LocationName": "Phường Nghĩa Xá"
+  },
+  {
+    "LocationID": "VN1030527",
+    "LocationName": "Phường Niệm Nghĩa"
+  },
+  {
+    "LocationID": "VN1030521",
+    "LocationName": "Phường Trại Cau"
+  },
+  {
+    "LocationID": "VN1030507",
+    "LocationName": "Phường Trần Nguyên Hãn"
+  },
+  {
+    "LocationID": "VN1030513",
+    "LocationName": "Phường Vĩnh Niệm"
+  }
+]

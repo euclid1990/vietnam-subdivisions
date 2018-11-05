@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN8011505",
+    "LocationName": "Thị trấn Đức Hòa"
+  },
+  {
+    "LocationID": "VN8011515",
+    "LocationName": "Thị trấn Hậu Nghĩa"
+  },
+  {
+    "LocationID": "VN8011517",
+    "LocationName": "Thị trấn Hiệp Hòa"
+  },
+  {
+    "LocationID": "VN8011521",
+    "LocationName": "Xã An Ninh Đông"
+  },
+  {
+    "LocationID": "VN8011523",
+    "LocationName": "Xã An Ninh Tây"
+  },
+  {
+    "LocationID": "VN8011539",
+    "LocationName": "Xã Đức Hòa Đông"
+  },
+  {
+    "LocationID": "VN8011503",
+    "LocationName": "Xã Đức Hòa Hạ"
+  },
+  {
+    "LocationID": "VN8011531",
+    "LocationName": "Xã Đức Hòa Thượng"
+  },
+  {
+    "LocationID": "VN8011527",
+    "LocationName": "Xã Đức Lập Hạ"
+  },
+  {
+    "LocationID": "VN8011525",
+    "LocationName": "Xã Đức Lập Thượng"
+  },
+  {
+    "LocationID": "VN8011507",
+    "LocationName": "Xã Hiệp Hòa"
+  },
+  {
+    "LocationID": "VN8011535",
+    "LocationName": "Xã Hòa Khánh Đông"
+  },
+  {
+    "LocationID": "VN8011537",
+    "LocationName": "Xã Hòa Khánh Nam"
+  },
+  {
+    "LocationID": "VN8011533",
+    "LocationName": "Xã Hòa Khánh Tây"
+  },
+  {
+    "LocationID": "VN8011513",
+    "LocationName": "Xã Hựu Thạnh"
+  },
+  {
+    "LocationID": "VN8011519",
+    "LocationName": "Xã Lộc Giang"
+  },
+  {
+    "LocationID": "VN8011509",
+    "LocationName": "Xã Mỹ Hạnh Bắc"
+  },
+  {
+    "LocationID": "VN8011511",
+    "LocationName": "Xã Mỹ Hạnh Nam"
+  },
+  {
+    "LocationID": "VN8011501",
+    "LocationName": "Xã Tân Mỹ"
+  },
+  {
+    "LocationID": "VN8011529",
+    "LocationName": "Xã Tân Phú"
+  }
+]

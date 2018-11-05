@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7013417",
+    "LocationName": "Phường An Lạc"
+  },
+  {
+    "LocationID": "VN7013419",
+    "LocationName": "Phường An Lạc A"
+  },
+  {
+    "LocationID": "VN7013401",
+    "LocationName": "Phường Bình Hưng Hòa"
+  },
+  {
+    "LocationID": "VN7013403",
+    "LocationName": "Phường Bình Hưng Hòa A"
+  },
+  {
+    "LocationID": "VN7013405",
+    "LocationName": "Phường Bình Hưng Hòa B"
+  },
+  {
+    "LocationID": "VN7013407",
+    "LocationName": "Phường Bình Trị Đông"
+  },
+  {
+    "LocationID": "VN7013409",
+    "LocationName": "Phường Bình Trị Đông A"
+  },
+  {
+    "LocationID": "VN7013411",
+    "LocationName": "Phường Bình Trị Đông B"
+  },
+  {
+    "LocationID": "VN7013413",
+    "LocationName": "Phường Tân Tạo"
+  },
+  {
+    "LocationID": "VN7013415",
+    "LocationName": "Phường Tân Tạo A"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN4111109",
+    "LocationName": "Phường Phú Bài"
+  },
+  {
+    "LocationID": "VN4111101",
+    "LocationName": "Phường Thủy Châu"
+  },
+  {
+    "LocationID": "VN4111113",
+    "LocationName": "Phường Thủy Dương"
+  },
+  {
+    "LocationID": "VN4111105",
+    "LocationName": "Phường Thủy Lương"
+  },
+  {
+    "LocationID": "VN4111115",
+    "LocationName": "Phường Thủy Phương"
+  },
+  {
+    "LocationID": "VN4111123",
+    "LocationName": "Xã Dương Hòa"
+  },
+  {
+    "LocationID": "VN4111107",
+    "LocationName": "Xã Phú Sơn"
+  },
+  {
+    "LocationID": "VN4111117",
+    "LocationName": "Xã Thủy Bằng"
+  },
+  {
+    "LocationID": "VN4111121",
+    "LocationName": "Xã Thủy Phù"
+  },
+  {
+    "LocationID": "VN4111119",
+    "LocationName": "Xã Thủy Tân"
+  },
+  {
+    "LocationID": "VN4111103",
+    "LocationName": "Xã Thủy Thanh"
+  },
+  {
+    "LocationID": "VN4111111",
+    "LocationName": "Xã Thủy Vân"
+  }
+]

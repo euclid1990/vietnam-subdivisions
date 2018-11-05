@@ -1,0 +1,126 @@
+[
+  {
+    "LocationID": "VN2110929",
+    "LocationName": "Thị trấn Tân Bình"
+  },
+  {
+    "LocationID": "VN2110907",
+    "LocationName": "Xã Chân Sơn"
+  },
+  {
+    "LocationID": "VN2110959",
+    "LocationName": "Xã Chiêu Yên"
+  },
+  {
+    "LocationID": "VN2110903",
+    "LocationName": "Xã Công Đa"
+  },
+  {
+    "LocationID": "VN2110963",
+    "LocationName": "Xã Đạo Viện"
+  },
+  {
+    "LocationID": "VN2110925",
+    "LocationName": "Xã Đội Bình"
+  },
+  {
+    "LocationID": "VN2110969",
+    "LocationName": "Xã Hoàng Khai"
+  },
+  {
+    "LocationID": "VN2110961",
+    "LocationName": "Xã Hùng Lợi"
+  },
+  {
+    "LocationID": "VN2110933",
+    "LocationName": "Xã Kiến Thiết"
+  },
+  {
+    "LocationID": "VN2110909",
+    "LocationName": "Xã Kim Phú"
+  },
+  {
+    "LocationID": "VN2110965",
+    "LocationName": "Xã Kim Quan"
+  },
+  {
+    "LocationID": "VN2110927",
+    "LocationName": "Xã Lang Quán"
+  },
+  {
+    "LocationID": "VN2110931",
+    "LocationName": "Xã Lực Hành"
+  },
+  {
+    "LocationID": "VN2110967",
+    "LocationName": "Xã Mỹ Bằng"
+  },
+  {
+    "LocationID": "VN2110955",
+    "LocationName": "Xã Nhữ Hán"
+  },
+  {
+    "LocationID": "VN2110971",
+    "LocationName": "Xã Nhữ Khê"
+  },
+  {
+    "LocationID": "VN2110915",
+    "LocationName": "Xã Phú Lâm"
+  },
+  {
+    "LocationID": "VN2110901",
+    "LocationName": "Xã Phú Thịnh"
+  },
+  {
+    "LocationID": "VN2110941",
+    "LocationName": "Xã Phúc Ninh"
+  },
+  {
+    "LocationID": "VN2110957",
+    "LocationName": "Xã Quí Quân"
+  },
+  {
+    "LocationID": "VN2110947",
+    "LocationName": "Xã Tân Long"
+  },
+  {
+    "LocationID": "VN2110943",
+    "LocationName": "Xã Tân Tiến"
+  },
+  {
+    "LocationID": "VN2110953",
+    "LocationName": "Xã Thái Bình"
+  },
+  {
+    "LocationID": "VN2110949",
+    "LocationName": "Xã Thắng Quân"
+  },
+  {
+    "LocationID": "VN2110911",
+    "LocationName": "Xã Tiến Bộ"
+  },
+  {
+    "LocationID": "VN2110935",
+    "LocationName": "Xã Trung Minh"
+  },
+  {
+    "LocationID": "VN2110905",
+    "LocationName": "Xã Trung Môn"
+  },
+  {
+    "LocationID": "VN2110951",
+    "LocationName": "Xã Trung Sơn"
+  },
+  {
+    "LocationID": "VN2110937",
+    "LocationName": "Xã Trung Trực"
+  },
+  {
+    "LocationID": "VN2110945",
+    "LocationName": "Xã Tứ Quận"
+  },
+  {
+    "LocationID": "VN2110939",
+    "LocationName": "Xã Xuân Vân"
+  }
+]

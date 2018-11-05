@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN2251501",
+    "LocationName": "Thị trấn Ba Chẽ"
+  },
+  {
+    "LocationID": "VN2251513",
+    "LocationName": "Xã Đạp Thanh"
+  },
+  {
+    "LocationID": "VN2251511",
+    "LocationName": "Xã Đồn Đạc"
+  },
+  {
+    "LocationID": "VN2251509",
+    "LocationName": "Xã Lương Mông"
+  },
+  {
+    "LocationID": "VN2251515",
+    "LocationName": "Xã Minh Cầm"
+  },
+  {
+    "LocationID": "VN2251507",
+    "LocationName": "Xã Nam Sơn"
+  },
+  {
+    "LocationID": "VN2251505",
+    "LocationName": "Xã Thanh Lâm"
+  },
+  {
+    "LocationID": "VN2251503",
+    "LocationName": "Xã Thanh Sơn"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN4030311",
+    "LocationName": "Phường Nghi Hải"
+  },
+  {
+    "LocationID": "VN4030309",
+    "LocationName": "Phường Nghi Hòa"
+  },
+  {
+    "LocationID": "VN4030313",
+    "LocationName": "Phường Nghi Hương"
+  },
+  {
+    "LocationID": "VN4030301",
+    "LocationName": "Phường Nghi Tân"
+  },
+  {
+    "LocationID": "VN4030305",
+    "LocationName": "Phường Nghi Thu"
+  },
+  {
+    "LocationID": "VN4030307",
+    "LocationName": "Phường Nghi Thuỷ"
+  },
+  {
+    "LocationID": "VN4030303",
+    "LocationName": "Phường Thu Thuỷ"
+  }
+]

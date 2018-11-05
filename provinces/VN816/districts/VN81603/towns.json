@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8160321",
+    "LocationName": "Thị trấn Bảy ngàn"
+  },
+  {
+    "LocationID": "VN8160319",
+    "LocationName": "Thị Trấn Cái Tắc"
+  },
+  {
+    "LocationID": "VN8160305",
+    "LocationName": "Thị trấn Một Ngàn"
+  },
+  {
+    "LocationID": "VN8160317",
+    "LocationName": "Thị Trấn Rạch Gòi"
+  },
+  {
+    "LocationID": "VN8160311",
+    "LocationName": "Xã Nhơn nghĩa A"
+  },
+  {
+    "LocationID": "VN8160309",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8160315",
+    "LocationName": "Xã Tân Phú Thạnh"
+  },
+  {
+    "LocationID": "VN8160313",
+    "LocationName": "Xã Thạnh Xuân"
+  },
+  {
+    "LocationID": "VN8160303",
+    "LocationName": "Xã Trường Long A"
+  },
+  {
+    "LocationID": "VN8160301",
+    "LocationName": "Xã Trường Long Tây"
+  }
+]

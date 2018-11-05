@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN7050103",
+    "LocationName": "Phường Bảo An"
+  },
+  {
+    "LocationID": "VN7050123",
+    "LocationName": "Phường Đài Sơn"
+  },
+  {
+    "LocationID": "VN7050121",
+    "LocationName": "Phường Đạo Long"
+  },
+  {
+    "LocationID": "VN7050109",
+    "LocationName": "Phường Đô Vinh"
+  },
+  {
+    "LocationID": "VN7050107",
+    "LocationName": "Phường Đông Hải"
+  },
+  {
+    "LocationID": "VN7050119",
+    "LocationName": "Phường Kinh Dinh"
+  },
+  {
+    "LocationID": "VN7050131",
+    "LocationName": "Phường Mỹ Bình"
+  },
+  {
+    "LocationID": "VN7050125",
+    "LocationName": "Phường Mỹ Đông"
+  },
+  {
+    "LocationID": "VN7050129",
+    "LocationName": "Phường Mỹ Hải"
+  },
+  {
+    "LocationID": "VN7050117",
+    "LocationName": "Phường Mỹ Hương"
+  },
+  {
+    "LocationID": "VN7050113",
+    "LocationName": "Phường Phủ Hà"
+  },
+  {
+    "LocationID": "VN7050111",
+    "LocationName": "Phường Phước Mỹ"
+  },
+  {
+    "LocationID": "VN7050105",
+    "LocationName": "Phường Tấn Tài"
+  },
+  {
+    "LocationID": "VN7050115",
+    "LocationName": "Phường Thanh Sơn"
+  },
+  {
+    "LocationID": "VN7050127",
+    "LocationName": "Phường Văn Hải"
+  },
+  {
+    "LocationID": "VN7050101",
+    "LocationName": "Xã Thành Hải"
+  }
+]

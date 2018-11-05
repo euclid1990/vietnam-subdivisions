@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN7091105",
+    "LocationName": "Thị trấn Hòa Thành"
+  },
+  {
+    "LocationID": "VN7091107",
+    "LocationName": "Xã Hiệp Tân"
+  },
+  {
+    "LocationID": "VN7091101",
+    "LocationName": "Xã Long Thành Bắc"
+  },
+  {
+    "LocationID": "VN7091115",
+    "LocationName": "Xã Long Thành Nam"
+  },
+  {
+    "LocationID": "VN7091113",
+    "LocationName": "Xã Long Thành Trung"
+  },
+  {
+    "LocationID": "VN7091111",
+    "LocationName": "Xã Trường Đông"
+  },
+  {
+    "LocationID": "VN7091109",
+    "LocationName": "Xã Trường Hòa"
+  },
+  {
+    "LocationID": "VN7091103",
+    "LocationName": "Xã Trường Tây"
+  }
+]

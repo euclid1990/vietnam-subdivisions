@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN3050301",
+    "LocationName": "Thị trấn Đà Bắc"
+  },
+  {
+    "LocationID": "VN3050321",
+    "LocationName": "Xã Cao Sơn"
+  },
+  {
+    "LocationID": "VN3050331",
+    "LocationName": "Xã Đoàn Kết"
+  },
+  {
+    "LocationID": "VN3050335",
+    "LocationName": "Xã Đồng Chum"
+  },
+  {
+    "LocationID": "VN3050303",
+    "LocationName": "Xã Đồng Nghê"
+  },
+  {
+    "LocationID": "VN3050315",
+    "LocationName": "Xã Đồng Ruộng"
+  },
+  {
+    "LocationID": "VN3050333",
+    "LocationName": "Xã Giáp Đắt"
+  },
+  {
+    "LocationID": "VN3050337",
+    "LocationName": "Xã Hào Lý"
+  },
+  {
+    "LocationID": "VN3050341",
+    "LocationName": "Xã Hiền Lương"
+  },
+  {
+    "LocationID": "VN3050309",
+    "LocationName": "Xã Mường Chiềng"
+  },
+  {
+    "LocationID": "VN3050307",
+    "LocationName": "Xã Mường Tuổng"
+  },
+  {
+    "LocationID": "VN3050305",
+    "LocationName": "Xã Suối Nánh"
+  },
+  {
+    "LocationID": "VN3050313",
+    "LocationName": "Xã Tân Minh"
+  },
+  {
+    "LocationID": "VN3050311",
+    "LocationName": "Xã Tân Pheo"
+  },
+  {
+    "LocationID": "VN3050327",
+    "LocationName": "Xã Tiền Phong"
+  },
+  {
+    "LocationID": "VN3050323",
+    "LocationName": "Xã Toàn Sơn"
+  },
+  {
+    "LocationID": "VN3050319",
+    "LocationName": "Xã Trung Thành"
+  },
+  {
+    "LocationID": "VN3050317",
+    "LocationName": "Xã Tu Lý"
+  },
+  {
+    "LocationID": "VN3050329",
+    "LocationName": "Xã Vầy Nưa"
+  },
+  {
+    "LocationID": "VN3050339",
+    "LocationName": "Xã Yên Hòa"
+  }
+]

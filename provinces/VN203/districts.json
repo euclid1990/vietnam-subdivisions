@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN20303",
+    "LocationName": "Huyện Bảo Lạc"
+  },
+  {
+    "LocationID": "VN20323",
+    "LocationName": "Huyện Bảo Lâm"
+  },
+  {
+    "LocationID": "VN20319",
+    "LocationName": "Huyện Hạ Lang"
+  },
+  {
+    "LocationID": "VN20305",
+    "LocationName": "Huyện Hà Quảng"
+  },
+  {
+    "LocationID": "VN20315",
+    "LocationName": "Huyện Hòa An"
+  },
+  {
+    "LocationID": "VN20313",
+    "LocationName": "Huyện Nguyên Bình"
+  },
+  {
+    "LocationID": "VN20318",
+    "LocationName": "Huyện Phục Hòa"
+  },
+  {
+    "LocationID": "VN20317",
+    "LocationName": "Huyện Quảng Uyên"
+  },
+  {
+    "LocationID": "VN20321",
+    "LocationName": "Huyện Thạch An"
+  },
+  {
+    "LocationID": "VN20307",
+    "LocationName": "Huyện Thông Nông"
+  },
+  {
+    "LocationID": "VN20309",
+    "LocationName": "Huyện Trà Lĩnh"
+  },
+  {
+    "LocationID": "VN20311",
+    "LocationName": "Huyện Trùng Khánh"
+  },
+  {
+    "LocationID": "VN20301",
+    "LocationName": "Thành phố Cao Bằng"
+  }
+]

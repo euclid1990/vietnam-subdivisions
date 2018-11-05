@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN6010309",
+    "LocationName": "Thị trấn Đắk Glei"
+  },
+  {
+    "LocationID": "VN6010305",
+    "LocationName": "Xã Đắk Choong"
+  },
+  {
+    "LocationID": "VN6010307",
+    "LocationName": "Xã Đắk KRoong"
+  },
+  {
+    "LocationID": "VN6010323",
+    "LocationName": "Xã Đắk Long"
+  },
+  {
+    "LocationID": "VN6010303",
+    "LocationName": "Xã Đắk Man"
+  },
+  {
+    "LocationID": "VN6010301",
+    "LocationName": "Xã Đắk Môn"
+  },
+  {
+    "LocationID": "VN6010313",
+    "LocationName": "Xã Đắk Nhoong"
+  },
+  {
+    "LocationID": "VN6010315",
+    "LocationName": "Xã Đắk Pék"
+  },
+  {
+    "LocationID": "VN6010311",
+    "LocationName": "Xã Đắk Plô"
+  },
+  {
+    "LocationID": "VN6010319",
+    "LocationName": "Xã Mường Hoong"
+  },
+  {
+    "LocationID": "VN6010321",
+    "LocationName": "Xã Ngọc Linh"
+  },
+  {
+    "LocationID": "VN6010317",
+    "LocationName": "Xã Xốp"
+  }
+]

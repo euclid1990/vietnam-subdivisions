@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN2030115",
+    "LocationName": "Phường Đề Thám"
+  },
+  {
+    "LocationID": "VN2030109",
+    "LocationName": "Phường Duyệt Trung"
+  },
+  {
+    "LocationID": "VN2030107",
+    "LocationName": "Phường Hòa Chung"
+  },
+  {
+    "LocationID": "VN2030103",
+    "LocationName": "Phường Hợp Giang"
+  },
+  {
+    "LocationID": "VN2030111",
+    "LocationName": "Phường Ngọc Xuân"
+  },
+  {
+    "LocationID": "VN2030101",
+    "LocationName": "Phường Sông Bằng"
+  },
+  {
+    "LocationID": "VN2030113",
+    "LocationName": "Phường Sông Hiến"
+  },
+  {
+    "LocationID": "VN2030105",
+    "LocationName": "Phường Tân Giang"
+  },
+  {
+    "LocationID": "VN2030121",
+    "LocationName": "Xã Chu Trinh"
+  },
+  {
+    "LocationID": "VN2030117",
+    "LocationName": "Xã Hưng Đạo"
+  },
+  {
+    "LocationID": "VN2030119",
+    "LocationName": "Xã Vĩnh Quang"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN7111309",
+    "LocationName": "Thị trấn Dầu Tiếng"
+  },
+  {
+    "LocationID": "VN7111319",
+    "LocationName": "Xã An Lập"
+  },
+  {
+    "LocationID": "VN7111313",
+    "LocationName": "Xã Định An"
+  },
+  {
+    "LocationID": "VN7111305",
+    "LocationName": "Xã Định Hiệp"
+  },
+  {
+    "LocationID": "VN7111317",
+    "LocationName": "Xã Định Thành"
+  },
+  {
+    "LocationID": "VN7111315",
+    "LocationName": "Xã Long Hòa"
+  },
+  {
+    "LocationID": "VN7111321",
+    "LocationName": "Xã Long Tân"
+  },
+  {
+    "LocationID": "VN7111311",
+    "LocationName": "Xã Minh Hòa"
+  },
+  {
+    "LocationID": "VN7111303",
+    "LocationName": "Xã Minh Tân"
+  },
+  {
+    "LocationID": "VN7111301",
+    "LocationName": "Xã Minh Thạnh"
+  },
+  {
+    "LocationID": "VN7111323",
+    "LocationName": "Xã Thanh An"
+  },
+  {
+    "LocationID": "VN7111307",
+    "LocationName": "Xã Thanh Tuyền"
+  }
+]

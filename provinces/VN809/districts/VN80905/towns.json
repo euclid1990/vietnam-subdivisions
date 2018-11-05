@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8090507",
+    "LocationName": "Thị trấn Cái Nhum"
+  },
+  {
+    "LocationID": "VN8090511",
+    "LocationName": "Xã An Phước"
+  },
+  {
+    "LocationID": "VN8090503",
+    "LocationName": "Xã Bình Phước"
+  },
+  {
+    "LocationID": "VN8090521",
+    "LocationName": "Xã Chánh An"
+  },
+  {
+    "LocationID": "VN8090519",
+    "LocationName": "Xã Chánh Hội"
+  },
+  {
+    "LocationID": "VN8090517",
+    "LocationName": "Xã Hòa Tịnh"
+  },
+  {
+    "LocationID": "VN8090515",
+    "LocationName": "Xã Long Mỹ"
+  },
+  {
+    "LocationID": "VN8090509",
+    "LocationName": "Xã Mỹ An"
+  },
+  {
+    "LocationID": "VN8090501",
+    "LocationName": "Xã Mỹ Phước"
+  },
+  {
+    "LocationID": "VN8090513",
+    "LocationName": "Xã Nhơn Phú"
+  },
+  {
+    "LocationID": "VN8090523",
+    "LocationName": "Xã Tân An Hội"
+  },
+  {
+    "LocationID": "VN8090525",
+    "LocationName": "Xã Tân Long"
+  },
+  {
+    "LocationID": "VN8090505",
+    "LocationName": "Xã Tân Long Hội"
+  }
+]

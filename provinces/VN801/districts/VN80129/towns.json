@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8012901",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8012903",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8012905",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8012911",
+    "LocationName": "Xã Bình Hiệp"
+  },
+  {
+    "LocationID": "VN8012913",
+    "LocationName": "Xã Bình Tân"
+  },
+  {
+    "LocationID": "VN8012909",
+    "LocationName": "Xã Thạnh Hưng"
+  },
+  {
+    "LocationID": "VN8012915",
+    "LocationName": "Xã Thạnh Trị"
+  },
+  {
+    "LocationID": "VN8012907",
+    "LocationName": "Xã Tuyên Thạnh"
+  }
+]

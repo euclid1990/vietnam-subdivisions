@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN5031909",
+    "LocationName": "Thị trấn Tân An"
+  },
+  {
+    "LocationID": "VN5031901",
+    "LocationName": "Xã Bình Lâm"
+  },
+  {
+    "LocationID": "VN5031923",
+    "LocationName": "Xã Bình Sơn"
+  },
+  {
+    "LocationID": "VN5031911",
+    "LocationName": "Xã Hiệp Hòa"
+  },
+  {
+    "LocationID": "VN5031903",
+    "LocationName": "Xã Hiệp Thuận"
+  },
+  {
+    "LocationID": "VN5031917",
+    "LocationName": "Xã Phước Gia"
+  },
+  {
+    "LocationID": "VN5031905",
+    "LocationName": "Xã Phước Trà"
+  },
+  {
+    "LocationID": "VN5031919",
+    "LocationName": "Xã Quế Bình"
+  },
+  {
+    "LocationID": "VN5031921",
+    "LocationName": "Xã Quế Lưu"
+  },
+  {
+    "LocationID": "VN5031913",
+    "LocationName": "Xã Quế Thọ"
+  },
+  {
+    "LocationID": "VN5031915",
+    "LocationName": "Xã Sông Trà"
+  },
+  {
+    "LocationID": "VN5031907",
+    "LocationName": "Xã Thăng Phước"
+  }
+]

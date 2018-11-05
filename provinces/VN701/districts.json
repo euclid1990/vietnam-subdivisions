@@ -1,0 +1,98 @@
+[
+  {
+    "LocationID": "VN70139",
+    "LocationName": "Huyện Bình Chánh"
+  },
+  {
+    "LocationID": "VN70143",
+    "LocationName": "Huyện Cần Giờ"
+  },
+  {
+    "LocationID": "VN70135",
+    "LocationName": "Huyện Củ Chi"
+  },
+  {
+    "LocationID": "VN70137",
+    "LocationName": "Huyện Hóc Môn"
+  },
+  {
+    "LocationID": "VN70141",
+    "LocationName": "Huyện Nhà Bè"
+  },
+  {
+    "LocationID": "VN70101",
+    "LocationName": "Quận 1"
+  },
+  {
+    "LocationID": "VN70119",
+    "LocationName": "Quận 10"
+  },
+  {
+    "LocationID": "VN70121",
+    "LocationName": "Quận 11"
+  },
+  {
+    "LocationID": "VN70123",
+    "LocationName": "Quận 12"
+  },
+  {
+    "LocationID": "VN70103",
+    "LocationName": "Quận 2"
+  },
+  {
+    "LocationID": "VN70105",
+    "LocationName": "Quận 3"
+  },
+  {
+    "LocationID": "VN70107",
+    "LocationName": "Quận 4"
+  },
+  {
+    "LocationID": "VN70109",
+    "LocationName": "Quận 5"
+  },
+  {
+    "LocationID": "VN70111",
+    "LocationName": "Quận 6"
+  },
+  {
+    "LocationID": "VN70113",
+    "LocationName": "Quận 7"
+  },
+  {
+    "LocationID": "VN70115",
+    "LocationName": "Quận 8"
+  },
+  {
+    "LocationID": "VN70117",
+    "LocationName": "Quận 9"
+  },
+  {
+    "LocationID": "VN70134",
+    "LocationName": "Quận Bình Tân"
+  },
+  {
+    "LocationID": "VN70129",
+    "LocationName": "Quận Bình Thạnh"
+  },
+  {
+    "LocationID": "VN70125",
+    "LocationName": "Quận Gò Vấp"
+  },
+  {
+    "LocationID": "VN70131",
+    "LocationName": "Quận Phú Nhuận"
+  },
+  {
+    "LocationID": "VN70127",
+    "LocationName": "Quận Tân Bình"
+  },
+  {
+    "LocationID": "VN70128",
+    "LocationName": "Quận Tân Phú"
+  },
+  {
+    "LocationID": "VN70133",
+    "LocationName": "Quận Thủ Đức"
+  }
+]

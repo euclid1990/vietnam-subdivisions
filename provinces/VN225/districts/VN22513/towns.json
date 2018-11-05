@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN2251301",
+    "LocationName": "Thị trấn Tiên Yên"
+  },
+  {
+    "LocationID": "VN2251305",
+    "LocationName": "Xã Đại Dực"
+  },
+  {
+    "LocationID": "VN2251307",
+    "LocationName": "Xã Đại Thành"
+  },
+  {
+    "LocationID": "VN2251309",
+    "LocationName": "Xã Điền Xá"
+  },
+  {
+    "LocationID": "VN2251323",
+    "LocationName": "Xã Đông Hải"
+  },
+  {
+    "LocationID": "VN2251311",
+    "LocationName": "Xã Đông Ngũ"
+  },
+  {
+    "LocationID": "VN2251317",
+    "LocationName": "Xã Đồng Rui"
+  },
+  {
+    "LocationID": "VN2251303",
+    "LocationName": "Xã Hà Lâu"
+  },
+  {
+    "LocationID": "VN2251313",
+    "LocationName": "Xã Hải Lạng"
+  },
+  {
+    "LocationID": "VN2251321",
+    "LocationName": "Xã Phong Dụ"
+  },
+  {
+    "LocationID": "VN2251315",
+    "LocationName": "Xã Tiên Lãng"
+  },
+  {
+    "LocationID": "VN2251319",
+    "LocationName": "Xã Yên Than"
+  }
+]

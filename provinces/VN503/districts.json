@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN50327",
+    "LocationName": "Huyện Bắc Trà My"
+  },
+  {
+    "LocationID": "VN50307",
+    "LocationName": "Huyện Đại Lộc"
+  },
+  {
+    "LocationID": "VN50309",
+    "LocationName": "Huyện Điện Bàn"
+  },
+  {
+    "LocationID": "VN50305",
+    "LocationName": "Huyện Đông Giang"
+  },
+  {
+    "LocationID": "VN50311",
+    "LocationName": "Huyện Duy Xuyên"
+  },
+  {
+    "LocationID": "VN50319",
+    "LocationName": "Huyện Hiệp Đức"
+  },
+  {
+    "LocationID": "VN50313",
+    "LocationName": "Huyện Nam Giang"
+  },
+  {
+    "LocationID": "VN50329",
+    "LocationName": "Huyện Nam Trà My"
+  },
+  {
+    "LocationID": "VN50318",
+    "LocationName": "Huyện Nông Sơn"
+  },
+  {
+    "LocationID": "VN50325",
+    "LocationName": "Huyện Núi Thành"
+  },
+  {
+    "LocationID": "VN50302",
+    "LocationName": "Huyện Phú Ninh"
+  },
+  {
+    "LocationID": "VN50323",
+    "LocationName": "Huyện Phước Sơn"
+  },
+  {
+    "LocationID": "VN50317",
+    "LocationName": "Huyện Quế Sơn"
+  },
+  {
+    "LocationID": "VN50304",
+    "LocationName": "Huyện Tây Giang"
+  },
+  {
+    "LocationID": "VN50315",
+    "LocationName": "Huyện Thăng Bình"
+  },
+  {
+    "LocationID": "VN50321",
+    "LocationName": "Huyện Tiên Phước"
+  },
+  {
+    "LocationID": "VN50303",
+    "LocationName": "Thành phố Hội An"
+  },
+  {
+    "LocationID": "VN50301",
+    "LocationName": "Thành phố Tam Kỳ"
+  }
+]

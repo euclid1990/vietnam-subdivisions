@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN3051719",
+    "LocationName": "Thị trấn Chi Nê"
+  },
+  {
+    "LocationID": "VN3051729",
+    "LocationName": "Thị trấn Thanh Hà"
+  },
+  {
+    "LocationID": "VN3051717",
+    "LocationName": "Xã An Bình"
+  },
+  {
+    "LocationID": "VN3051725",
+    "LocationName": "Xã An Lạc"
+  },
+  {
+    "LocationID": "VN3051721",
+    "LocationName": "Xã Cố Nghĩa"
+  },
+  {
+    "LocationID": "VN3051711",
+    "LocationName": "Xã Đồng Môn"
+  },
+  {
+    "LocationID": "VN3051713",
+    "LocationName": "Xã Đồng Tâm"
+  },
+  {
+    "LocationID": "VN3051705",
+    "LocationName": "Xã Hưng Thi"
+  },
+  {
+    "LocationID": "VN3051723",
+    "LocationName": "Xã Khoan Dụ"
+  },
+  {
+    "LocationID": "VN3051707",
+    "LocationName": "Xã Lạc Long"
+  },
+  {
+    "LocationID": "VN3051709",
+    "LocationName": "Xã Liên Hòa"
+  },
+  {
+    "LocationID": "VN3051701",
+    "LocationName": "Xã Phú Lão"
+  },
+  {
+    "LocationID": "VN3051703",
+    "LocationName": "Xã Phú Thành"
+  },
+  {
+    "LocationID": "VN3051727",
+    "LocationName": "Xã Thanh Nông"
+  },
+  {
+    "LocationID": "VN3051715",
+    "LocationName": "Xã Yên Bồng"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "LocationID": "VN5050115",
+    "LocationName": "Phường Chánh Lộ"
+  },
+  {
+    "LocationID": "VN5050107",
+    "LocationName": "Phường Lê Hồng Phong"
+  },
+  {
+    "LocationID": "VN5050101",
+    "LocationName": "Phường Nghĩa Chánh"
+  },
+  {
+    "LocationID": "VN5050105",
+    "LocationName": "Phường Nghĩa Lộ"
+  },
+  {
+    "LocationID": "VN5050113",
+    "LocationName": "Phường Nguyễn Nghiêm"
+  },
+  {
+    "LocationID": "VN5050103",
+    "LocationName": "Phường Quảng Phú"
+  },
+  {
+    "LocationID": "VN5050111",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN5050109",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN5050121",
+    "LocationName": "Phường Trương Quang Trọng"
+  },
+  {
+    "LocationID": "VN5050145",
+    "LocationName": "Xã Nghĩa An"
+  },
+  {
+    "LocationID": "VN5050119",
+    "LocationName": "Xã Nghĩa Dõng"
+  },
+  {
+    "LocationID": "VN5050117",
+    "LocationName": "Xã Nghĩa Dũng"
+  },
+  {
+    "LocationID": "VN5050141",
+    "LocationName": "Xã Nghĩa Hà"
+  },
+  {
+    "LocationID": "VN5050143",
+    "LocationName": "Xã Nghĩa Phú"
+  },
+  {
+    "LocationID": "VN5050127",
+    "LocationName": "Xã Tịnh An"
+  },
+  {
+    "LocationID": "VN5050125",
+    "LocationName": "Xã Tịnh ấn Đông"
+  },
+  {
+    "LocationID": "VN5050123",
+    "LocationName": "Xã Tịnh ấn Tây"
+  },
+  {
+    "LocationID": "VN5050131",
+    "LocationName": "Xã Tịnh Châu"
+  },
+  {
+    "LocationID": "VN5050137",
+    "LocationName": "Xã Tịnh Hòa"
+  },
+  {
+    "LocationID": "VN5050135",
+    "LocationName": "Xã Tịnh Khê"
+  },
+  {
+    "LocationID": "VN5050139",
+    "LocationName": "Xã Tịnh Kỳ"
+  },
+  {
+    "LocationID": "VN5050129",
+    "LocationName": "Xã Tịnh Long"
+  },
+  {
+    "LocationID": "VN5050133",
+    "LocationName": "Xã Tịnh Thiện"
+  }
+]

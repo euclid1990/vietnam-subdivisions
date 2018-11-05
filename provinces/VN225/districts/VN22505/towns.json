@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN2250503",
+    "LocationName": "Phường Bắc Sơn"
+  },
+  {
+    "LocationID": "VN2250519",
+    "LocationName": "Phường Nam Khê"
+  },
+  {
+    "LocationID": "VN2250513",
+    "LocationName": "Phường Phương Đông"
+  },
+  {
+    "LocationID": "VN2250521",
+    "LocationName": "Phường Phương Nam"
+  },
+  {
+    "LocationID": "VN2250505",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN2250501",
+    "LocationName": "Phường Thanh Sơn"
+  },
+  {
+    "LocationID": "VN2250507",
+    "LocationName": "Phường Trưng Vương"
+  },
+  {
+    "LocationID": "VN2250517",
+    "LocationName": "Phường Vàng Danh"
+  },
+  {
+    "LocationID": "VN2250509",
+    "LocationName": "Phường Yên Thanh"
+  },
+  {
+    "LocationID": "VN2250515",
+    "LocationName": "Xã Điền Công"
+  },
+  {
+    "LocationID": "VN2250511",
+    "LocationName": "Xã Thượng Yên Công"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN6010917",
+    "LocationName": "Xã Đắk Long"
+  },
+  {
+    "LocationID": "VN6010909",
+    "LocationName": "Xã Đắk Nên"
+  },
+  {
+    "LocationID": "VN6010903",
+    "LocationName": "Xã Đắk Ring"
+  },
+  {
+    "LocationID": "VN6010911",
+    "LocationName": "Xã Đắk Tăng"
+  },
+  {
+    "LocationID": "VN6010907",
+    "LocationName": "Xã Hiếu"
+  },
+  {
+    "LocationID": "VN6010901",
+    "LocationName": "Xã Măng Buk"
+  },
+  {
+    "LocationID": "VN6010915",
+    "LocationName": "Xã Măng Cành"
+  },
+  {
+    "LocationID": "VN6010913",
+    "LocationName": "Xã Ngok Tem"
+  },
+  {
+    "LocationID": "VN6010905",
+    "LocationName": "Xã Pờ ê"
+  }
+]

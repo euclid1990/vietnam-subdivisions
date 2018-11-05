@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8210707",
+    "LocationName": "Thị trấn Giá Rai"
+  },
+  {
+    "LocationID": "VN8210709",
+    "LocationName": "Thị trấn Hộ Phòng"
+  },
+  {
+    "LocationID": "VN8210713",
+    "LocationName": "Xã Phong Tân"
+  },
+  {
+    "LocationID": "VN8210715",
+    "LocationName": "Xã Phong Thạnh"
+  },
+  {
+    "LocationID": "VN8210717",
+    "LocationName": "Xã Phong Thạnh A"
+  },
+  {
+    "LocationID": "VN8210711",
+    "LocationName": "Xã Phong Thạnh Đông"
+  },
+  {
+    "LocationID": "VN8210703",
+    "LocationName": "Xã Phong Thạnh Đông A"
+  },
+  {
+    "LocationID": "VN8210705",
+    "LocationName": "Xã Phong Thạnh Tây"
+  },
+  {
+    "LocationID": "VN8210701",
+    "LocationName": "Xã Tân Phong"
+  },
+  {
+    "LocationID": "VN8210719",
+    "LocationName": "Xã Tân Thạnh"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN8131503",
+    "LocationName": "Thị trấn Thứ Ba"
+  },
+  {
+    "LocationID": "VN8131501",
+    "LocationName": "Xã Đông Thái"
+  },
+  {
+    "LocationID": "VN8131507",
+    "LocationName": "Xã Đông Yên"
+  },
+  {
+    "LocationID": "VN8131505",
+    "LocationName": "Xã Hưng Yên"
+  },
+  {
+    "LocationID": "VN8131515",
+    "LocationName": "Xã Nam Thái"
+  },
+  {
+    "LocationID": "VN8131517",
+    "LocationName": "Xã Nam Thái A"
+  },
+  {
+    "LocationID": "VN8131513",
+    "LocationName": "Xã Nam Yên"
+  },
+  {
+    "LocationID": "VN8131509",
+    "LocationName": "Xã Tây Yên"
+  },
+  {
+    "LocationID": "VN8131511",
+    "LocationName": "Xã Tây Yên A"
+  }
+]

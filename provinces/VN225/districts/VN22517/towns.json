@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN2251701",
+    "LocationName": "Thị trấn Cái Rồng"
+  },
+  {
+    "LocationID": "VN2251711",
+    "LocationName": "Xã Bản Sen"
+  },
+  {
+    "LocationID": "VN2251717",
+    "LocationName": "Xã Bình Dân"
+  },
+  {
+    "LocationID": "VN2251703",
+    "LocationName": "Xã Đài Xuyên"
+  },
+  {
+    "LocationID": "VN2251707",
+    "LocationName": "Xã Đoàn Kết"
+  },
+  {
+    "LocationID": "VN2251721",
+    "LocationName": "Xã Đông Xá"
+  },
+  {
+    "LocationID": "VN2251709",
+    "LocationName": "Xã Hạ Long"
+  },
+  {
+    "LocationID": "VN2251705",
+    "LocationName": "Xã Minh Châu"
+  },
+  {
+    "LocationID": "VN2251723",
+    "LocationName": "Xã Ngọc Vừng"
+  },
+  {
+    "LocationID": "VN2251715",
+    "LocationName": "Xã Quan Lạn"
+  },
+  {
+    "LocationID": "VN2251713",
+    "LocationName": "Xã Thắng Lợi"
+  },
+  {
+    "LocationID": "VN2251719",
+    "LocationName": "Xã Vạn Yên"
+  }
+]

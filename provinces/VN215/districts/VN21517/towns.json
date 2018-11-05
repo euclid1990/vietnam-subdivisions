@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN2151729",
+    "LocationName": "Thị trấn Ba Hàng"
+  },
+  {
+    "LocationID": "VN2151703",
+    "LocationName": "Thị trấn Bắc Sơn"
+  },
+  {
+    "LocationID": "VN2151701",
+    "LocationName": "Thị trấn Bãi Bông"
+  },
+  {
+    "LocationID": "VN2151731",
+    "LocationName": "Xã Đắc Sơn"
+  },
+  {
+    "LocationID": "VN2151721",
+    "LocationName": "Xã Đông Cao"
+  },
+  {
+    "LocationID": "VN2151727",
+    "LocationName": "Xã Đồng Tiến"
+  },
+  {
+    "LocationID": "VN2151709",
+    "LocationName": "Xã Hồng Tiến"
+  },
+  {
+    "LocationID": "VN2151711",
+    "LocationName": "Xã Minh Đức"
+  },
+  {
+    "LocationID": "VN2151717",
+    "LocationName": "Xã Nam Tiến"
+  },
+  {
+    "LocationID": "VN2151705",
+    "LocationName": "Xã Phúc Tân"
+  },
+  {
+    "LocationID": "VN2151707",
+    "LocationName": "Xã Phúc Thuận"
+  },
+  {
+    "LocationID": "VN2151719",
+    "LocationName": "Xã Tân Hương"
+  },
+  {
+    "LocationID": "VN2151723",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN2151713",
+    "LocationName": "Xã Thành Công"
+  },
+  {
+    "LocationID": "VN2151725",
+    "LocationName": "Xã Thuận Thành"
+  },
+  {
+    "LocationID": "VN2151715",
+    "LocationName": "Xã Tiên Phong"
+  },
+  {
+    "LocationID": "VN2151735",
+    "LocationName": "Xã Trung Thành"
+  },
+  {
+    "LocationID": "VN2151733",
+    "LocationName": "Xã Vạn Phái"
+  }
+]

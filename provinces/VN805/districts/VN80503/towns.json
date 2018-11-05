@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN8050301",
+    "LocationName": "Phường Châu Phú A"
+  },
+  {
+    "LocationID": "VN8050305",
+    "LocationName": "Phường Châu Phú B"
+  },
+  {
+    "LocationID": "VN8050309",
+    "LocationName": "Phường Núi Sam"
+  },
+  {
+    "LocationID": "VN8050307",
+    "LocationName": "Phường Vĩnh Mỹ"
+  },
+  {
+    "LocationID": "VN8050311",
+    "LocationName": "Phường Vĩnh Ngươn"
+  },
+  {
+    "LocationID": "VN8050313",
+    "LocationName": "Xã Vĩnh Châu"
+  },
+  {
+    "LocationID": "VN8050303",
+    "LocationName": "Xã Vĩnh Tế"
+  }
+]

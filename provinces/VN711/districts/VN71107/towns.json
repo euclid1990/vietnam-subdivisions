@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7110713",
+    "LocationName": "Phường An Phú"
+  },
+  {
+    "LocationID": "VN7110701",
+    "LocationName": "Phường An Thạnh"
+  },
+  {
+    "LocationID": "VN7110709",
+    "LocationName": "Phường Bình Chuẩn"
+  },
+  {
+    "LocationID": "VN7110719",
+    "LocationName": "Phường Bình Hòa"
+  },
+  {
+    "LocationID": "VN7110717",
+    "LocationName": "Phường Bình Nhâm"
+  },
+  {
+    "LocationID": "VN7110703",
+    "LocationName": "Phường Hưng Định"
+  },
+  {
+    "LocationID": "VN7110707",
+    "LocationName": "Phường Lái Thiêu"
+  },
+  {
+    "LocationID": "VN7110711",
+    "LocationName": "Phường Thuận Giao"
+  },
+  {
+    "LocationID": "VN7110705",
+    "LocationName": "Phường Vĩnh Phú"
+  },
+  {
+    "LocationID": "VN7110715",
+    "LocationName": "Xã An Sơn"
+  }
+]

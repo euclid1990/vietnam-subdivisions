@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN2210303",
+    "LocationName": "Thị trấn Bố Hạ"
+  },
+  {
+    "LocationID": "VN2210301",
+    "LocationName": "Thị trấn Cầu Gồ"
+  },
+  {
+    "LocationID": "VN2210325",
+    "LocationName": "Xã An Thượng"
+  },
+  {
+    "LocationID": "VN2210327",
+    "LocationName": "Xã Bố Hạ"
+  },
+  {
+    "LocationID": "VN2210307",
+    "LocationName": "Xã Canh Nậu"
+  },
+  {
+    "LocationID": "VN2210311",
+    "LocationName": "Xã Đồng Hưu"
+  },
+  {
+    "LocationID": "VN2210323",
+    "LocationName": "Xã Đồng Kỳ"
+  },
+  {
+    "LocationID": "VN2210337",
+    "LocationName": "Xã Đồng Lạc"
+  },
+  {
+    "LocationID": "VN2210319",
+    "LocationName": "Xã Đông Sơn"
+  },
+  {
+    "LocationID": "VN2210343",
+    "LocationName": "Xã Đồng Tâm"
+  },
+  {
+    "LocationID": "VN2210333",
+    "LocationName": "Xã Đồng Tiến"
+  },
+  {
+    "LocationID": "VN2210335",
+    "LocationName": "Xã Đồng Vương"
+  },
+  {
+    "LocationID": "VN2210317",
+    "LocationName": "Xã Hồng Kỳ"
+  },
+  {
+    "LocationID": "VN2210339",
+    "LocationName": "Xã Hương Vĩ"
+  },
+  {
+    "LocationID": "VN2210331",
+    "LocationName": "Xã Phồn Xương"
+  },
+  {
+    "LocationID": "VN2210313",
+    "LocationName": "Xã Tam Hiệp"
+  },
+  {
+    "LocationID": "VN2210329",
+    "LocationName": "Xã Tam Tiến"
+  },
+  {
+    "LocationID": "VN2210321",
+    "LocationName": "Xã Tân Hiệp"
+  },
+  {
+    "LocationID": "VN2210341",
+    "LocationName": "Xã Tân Sỏi"
+  },
+  {
+    "LocationID": "VN2210315",
+    "LocationName": "Xã Tiến Thắng"
+  },
+  {
+    "LocationID": "VN2210309",
+    "LocationName": "Xã Xuân Lương"
+  }
+]

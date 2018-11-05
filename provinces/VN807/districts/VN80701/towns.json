@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN8070117",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8070125",
+    "LocationName": "Phường 10"
+  },
+  {
+    "LocationID": "VN8070119",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8070103",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8070113",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8070111",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8070121",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN8070115",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN8070105",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN8070123",
+    "LocationName": "Phường 9"
+  },
+  {
+    "LocationID": "VN8070107",
+    "LocationName": "Phường Tân Long"
+  },
+  {
+    "LocationID": "VN8070127",
+    "LocationName": "Xã Đạo Thạnh"
+  },
+  {
+    "LocationID": "VN8070101",
+    "LocationName": "Xã Mỹ Phong"
+  },
+  {
+    "LocationID": "VN8070131",
+    "LocationName": "Xã Phước Thạnh"
+  },
+  {
+    "LocationID": "VN8070109",
+    "LocationName": "Xã Tân Mỹ Chánh"
+  },
+  {
+    "LocationID": "VN8070133",
+    "LocationName": "Xã Thới Sơn"
+  },
+  {
+    "LocationID": "VN8070129",
+    "LocationName": "Xã Trung An"
+  }
+]

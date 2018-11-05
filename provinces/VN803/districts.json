@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN80315",
+    "LocationName": "Huyện Cao Lãnh"
+  },
+  {
+    "LocationID": "VN80321",
+    "LocationName": "Huyện Châu Thành"
+  },
+  {
+    "LocationID": "VN80307",
+    "LocationName": "Huyện Hồng Ngự"
+  },
+  {
+    "LocationID": "VN80319",
+    "LocationName": "Huyện Lai Vung"
+  },
+  {
+    "LocationID": "VN80317",
+    "LocationName": "Huyện Lấp Vò"
+  },
+  {
+    "LocationID": "VN80309",
+    "LocationName": "Huyện Tam Nông"
+  },
+  {
+    "LocationID": "VN80305",
+    "LocationName": "Huyện Tân Hồng"
+  },
+  {
+    "LocationID": "VN80311",
+    "LocationName": "Huyện Thanh Bình"
+  },
+  {
+    "LocationID": "VN80313",
+    "LocationName": "Huyện Tháp Mười"
+  },
+  {
+    "LocationID": "VN80301",
+    "LocationName": "Thành phố Cao Lãnh"
+  },
+  {
+    "LocationID": "VN80303",
+    "LocationName": "Thành phố Sa Đéc"
+  },
+  {
+    "LocationID": "VN80323",
+    "LocationName": "Thị xã Hồng Ngự"
+  }
+]

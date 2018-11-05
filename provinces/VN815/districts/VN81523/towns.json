@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN8152311",
+    "LocationName": "Phường Ba Láng"
+  },
+  {
+    "LocationID": "VN8152307",
+    "LocationName": "Phường Hưng Phú"
+  },
+  {
+    "LocationID": "VN8152309",
+    "LocationName": "Phường Hưng Thạnh"
+  },
+  {
+    "LocationID": "VN8152303",
+    "LocationName": "Phường Lê Bình"
+  },
+  {
+    "LocationID": "VN8152313",
+    "LocationName": "Phường Phú Thứ"
+  },
+  {
+    "LocationID": "VN8152301",
+    "LocationName": "Phường Tân Phú"
+  },
+  {
+    "LocationID": "VN8152305",
+    "LocationName": "Phường Thường Thạnh"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN2130313",
+    "LocationName": "Phường Cầu Thia"
+  },
+  {
+    "LocationID": "VN2130301",
+    "LocationName": "Phường Pú Trạng"
+  },
+  {
+    "LocationID": "VN2130305",
+    "LocationName": "Phường Tân An"
+  },
+  {
+    "LocationID": "VN2130303",
+    "LocationName": "Phường Trung Tâm"
+  },
+  {
+    "LocationID": "VN2130311",
+    "LocationName": "Xã Nghĩa An"
+  },
+  {
+    "LocationID": "VN2130307",
+    "LocationName": "Xã Nghĩa Lợi"
+  },
+  {
+    "LocationID": "VN2130309",
+    "LocationName": "Xã Nghĩa Phúc"
+  }
+]

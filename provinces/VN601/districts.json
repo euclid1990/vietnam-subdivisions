@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN60115",
+    "LocationName": "Huyện  Tu Mơ Rông"
+  },
+  {
+    "LocationID": "VN60103",
+    "LocationName": "Huyện Đắk Glei"
+  },
+  {
+    "LocationID": "VN60111",
+    "LocationName": "Huyện Đắk Hà"
+  },
+  {
+    "LocationID": "VN60107",
+    "LocationName": "Huyện Đắk Tô"
+  },
+  {
+    "LocationID": "VN60109",
+    "LocationName": "Huyện Kon Plông"
+  },
+  {
+    "LocationID": "VN60108",
+    "LocationName": "Huyện Kon Rẫy"
+  },
+  {
+    "LocationID": "VN60105",
+    "LocationName": "Huyện Ngọc Hồi"
+  },
+  {
+    "LocationID": "VN60113",
+    "LocationName": "Huyện Sa Thầy"
+  },
+  {
+    "LocationID": "VN60101",
+    "LocationName": "Thành phố Kon Tum"
+  }
+]

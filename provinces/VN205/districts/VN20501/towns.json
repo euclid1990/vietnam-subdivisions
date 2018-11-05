@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN2050117",
+    "LocationName": "Phường Bắc Cường"
+  },
+  {
+    "LocationID": "VN2050129",
+    "LocationName": "Phường Bắc Lệnh"
+  },
+  {
+    "LocationID": "VN2050111",
+    "LocationName": "Phường Bình Minh"
+  },
+  {
+    "LocationID": "VN2050103",
+    "LocationName": "Phường Cốc Lếu"
+  },
+  {
+    "LocationID": "VN2050123",
+    "LocationName": "Phường Duyên Hải"
+  },
+  {
+    "LocationID": "VN2050105",
+    "LocationName": "Phường Kim Tân"
+  },
+  {
+    "LocationID": "VN2050127",
+    "LocationName": "Phường Lào Cai"
+  },
+  {
+    "LocationID": "VN2050125",
+    "LocationName": "Phường Nam Cường"
+  },
+  {
+    "LocationID": "VN2050101",
+    "LocationName": "Phường Phố Mới"
+  },
+  {
+    "LocationID": "VN2050107",
+    "LocationName": "Phường Pom Hán"
+  },
+  {
+    "LocationID": "VN2050113",
+    "LocationName": "Phường Thống Nhất"
+  },
+  {
+    "LocationID": "VN2050109",
+    "LocationName": "Phường Xuân Tăng"
+  },
+  {
+    "LocationID": "VN2050119",
+    "LocationName": "Xã Cam Đường"
+  },
+  {
+    "LocationID": "VN2050131",
+    "LocationName": "Xã Đồng Tuyển"
+  },
+  {
+    "LocationID": "VN2050121",
+    "LocationName": "Xã Hợp Thành"
+  },
+  {
+    "LocationID": "VN2050133",
+    "LocationName": "Xã Tả Phời"
+  },
+  {
+    "LocationID": "VN2050115",
+    "LocationName": "Xã Vạn Hòa"
+  }
+]

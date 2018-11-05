@@ -1,0 +1,150 @@
+[
+  {
+    "LocationID": "VN4010173",
+    "LocationName": "Phường An Hoạch"
+  },
+  {
+    "LocationID": "VN4010121",
+    "LocationName": "Phường Ba Đình"
+  },
+  {
+    "LocationID": "VN4010117",
+    "LocationName": "Phường Điện Biên"
+  },
+  {
+    "LocationID": "VN4010127",
+    "LocationName": "Phường Đông Cương"
+  },
+  {
+    "LocationID": "VN4010129",
+    "LocationName": "Phường Đông Hải"
+  },
+  {
+    "LocationID": "VN4010109",
+    "LocationName": "Phường Đông Hương"
+  },
+  {
+    "LocationID": "VN4010101",
+    "LocationName": "Phường Đông Sơn"
+  },
+  {
+    "LocationID": "VN4010103",
+    "LocationName": "Phường Đông Thọ"
+  },
+  {
+    "LocationID": "VN4010107",
+    "LocationName": "Phường Đông Vệ"
+  },
+  {
+    "LocationID": "VN4010111",
+    "LocationName": "Phường Hàm Rồng"
+  },
+  {
+    "LocationID": "VN4010119",
+    "LocationName": "Phường Lam Sơn"
+  },
+  {
+    "LocationID": "VN4010113",
+    "LocationName": "Phường Nam Ngạn"
+  },
+  {
+    "LocationID": "VN4010123",
+    "LocationName": "Phường Ngọc Trạo"
+  },
+  {
+    "LocationID": "VN4010105",
+    "LocationName": "Phường Phú Sơn"
+  },
+  {
+    "LocationID": "VN4010131",
+    "LocationName": "Phường Quảng Hưng"
+  },
+  {
+    "LocationID": "VN4010133",
+    "LocationName": "Phường Quảng Thắng"
+  },
+  {
+    "LocationID": "VN4010135",
+    "LocationName": "Phường Quảng Thành"
+  },
+  {
+    "LocationID": "VN4010125",
+    "LocationName": "Phường Tân Sơn"
+  },
+  {
+    "LocationID": "VN4010157",
+    "LocationName": "Phường Tào Xuyên"
+  },
+  {
+    "LocationID": "VN4010115",
+    "LocationName": "Phường Trường Thi"
+  },
+  {
+    "LocationID": "VN4010171",
+    "LocationName": "Xã Đông Hưng"
+  },
+  {
+    "LocationID": "VN4010167",
+    "LocationName": "Xã Đông Lĩnh"
+  },
+  {
+    "LocationID": "VN4010169",
+    "LocationName": "Xã Đông Tân"
+  },
+  {
+    "LocationID": "VN4010165",
+    "LocationName": "Xã Đông Vinh"
+  },
+  {
+    "LocationID": "VN4010147",
+    "LocationName": "Xã Hoằng Anh"
+  },
+  {
+    "LocationID": "VN4010155",
+    "LocationName": "Xã Hoằng Đại"
+  },
+  {
+    "LocationID": "VN4010151",
+    "LocationName": "Xã Hoằng Long"
+  },
+  {
+    "LocationID": "VN4010149",
+    "LocationName": "Xã Hoằng Lý"
+  },
+  {
+    "LocationID": "VN4010153",
+    "LocationName": "Xã Hoằng Quang"
+  },
+  {
+    "LocationID": "VN4010141",
+    "LocationName": "Xã Quảng Cát"
+  },
+  {
+    "LocationID": "VN4010139",
+    "LocationName": "Xã Quảng Đông"
+  },
+  {
+    "LocationID": "VN4010143",
+    "LocationName": "Xã Quảng Phú"
+  },
+  {
+    "LocationID": "VN4010145",
+    "LocationName": "Xã Quảng Tâm"
+  },
+  {
+    "LocationID": "VN4010137",
+    "LocationName": "Xã Quảng Thịnh"
+  },
+  {
+    "LocationID": "VN4010159",
+    "LocationName": "Xã Thiệu Dương"
+  },
+  {
+    "LocationID": "VN4010161",
+    "LocationName": "Xã Thiệu Khánh"
+  },
+  {
+    "LocationID": "VN4010163",
+    "LocationName": "Xã Thiệu Vân"
+  }
+]

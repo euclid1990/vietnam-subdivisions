@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN2230301",
+    "LocationName": "Thị trấn Chờ"
+  },
+  {
+    "LocationID": "VN2230317",
+    "LocationName": "Xã Đông Phong"
+  },
+  {
+    "LocationID": "VN2230323",
+    "LocationName": "Xã Đông Thọ"
+  },
+  {
+    "LocationID": "VN2230311",
+    "LocationName": "Xã Đông Tiến"
+  },
+  {
+    "LocationID": "VN2230303",
+    "LocationName": "Xã Dũng Liệt"
+  },
+  {
+    "LocationID": "VN2230327",
+    "LocationName": "Xã Hòa Tiến"
+  },
+  {
+    "LocationID": "VN2230319",
+    "LocationName": "Xã Long Châu"
+  },
+  {
+    "LocationID": "VN2230305",
+    "LocationName": "Xã Tam Đa"
+  },
+  {
+    "LocationID": "VN2230329",
+    "LocationName": "Xã Tam Giang"
+  },
+  {
+    "LocationID": "VN2230309",
+    "LocationName": "Xã Thụy Hòa"
+  },
+  {
+    "LocationID": "VN2230315",
+    "LocationName": "Xã Trung Nghĩa"
+  },
+  {
+    "LocationID": "VN2230321",
+    "LocationName": "Xã Văn Môn"
+  },
+  {
+    "LocationID": "VN2230313",
+    "LocationName": "Xã Yên Phụ"
+  },
+  {
+    "LocationID": "VN2230307",
+    "LocationName": "Xã Yên Trung"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8131905",
+    "LocationName": "Thị trấn Vĩnh Thuận"
+  },
+  {
+    "LocationID": "VN8131919",
+    "LocationName": "Xã Bình Minh"
+  },
+  {
+    "LocationID": "VN8131921",
+    "LocationName": "Xã Phong Đông"
+  },
+  {
+    "LocationID": "VN8131903",
+    "LocationName": "Xã Tân Thuận"
+  },
+  {
+    "LocationID": "VN8131901",
+    "LocationName": "Xã Vĩnh Bình Bắc"
+  },
+  {
+    "LocationID": "VN8131911",
+    "LocationName": "Xã Vĩnh Bình Nam"
+  },
+  {
+    "LocationID": "VN8131917",
+    "LocationName": "Xã Vĩnh Phong"
+  },
+  {
+    "LocationID": "VN8131915",
+    "LocationName": "Xã Vĩnh Thuận"
+  }
+]

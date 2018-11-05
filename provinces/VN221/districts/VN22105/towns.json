@@ -1,0 +1,98 @@
+[
+  {
+    "LocationID": "VN2210501",
+    "LocationName": "Thị trấn Cao Thượng"
+  },
+  {
+    "LocationID": "VN2210503",
+    "LocationName": "Thị trấn Nhã Nam"
+  },
+  {
+    "LocationID": "VN2210513",
+    "LocationName": "Xã An Dương"
+  },
+  {
+    "LocationID": "VN2210543",
+    "LocationName": "Xã Cao Thượng"
+  },
+  {
+    "LocationID": "VN2210519",
+    "LocationName": "Xã Cao Xá"
+  },
+  {
+    "LocationID": "VN2210509",
+    "LocationName": "Xã Đại Hóa"
+  },
+  {
+    "LocationID": "VN2210515",
+    "LocationName": "Xã Hợp Đức"
+  },
+  {
+    "LocationID": "VN2210517",
+    "LocationName": "Xã Lam Cốt"
+  },
+  {
+    "LocationID": "VN2210537",
+    "LocationName": "Xã Lan Giới"
+  },
+  {
+    "LocationID": "VN2210529",
+    "LocationName": "Xã Liên Chung"
+  },
+  {
+    "LocationID": "VN2210541",
+    "LocationName": "Xã Liên Sơn"
+  },
+  {
+    "LocationID": "VN2210525",
+    "LocationName": "Xã Ngọc Châu"
+  },
+  {
+    "LocationID": "VN2210547",
+    "LocationName": "Xã Ngọc Lý"
+  },
+  {
+    "LocationID": "VN2210535",
+    "LocationName": "Xã Ngọc Thiện"
+  },
+  {
+    "LocationID": "VN2210545",
+    "LocationName": "Xã Ngọc Vân"
+  },
+  {
+    "LocationID": "VN2210505",
+    "LocationName": "Xã Nhã Nam"
+  },
+  {
+    "LocationID": "VN2210533",
+    "LocationName": "Xã Phúc Hòa"
+  },
+  {
+    "LocationID": "VN2210511",
+    "LocationName": "Xã Phúc Sơn"
+  },
+  {
+    "LocationID": "VN2210539",
+    "LocationName": "Xã Quang Tiến"
+  },
+  {
+    "LocationID": "VN2210531",
+    "LocationName": "Xã Quế Nham"
+  },
+  {
+    "LocationID": "VN2210523",
+    "LocationName": "Xã Song Vân"
+  },
+  {
+    "LocationID": "VN2210507",
+    "LocationName": "Xã Tân Trung"
+  },
+  {
+    "LocationID": "VN2210527",
+    "LocationName": "Xã Việt Lập"
+  },
+  {
+    "LocationID": "VN2210521",
+    "LocationName": "Xã Việt Ngọc"
+  }
+]

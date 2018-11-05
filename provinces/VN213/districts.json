@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN21305",
+    "LocationName": "Huyện Lục Yên"
+  },
+  {
+    "LocationID": "VN21309",
+    "LocationName": "Huyện Mù Cang Chải"
+  },
+  {
+    "LocationID": "VN21317",
+    "LocationName": "Huyện Trạm Tấu"
+  },
+  {
+    "LocationID": "VN21311",
+    "LocationName": "Huyện Trấn Yên"
+  },
+  {
+    "LocationID": "VN21315",
+    "LocationName": "Huyện Văn Chấn"
+  },
+  {
+    "LocationID": "VN21307",
+    "LocationName": "Huyện Văn Yên"
+  },
+  {
+    "LocationID": "VN21313",
+    "LocationName": "Huyện Yên Bình"
+  },
+  {
+    "LocationID": "VN21301",
+    "LocationName": "Thành phố Yên Bái"
+  },
+  {
+    "LocationID": "VN21303",
+    "LocationName": "Thị xã Nghĩa Lộ"
+  }
+]

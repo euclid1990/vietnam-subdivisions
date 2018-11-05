@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN3030109",
+    "LocationName": "Phường Chiềng An"
+  },
+  {
+    "LocationID": "VN3030111",
+    "LocationName": "Phường Chiềng Cơi"
+  },
+  {
+    "LocationID": "VN3030101",
+    "LocationName": "Phường Chiềng Lề"
+  },
+  {
+    "LocationID": "VN3030115",
+    "LocationName": "Phường Chiềng Sinh"
+  },
+  {
+    "LocationID": "VN3030105",
+    "LocationName": "Phường Quyết Tâm"
+  },
+  {
+    "LocationID": "VN3030103",
+    "LocationName": "Phường Quyết Thắng"
+  },
+  {
+    "LocationID": "VN3030119",
+    "LocationName": "Phường Tô Hiệu"
+  },
+  {
+    "LocationID": "VN3030117",
+    "LocationName": "Xã Chiềng Cọ"
+  },
+  {
+    "LocationID": "VN3030121",
+    "LocationName": "Xã Chiềng Đen"
+  },
+  {
+    "LocationID": "VN3030123",
+    "LocationName": "Xã Chiềng Ngần"
+  },
+  {
+    "LocationID": "VN3030107",
+    "LocationName": "Xã Chiềng Xôm"
+  },
+  {
+    "LocationID": "VN3030113",
+    "LocationName": "Xã Hua La"
+  }
+]

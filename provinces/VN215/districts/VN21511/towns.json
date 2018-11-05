@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN2151103",
+    "LocationName": "Thị trấn Chùa Hang"
+  },
+  {
+    "LocationID": "VN2151101",
+    "LocationName": "Thị trấn Sông Cầu"
+  },
+  {
+    "LocationID": "VN2151105",
+    "LocationName": "Thị trấn Trại Cau"
+  },
+  {
+    "LocationID": "VN2151119",
+    "LocationName": "Xã Cây Thị"
+  },
+  {
+    "LocationID": "VN2151131",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN2151121",
+    "LocationName": "Xã Hóa Thượng"
+  },
+  {
+    "LocationID": "VN2151135",
+    "LocationName": "Xã Hóa Trung"
+  },
+  {
+    "LocationID": "VN2151123",
+    "LocationName": "Xã Hợp Tiến"
+  },
+  {
+    "LocationID": "VN2151129",
+    "LocationName": "Xã Huống Thượng"
+  },
+  {
+    "LocationID": "VN2151117",
+    "LocationName": "Xã Khe Mo"
+  },
+  {
+    "LocationID": "VN2151125",
+    "LocationName": "Xã Linh Sơn"
+  },
+  {
+    "LocationID": "VN2151113",
+    "LocationName": "Xã Minh Lập"
+  },
+  {
+    "LocationID": "VN2151139",
+    "LocationName": "Xã Nam Hòa"
+  },
+  {
+    "LocationID": "VN2151111",
+    "LocationName": "Xã Quang Sơn"
+  },
+  {
+    "LocationID": "VN2151133",
+    "LocationName": "Xã Tân Lợi"
+  },
+  {
+    "LocationID": "VN2151109",
+    "LocationName": "Xã Tân Long"
+  },
+  {
+    "LocationID": "VN2151115",
+    "LocationName": "Xã Văn Hán"
+  },
+  {
+    "LocationID": "VN2151107",
+    "LocationName": "Xã Văn Lăng"
+  }
+]

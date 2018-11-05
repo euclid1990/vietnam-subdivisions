@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN1010727",
+    "LocationName": "Phường Bạch Đằng"
+  },
+  {
+    "LocationID": "VN1010713",
+    "LocationName": "Phường Bách Khoa"
+  },
+  {
+    "LocationID": "VN1010719",
+    "LocationName": "Phường Bạch Mai"
+  },
+  {
+    "LocationID": "VN1010731",
+    "LocationName": "Phường Bùi Thị Xuân"
+  },
+  {
+    "LocationID": "VN1010711",
+    "LocationName": "Phường Cầu Dền"
+  },
+  {
+    "LocationID": "VN1010705",
+    "LocationName": "Phường Đống Mác"
+  },
+  {
+    "LocationID": "VN1010703",
+    "LocationName": "Phường Đồng Nhân"
+  },
+  {
+    "LocationID": "VN1010715",
+    "LocationName": "Phường Đồng Tâm"
+  },
+  {
+    "LocationID": "VN1010701",
+    "LocationName": "Phường Lê Đại Hành"
+  },
+  {
+    "LocationID": "VN1010735",
+    "LocationName": "Phường Minh Khai"
+  },
+  {
+    "LocationID": "VN1010725",
+    "LocationName": "Phường Ngô Thì Nhậm"
+  },
+  {
+    "LocationID": "VN1010739",
+    "LocationName": "Phường Nguyễn Du"
+  },
+  {
+    "LocationID": "VN1010729",
+    "LocationName": "Phường Phạm Đình Hổ"
+  },
+  {
+    "LocationID": "VN1010733",
+    "LocationName": "Phường Phố Huế"
+  },
+  {
+    "LocationID": "VN1010721",
+    "LocationName": "Phường Quỳnh Lôi"
+  },
+  {
+    "LocationID": "VN1010737",
+    "LocationName": "Phường Quỳnh Mai"
+  },
+  {
+    "LocationID": "VN1010707",
+    "LocationName": "Phường Thanh Lương"
+  },
+  {
+    "LocationID": "VN1010709",
+    "LocationName": "Phường Thanh Nhàn"
+  },
+  {
+    "LocationID": "VN1010723",
+    "LocationName": "Phường Trương Định"
+  },
+  {
+    "LocationID": "VN1010717",
+    "LocationName": "Phường Vĩnh Tuy"
+  }
+]

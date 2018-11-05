@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1110337",
+    "LocationName": "Thị trấn Đồng Văn"
+  },
+  {
+    "LocationID": "VN1110339",
+    "LocationName": "Thị trấn Hòa Mạc"
+  },
+  {
+    "LocationID": "VN1110341",
+    "LocationName": "Xã Bạch Thượng"
+  },
+  {
+    "LocationID": "VN1110307",
+    "LocationName": "Xã Châu Giang"
+  },
+  {
+    "LocationID": "VN1110311",
+    "LocationName": "Xã Châu Sơn"
+  },
+  {
+    "LocationID": "VN1110317",
+    "LocationName": "Xã Chuyên Ngoại"
+  },
+  {
+    "LocationID": "VN1110303",
+    "LocationName": "Xã Đọi Sơn"
+  },
+  {
+    "LocationID": "VN1110315",
+    "LocationName": "Xã Duy Hải"
+  },
+  {
+    "LocationID": "VN1110305",
+    "LocationName": "Xã Duy Minh"
+  },
+  {
+    "LocationID": "VN1110323",
+    "LocationName": "Xã Hoàng Đông"
+  },
+  {
+    "LocationID": "VN1110309",
+    "LocationName": "Xã Mộc Bắc"
+  },
+  {
+    "LocationID": "VN1110313",
+    "LocationName": "Xã Mộc Nam"
+  },
+  {
+    "LocationID": "VN1110327",
+    "LocationName": "Xã Tiên Ngoại"
+  },
+  {
+    "LocationID": "VN1110321",
+    "LocationName": "Xã Tiên Nội"
+  },
+  {
+    "LocationID": "VN1110333",
+    "LocationName": "Xã Tiền Phong"
+  },
+  {
+    "LocationID": "VN1110319",
+    "LocationName": "Xã Trác Văn"
+  },
+  {
+    "LocationID": "VN1110301",
+    "LocationName": "Xã Yên Bắc"
+  },
+  {
+    "LocationID": "VN1110325",
+    "LocationName": "Xã Yên Nam"
+  }
+]

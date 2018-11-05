@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN7111107",
+    "LocationName": "Thị trấn Phước Vĩnh"
+  },
+  {
+    "LocationID": "VN7111111",
+    "LocationName": "Xã An Bình"
+  },
+  {
+    "LocationID": "VN7111101",
+    "LocationName": "Xã An Linh"
+  },
+  {
+    "LocationID": "VN7111103",
+    "LocationName": "Xã An Long"
+  },
+  {
+    "LocationID": "VN7111121",
+    "LocationName": "Xã An Thái"
+  },
+  {
+    "LocationID": "VN7111119",
+    "LocationName": "Xã Phước Hòa"
+  },
+  {
+    "LocationID": "VN7111109",
+    "LocationName": "Xã Phước Sang"
+  },
+  {
+    "LocationID": "VN7111115",
+    "LocationName": "Xã Tam Lập"
+  },
+  {
+    "LocationID": "VN7111113",
+    "LocationName": "Xã Tân Hiệp"
+  },
+  {
+    "LocationID": "VN7111105",
+    "LocationName": "Xã Tân Long"
+  },
+  {
+    "LocationID": "VN7111117",
+    "LocationName": "Xã Vĩnh Hòa"
+  }
+]

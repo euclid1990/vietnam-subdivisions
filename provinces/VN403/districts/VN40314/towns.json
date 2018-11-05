@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN4031401",
+    "LocationName": "Phưòng Hòa Hiếu"
+  },
+  {
+    "LocationID": "VN4031405",
+    "LocationName": "Phường Long Sơn"
+  },
+  {
+    "LocationID": "VN4031407",
+    "LocationName": "Phường Quang Phong"
+  },
+  {
+    "LocationID": "VN4031403",
+    "LocationName": "Phường Quang Tiến"
+  },
+  {
+    "LocationID": "VN4031415",
+    "LocationName": "Xã Đông Hiếu"
+  },
+  {
+    "LocationID": "VN4031419",
+    "LocationName": "Xã Nghĩa Hòa"
+  },
+  {
+    "LocationID": "VN4031409",
+    "LocationName": "Xã Nghĩa Mỹ"
+  },
+  {
+    "LocationID": "VN4031411",
+    "LocationName": "Xã Nghĩa Thuận"
+  },
+  {
+    "LocationID": "VN4031413",
+    "LocationName": "Xã Nghĩa Tiến"
+  },
+  {
+    "LocationID": "VN4031417",
+    "LocationName": "Xã Tây Hiếu"
+  }
+]

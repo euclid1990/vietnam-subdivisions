@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8190105",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8190119",
+    "LocationName": "Phường 10"
+  },
+  {
+    "LocationID": "VN8190101",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8190117",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8190115",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8190109",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8190113",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN8190103",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN8190111",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN8190107",
+    "LocationName": "Phường 9"
+  }
+]

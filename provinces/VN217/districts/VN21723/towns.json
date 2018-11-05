@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN2172305",
+    "LocationName": "Thị trấn Thanh Thuỷ"
+  },
+  {
+    "LocationID": "VN2172309",
+    "LocationName": "Xã Bảo Yên"
+  },
+  {
+    "LocationID": "VN2172301",
+    "LocationName": "Xã Đào Xá"
+  },
+  {
+    "LocationID": "VN2172327",
+    "LocationName": "Xã Đoan Hạ"
+  },
+  {
+    "LocationID": "VN2172311",
+    "LocationName": "Xã Đồng Luận"
+  },
+  {
+    "LocationID": "VN2172313",
+    "LocationName": "Xã Hoàng Xá"
+  },
+  {
+    "LocationID": "VN2172317",
+    "LocationName": "Xã Phượng Mao"
+  },
+  {
+    "LocationID": "VN2172307",
+    "LocationName": "Xã Sơn Thủy"
+  },
+  {
+    "LocationID": "VN2172325",
+    "LocationName": "Xã Tân Phương"
+  },
+  {
+    "LocationID": "VN2172321",
+    "LocationName": "Xã Thạch Đồng"
+  },
+  {
+    "LocationID": "VN2172329",
+    "LocationName": "Xã Trung Nghĩa"
+  },
+  {
+    "LocationID": "VN2172315",
+    "LocationName": "Xã Trung Thịnh"
+  },
+  {
+    "LocationID": "VN2172319",
+    "LocationName": "Xã Tu Vũ"
+  },
+  {
+    "LocationID": "VN2172303",
+    "LocationName": "Xã Xuân Lộc"
+  },
+  {
+    "LocationID": "VN2172323",
+    "LocationName": "Xã Yến Mao"
+  }
+]

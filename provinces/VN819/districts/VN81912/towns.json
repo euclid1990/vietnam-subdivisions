@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8191217",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8191219",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8191221",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8191211",
+    "LocationName": "Xã Long Bình"
+  },
+  {
+    "LocationID": "VN8191203",
+    "LocationName": "Xã Mỹ Bình"
+  },
+  {
+    "LocationID": "VN8191215",
+    "LocationName": "Xã Mỹ Quới"
+  },
+  {
+    "LocationID": "VN8191209",
+    "LocationName": "Xã Tân Long"
+  },
+  {
+    "LocationID": "VN8191201",
+    "LocationName": "Xã Vĩnh Quới"
+  }
+]

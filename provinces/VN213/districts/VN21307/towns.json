@@ -1,0 +1,110 @@
+[
+  {
+    "LocationID": "VN2130701",
+    "LocationName": "Thị trấn Mậu A"
+  },
+  {
+    "LocationID": "VN2130711",
+    "LocationName": "Xã An Bình"
+  },
+  {
+    "LocationID": "VN2130723",
+    "LocationName": "Xã An Thịnh"
+  },
+  {
+    "LocationID": "VN2130709",
+    "LocationName": "Xã Châu Quế Hạ"
+  },
+  {
+    "LocationID": "VN2130707",
+    "LocationName": "Xã Châu Quế Thượng"
+  },
+  {
+    "LocationID": "VN2130751",
+    "LocationName": "Xã Đại Phác"
+  },
+  {
+    "LocationID": "VN2130729",
+    "LocationName": "Xã Đại Sơn"
+  },
+  {
+    "LocationID": "VN2130713",
+    "LocationName": "Xã Đông An"
+  },
+  {
+    "LocationID": "VN2130745",
+    "LocationName": "Xã Đông Cuông"
+  },
+  {
+    "LocationID": "VN2130735",
+    "LocationName": "Xã Hoàng Thắng"
+  },
+  {
+    "LocationID": "VN2130705",
+    "LocationName": "Xã Lâm Giang"
+  },
+  {
+    "LocationID": "VN2130703",
+    "LocationName": "Xã Lang Thíp"
+  },
+  {
+    "LocationID": "VN2130717",
+    "LocationName": "Xã Mậu Đông"
+  },
+  {
+    "LocationID": "VN2130737",
+    "LocationName": "Xã Mỏ Vàng"
+  },
+  {
+    "LocationID": "VN2130739",
+    "LocationName": "Xã Nà Hẩu"
+  },
+  {
+    "LocationID": "VN2130719",
+    "LocationName": "Xã Ngòi A"
+  },
+  {
+    "LocationID": "VN2130715",
+    "LocationName": "Xã Phong Dụ Hạ"
+  },
+  {
+    "LocationID": "VN2130749",
+    "LocationName": "Xã Phong Dụ Thượng"
+  },
+  {
+    "LocationID": "VN2130741",
+    "LocationName": "Xã Quang Minh"
+  },
+  {
+    "LocationID": "VN2130721",
+    "LocationName": "Xã Tân Hợp"
+  },
+  {
+    "LocationID": "VN2130753",
+    "LocationName": "Xã Viễn Sơn"
+  },
+  {
+    "LocationID": "VN2130733",
+    "LocationName": "Xã Xuân ái"
+  },
+  {
+    "LocationID": "VN2130747",
+    "LocationName": "Xã Xuân Tầm"
+  },
+  {
+    "LocationID": "VN2130727",
+    "LocationName": "Xã Yên Hợp"
+  },
+  {
+    "LocationID": "VN2130743",
+    "LocationName": "Xã Yên Hưng"
+  },
+  {
+    "LocationID": "VN2130731",
+    "LocationName": "Xã Yên Phú"
+  },
+  {
+    "LocationID": "VN2130725",
+    "LocationName": "Xã Yên Thái"
+  }
+]

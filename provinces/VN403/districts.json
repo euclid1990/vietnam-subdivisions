@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN40327",
+    "LocationName": "Huyện Anh Sơn"
+  },
+  {
+    "LocationID": "VN40321",
+    "LocationName": "Huyện Con Cuông"
+  },
+  {
+    "LocationID": "VN40325",
+    "LocationName": "Huyện Diễn Châu"
+  },
+  {
+    "LocationID": "VN40329",
+    "LocationName": "Huyện Đô Lương"
+  },
+  {
+    "LocationID": "VN40337",
+    "LocationName": "Huyện Hưng Nguyên"
+  },
+  {
+    "LocationID": "VN40309",
+    "LocationName": "Huyện Kỳ Sơn"
+  },
+  {
+    "LocationID": "VN40335",
+    "LocationName": "Huyện Nam Đàn"
+  },
+  {
+    "LocationID": "VN40333",
+    "LocationName": "Huyện Nghi Lộc"
+  },
+  {
+    "LocationID": "VN40313",
+    "LocationName": "Huyện Nghĩa Đàn"
+  },
+  {
+    "LocationID": "VN40305",
+    "LocationName": "Huyện Quế Phong"
+  },
+  {
+    "LocationID": "VN40307",
+    "LocationName": "Huyện Quỳ Châu"
+  },
+  {
+    "LocationID": "VN40311",
+    "LocationName": "Huyện Quỳ Hợp"
+  },
+  {
+    "LocationID": "VN40317",
+    "LocationName": "Huyện Quỳnh Lưu"
+  },
+  {
+    "LocationID": "VN40319",
+    "LocationName": "Huyện Tân Kỳ"
+  },
+  {
+    "LocationID": "VN40331",
+    "LocationName": "Huyện Thanh Chương"
+  },
+  {
+    "LocationID": "VN40315",
+    "LocationName": "Huyện Tương Dương"
+  },
+  {
+    "LocationID": "VN40323",
+    "LocationName": "Huyện Yên Thành"
+  },
+  {
+    "LocationID": "VN40301",
+    "LocationName": "Thành phố Vinh"
+  },
+  {
+    "LocationID": "VN40303",
+    "LocationName": "Thị xã Cửa Lò"
+  },
+  {
+    "LocationID": "VN40339",
+    "LocationName": "Thị xã Hoàng Mai"
+  },
+  {
+    "LocationID": "VN40314",
+    "LocationName": "Thị xã Thái Hòa"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8130903",
+    "LocationName": "Thị trấn Minh Lương"
+  },
+  {
+    "LocationID": "VN8130917",
+    "LocationName": "Xã Bình An"
+  },
+  {
+    "LocationID": "VN8130901",
+    "LocationName": "Xã Giục Tượng"
+  },
+  {
+    "LocationID": "VN8130905",
+    "LocationName": "Xã Minh Hòa"
+  },
+  {
+    "LocationID": "VN8130911",
+    "LocationName": "Xã Mong Thọ"
+  },
+  {
+    "LocationID": "VN8130907",
+    "LocationName": "Xã Mong Thọ A"
+  },
+  {
+    "LocationID": "VN8130909",
+    "LocationName": "Xã Mong Thọ B"
+  },
+  {
+    "LocationID": "VN8130919",
+    "LocationName": "Xã Thạnh Lộc"
+  },
+  {
+    "LocationID": "VN8130913",
+    "LocationName": "Xã Vĩnh Hòa Hiệp"
+  },
+  {
+    "LocationID": "VN8130915",
+    "LocationName": "Xã Vĩnh Hòa Phú"
+  }
+]

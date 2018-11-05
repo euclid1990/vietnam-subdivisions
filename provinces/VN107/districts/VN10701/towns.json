@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN1070133",
+    "LocationName": "Phường ái Quốc"
+  },
+  {
+    "LocationID": "VN1070109",
+    "LocationName": "Phường Bình Hàn"
+  },
+  {
+    "LocationID": "VN1070107",
+    "LocationName": "Phường Cẩm Thượng"
+  },
+  {
+    "LocationID": "VN1070121",
+    "LocationName": "Phường Hải Tân"
+  },
+  {
+    "LocationID": "VN1070119",
+    "LocationName": "Phường Lê Thanh Nghị"
+  },
+  {
+    "LocationID": "VN1070111",
+    "LocationName": "Phường Ngọc Châu"
+  },
+  {
+    "LocationID": "VN1070101",
+    "LocationName": "Phường Nguyễn Trãi"
+  },
+  {
+    "LocationID": "VN1070141",
+    "LocationName": "PHường Nhị Châu"
+  },
+  {
+    "LocationID": "VN1070113",
+    "LocationName": "Phường Phạm Ngũ Lão"
+  },
+  {
+    "LocationID": "VN1070103",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1070139",
+    "LocationName": "Phường Tân Bình"
+  },
+  {
+    "LocationID": "VN1070127",
+    "LocationName": "Phường Thạch Khôi"
+  },
+  {
+    "LocationID": "VN1070105",
+    "LocationName": "Phường Thanh Bình"
+  },
+  {
+    "LocationID": "VN1070115",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1070117",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN1070123",
+    "LocationName": "Phường Tứ Minh"
+  },
+  {
+    "LocationID": "VN1070125",
+    "LocationName": "Phường Việt Hòa"
+  },
+  {
+    "LocationID": "VN1070135",
+    "LocationName": "Xã An Châu"
+  },
+  {
+    "LocationID": "VN1070131",
+    "LocationName": "Xã Nam Đồng"
+  },
+  {
+    "LocationID": "VN1070129",
+    "LocationName": "Xã Tân Hưng"
+  },
+  {
+    "LocationID": "VN1070137",
+    "LocationName": "Xã Thượng Đạt"
+  }
+]

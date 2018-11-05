@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN8090305",
+    "LocationName": "Thị trấn Long Hồ"
+  },
+  {
+    "LocationID": "VN8090321",
+    "LocationName": "Xã An Bình"
+  },
+  {
+    "LocationID": "VN8090317",
+    "LocationName": "Xã Bình Hòa Phước"
+  },
+  {
+    "LocationID": "VN8090315",
+    "LocationName": "Xã Đồng Phú"
+  },
+  {
+    "LocationID": "VN8090319",
+    "LocationName": "Xã Hòa Ninh"
+  },
+  {
+    "LocationID": "VN8090313",
+    "LocationName": "Xã Hòa Phú"
+  },
+  {
+    "LocationID": "VN8090329",
+    "LocationName": "Xã Lộc Hòa"
+  },
+  {
+    "LocationID": "VN8090301",
+    "LocationName": "Xã Long An"
+  },
+  {
+    "LocationID": "VN8090327",
+    "LocationName": "Xã Long Phước"
+  },
+  {
+    "LocationID": "VN8090309",
+    "LocationName": "Xã Phú Đức"
+  },
+  {
+    "LocationID": "VN8090303",
+    "LocationName": "Xã Phú Quới"
+  },
+  {
+    "LocationID": "VN8090325",
+    "LocationName": "Xã Phước Hậu"
+  },
+  {
+    "LocationID": "VN8090323",
+    "LocationName": "Xã Tân Hạnh"
+  },
+  {
+    "LocationID": "VN8090307",
+    "LocationName": "Xã Thanh Đức"
+  },
+  {
+    "LocationID": "VN8090311",
+    "LocationName": "Xã Thạnh Quới"
+  }
+]

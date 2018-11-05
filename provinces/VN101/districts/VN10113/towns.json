@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN1011303",
+    "LocationName": "Phường Dịch Vọng"
+  },
+  {
+    "LocationID": "VN1011305",
+    "LocationName": "Phường Dịch Vọng Hậu"
+  },
+  {
+    "LocationID": "VN1011301",
+    "LocationName": "Phường Mai Dịch"
+  },
+  {
+    "LocationID": "VN1011311",
+    "LocationName": "Phường Nghĩa Đô"
+  },
+  {
+    "LocationID": "VN1011313",
+    "LocationName": "Phường Nghĩa Tân"
+  },
+  {
+    "LocationID": "VN1011307",
+    "LocationName": "Phường Quan Hoa"
+  },
+  {
+    "LocationID": "VN1011309",
+    "LocationName": "Phường Trung Hòa"
+  },
+  {
+    "LocationID": "VN1011315",
+    "LocationName": "Phường Yên Hòa"
+  }
+]

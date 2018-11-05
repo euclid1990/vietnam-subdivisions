@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN1015711",
+    "LocationName": "Phường Cổ Nhuế 1"
+  },
+  {
+    "LocationID": "VN1015713",
+    "LocationName": "Phường Cổ Nhuế 2"
+  },
+  {
+    "LocationID": "VN1015705",
+    "LocationName": "Phường Đông Ngạc"
+  },
+  {
+    "LocationID": "VN1015707",
+    "LocationName": "Phường Đức Thắng"
+  },
+  {
+    "LocationID": "VN1015715",
+    "LocationName": "Phường Liên Mạc"
+  },
+  {
+    "LocationID": "VN1015721",
+    "LocationName": "Phường Minh Khai"
+  },
+  {
+    "LocationID": "VN1015723",
+    "LocationName": "Phường Phú Diễn"
+  },
+  {
+    "LocationID": "VN1015725",
+    "LocationName": "Phường Phúc Diễn"
+  },
+  {
+    "LocationID": "VN1015719",
+    "LocationName": "Phường Tây Tựu"
+  },
+  {
+    "LocationID": "VN1015717",
+    "LocationName": "Phường Thượng Cát"
+  },
+  {
+    "LocationID": "VN1015709",
+    "LocationName": "Phường Thụy Phương"
+  },
+  {
+    "LocationID": "VN1015701",
+    "LocationName": "Phường Xuân Đỉnh"
+  },
+  {
+    "LocationID": "VN1015703",
+    "LocationName": "Phường Xuân Tảo"
+  }
+]

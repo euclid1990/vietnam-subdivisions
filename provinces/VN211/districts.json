@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN21105",
+    "LocationName": "Huyện Chiêm Hoá"
+  },
+  {
+    "LocationID": "VN21107",
+    "LocationName": "Huyện Hàm Yên"
+  },
+  {
+    "LocationID": "VN21113",
+    "LocationName": "Huyện Lâm Bình"
+  },
+  {
+    "LocationID": "VN21103",
+    "LocationName": "Huyện Na Hang"
+  },
+  {
+    "LocationID": "VN21111",
+    "LocationName": "Huyện Sơn Dương"
+  },
+  {
+    "LocationID": "VN21109",
+    "LocationName": "Huyện Yên Sơn"
+  },
+  {
+    "LocationID": "VN21101",
+    "LocationName": "Thành Phố Tuyên Quang"
+  }
+]

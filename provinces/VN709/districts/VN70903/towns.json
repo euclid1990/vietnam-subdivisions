@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7090307",
+    "LocationName": "Thị trấn Tân Biên"
+  },
+  {
+    "LocationID": "VN7090315",
+    "LocationName": "Xã Hòa Hiệp"
+  },
+  {
+    "LocationID": "VN7090317",
+    "LocationName": "Xã Mỏ Công"
+  },
+  {
+    "LocationID": "VN7090303",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN7090309",
+    "LocationName": "Xã Tân Lập"
+  },
+  {
+    "LocationID": "VN7090305",
+    "LocationName": "Xã Tân Phong"
+  },
+  {
+    "LocationID": "VN7090301",
+    "LocationName": "Xã Thạnh Bắc"
+  },
+  {
+    "LocationID": "VN7090311",
+    "LocationName": "Xã Thạnh Bình"
+  },
+  {
+    "LocationID": "VN7090313",
+    "LocationName": "Xã Thạnh Tây"
+  },
+  {
+    "LocationID": "VN7090319",
+    "LocationName": "Xã Trà Vong"
+  }
+]

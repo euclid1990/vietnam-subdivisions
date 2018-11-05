@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN8090111",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8090113",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8090115",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8090105",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8090103",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8090117",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN8090109",
+    "LocationName": "Phường 9"
+  },
+  {
+    "LocationID": "VN8090107",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8090121",
+    "LocationName": "Xã Tân Hội"
+  },
+  {
+    "LocationID": "VN8090119",
+    "LocationName": "Xã Tân Ngãi"
+  },
+  {
+    "LocationID": "VN8090101",
+    "LocationName": "Xã Trường An"
+  }
+]

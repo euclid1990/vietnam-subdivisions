@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN3020901",
+    "LocationName": "Thị trấn Than Uyên"
+  },
+  {
+    "LocationID": "VN3020903",
+    "LocationName": "Xã Hua Nà"
+  },
+  {
+    "LocationID": "VN3020923",
+    "LocationName": "Xã Khoen On"
+  },
+  {
+    "LocationID": "VN3020917",
+    "LocationName": "Xã Mường Cang"
+  },
+  {
+    "LocationID": "VN3020919",
+    "LocationName": "Xã Mường Kim"
+  },
+  {
+    "LocationID": "VN3020935",
+    "LocationName": "Xã Mường Mít"
+  },
+  {
+    "LocationID": "VN3020911",
+    "LocationName": "Xã Mường Than"
+  },
+  {
+    "LocationID": "VN3020915",
+    "LocationName": "Xã Pha Mu"
+  },
+  {
+    "LocationID": "VN3020913",
+    "LocationName": "Xã Phúc Than"
+  },
+  {
+    "LocationID": "VN3020921",
+    "LocationName": "Xã Tà Gia"
+  },
+  {
+    "LocationID": "VN3020933",
+    "LocationName": "Xã Tà Hừa"
+  },
+  {
+    "LocationID": "VN3020905",
+    "LocationName": "Xã Tà Mung"
+  }
+]

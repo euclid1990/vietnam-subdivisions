@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN8160101",
+    "LocationName": "Phường I"
+  },
+  {
+    "LocationID": "VN8160107",
+    "LocationName": "Phường III"
+  },
+  {
+    "LocationID": "VN8160109",
+    "LocationName": "Phường IV"
+  },
+  {
+    "LocationID": "VN8160111",
+    "LocationName": "Phường V"
+  },
+  {
+    "LocationID": "VN8160103",
+    "LocationName": "Phường VII"
+  },
+  {
+    "LocationID": "VN8160115",
+    "LocationName": "Xã Hoả Lựu"
+  },
+  {
+    "LocationID": "VN8160105",
+    "LocationName": "Xã Hoả Tiến"
+  },
+  {
+    "LocationID": "VN8160117",
+    "LocationName": "Xã Tân Tiến"
+  },
+  {
+    "LocationID": "VN8160113",
+    "LocationName": "Xã Vị Tân"
+  }
+]

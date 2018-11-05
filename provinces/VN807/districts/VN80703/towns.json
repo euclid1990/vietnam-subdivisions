@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN8070301",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8070307",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8070305",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8070309",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8070311",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8070319",
+    "LocationName": "Xã Bình Đông"
+  },
+  {
+    "LocationID": "VN8070321",
+    "LocationName": "Xã Bình Xuân"
+  },
+  {
+    "LocationID": "VN8070303",
+    "LocationName": "Xã Long Chánh"
+  },
+  {
+    "LocationID": "VN8070317",
+    "LocationName": "Xã Long Hòa"
+  },
+  {
+    "LocationID": "VN8070313",
+    "LocationName": "Xã Long Hưng"
+  },
+  {
+    "LocationID": "VN8070315",
+    "LocationName": "Xã Long Thuận"
+  },
+  {
+    "LocationID": "VN8070323",
+    "LocationName": "Xã Tân Trung"
+  }
+]

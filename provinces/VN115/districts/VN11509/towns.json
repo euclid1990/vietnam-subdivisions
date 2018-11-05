@@ -1,0 +1,178 @@
+[
+  {
+    "LocationID": "VN1150929",
+    "LocationName": "Thị trấn Đông Hưng"
+  },
+  {
+    "LocationID": "VN1150937",
+    "LocationName": "Xã An Châu"
+  },
+  {
+    "LocationID": "VN1150921",
+    "LocationName": "Xã Bạch Đằng"
+  },
+  {
+    "LocationID": "VN1150903",
+    "LocationName": "Xã Chương Dương"
+  },
+  {
+    "LocationID": "VN1150931",
+    "LocationName": "Xã Đô Lương"
+  },
+  {
+    "LocationID": "VN1150983",
+    "LocationName": "Xã Đông á"
+  },
+  {
+    "LocationID": "VN1150917",
+    "LocationName": "Xã Đông Các"
+  },
+  {
+    "LocationID": "VN1150939",
+    "LocationName": "Xã Đông Cường"
+  },
+  {
+    "LocationID": "VN1150971",
+    "LocationName": "Xã Đông Động"
+  },
+  {
+    "LocationID": "VN1150987",
+    "LocationName": "Xã Đông Dương"
+  },
+  {
+    "LocationID": "VN1150915",
+    "LocationName": "Xã Đông Giang"
+  },
+  {
+    "LocationID": "VN1150957",
+    "LocationName": "Xã Đông Hà"
+  },
+  {
+    "LocationID": "VN1150985",
+    "LocationName": "Xã Đông Hoàng"
+  },
+  {
+    "LocationID": "VN1150961",
+    "LocationName": "Xã Đông Hợp"
+  },
+  {
+    "LocationID": "VN1150909",
+    "LocationName": "Xã Đông Huy"
+  },
+  {
+    "LocationID": "VN1150959",
+    "LocationName": "Xã Đông Kinh"
+  },
+  {
+    "LocationID": "VN1150947",
+    "LocationName": "Xã Đông La"
+  },
+  {
+    "LocationID": "VN1150925",
+    "LocationName": "Xã Đông Lĩnh"
+  },
+  {
+    "LocationID": "VN1150923",
+    "LocationName": "Xã Đông Phong"
+  },
+  {
+    "LocationID": "VN1150991",
+    "LocationName": "Xã Đồng Phú"
+  },
+  {
+    "LocationID": "VN1150933",
+    "LocationName": "Xã Đông Phương"
+  },
+  {
+    "LocationID": "VN1150979",
+    "LocationName": "Xã Đông Quang"
+  },
+  {
+    "LocationID": "VN1150901",
+    "LocationName": "Xã Đông Sơn"
+  },
+  {
+    "LocationID": "VN1150919",
+    "LocationName": "Xã Đông Tân"
+  },
+  {
+    "LocationID": "VN1150969",
+    "LocationName": "Xã Đông Vinh"
+  },
+  {
+    "LocationID": "VN1150949",
+    "LocationName": "Xã Đông Xá"
+  },
+  {
+    "LocationID": "VN1150981",
+    "LocationName": "Xã Đông Xuân"
+  },
+  {
+    "LocationID": "VN1150965",
+    "LocationName": "Xã Hoa Lư"
+  },
+  {
+    "LocationID": "VN1150907",
+    "LocationName": "Xã Hoa Nam"
+  },
+  {
+    "LocationID": "VN1150973",
+    "LocationName": "Xã Hồng Châu"
+  },
+  {
+    "LocationID": "VN1150977",
+    "LocationName": "Xã Hồng Giang"
+  },
+  {
+    "LocationID": "VN1150955",
+    "LocationName": "Xã Hồng Việt"
+  },
+  {
+    "LocationID": "VN1150953",
+    "LocationName": "Xã Hợp Tiến"
+  },
+  {
+    "LocationID": "VN1150935",
+    "LocationName": "Xã Liên Giang"
+  },
+  {
+    "LocationID": "VN1150945",
+    "LocationName": "Xã Lô Giang"
+  },
+  {
+    "LocationID": "VN1150943",
+    "LocationName": "Xã Mê Linh"
+  },
+  {
+    "LocationID": "VN1150967",
+    "LocationName": "Xã Minh Châu"
+  },
+  {
+    "LocationID": "VN1150911",
+    "LocationName": "Xã Minh Tân"
+  },
+  {
+    "LocationID": "VN1150951",
+    "LocationName": "Xã Nguyên Xá"
+  },
+  {
+    "LocationID": "VN1150913",
+    "LocationName": "Xã Phong Châu"
+  },
+  {
+    "LocationID": "VN1150905",
+    "LocationName": "Xã Phú Châu"
+  },
+  {
+    "LocationID": "VN1150941",
+    "LocationName": "Xã Phú Lương"
+  },
+  {
+    "LocationID": "VN1150963",
+    "LocationName": "Xã Thăng Long"
+  },
+  {
+    "LocationID": "VN1150975",
+    "LocationName": "Xã Trọng Quan"
+  }
+]

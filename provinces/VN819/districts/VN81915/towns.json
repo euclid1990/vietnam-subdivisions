@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8191501",
+    "LocationName": "Thị trấn Châu Thành"
+  },
+  {
+    "LocationID": "VN8191507",
+    "LocationName": "Xã An Hiệp"
+  },
+  {
+    "LocationID": "VN8191505",
+    "LocationName": "Xã An Ninh"
+  },
+  {
+    "LocationID": "VN8191503",
+    "LocationName": "Xã Hồ Đắc Kiện"
+  },
+  {
+    "LocationID": "VN8191511",
+    "LocationName": "Xã Phú Tâm"
+  },
+  {
+    "LocationID": "VN8191509",
+    "LocationName": "Xã Phú Tân"
+  },
+  {
+    "LocationID": "VN8191513",
+    "LocationName": "Xã Thiện Mỹ"
+  },
+  {
+    "LocationID": "VN8191515",
+    "LocationName": "Xã Thuận Hòa"
+  }
+]

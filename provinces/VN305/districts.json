@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN30510",
+    "LocationName": "Huyện Cao Phong"
+  },
+  {
+    "LocationID": "VN30503",
+    "LocationName": "Huyện Đà Bắc"
+  },
+  {
+    "LocationID": "VN30511",
+    "LocationName": "Huyện Kim Bôi"
+  },
+  {
+    "LocationID": "VN30507",
+    "LocationName": "Huyện Kỳ Sơn"
+  },
+  {
+    "LocationID": "VN30515",
+    "LocationName": "Huyện Lạc Sơn"
+  },
+  {
+    "LocationID": "VN30517",
+    "LocationName": "Huyện Lạc Thuỷ"
+  },
+  {
+    "LocationID": "VN30509",
+    "LocationName": "Huyện Lương Sơn"
+  },
+  {
+    "LocationID": "VN30505",
+    "LocationName": "Huyện Mai Châu"
+  },
+  {
+    "LocationID": "VN30513",
+    "LocationName": "Huyện Tân Lạc"
+  },
+  {
+    "LocationID": "VN30519",
+    "LocationName": "Huyện Yên Thuỷ"
+  },
+  {
+    "LocationID": "VN30501",
+    "LocationName": "Thành phố Hòa Bình"
+  }
+]

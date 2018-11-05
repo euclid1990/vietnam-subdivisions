@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN6030715",
+    "LocationName": "Thị Trấn Ia Ly"
+  },
+  {
+    "LocationID": "VN6030709",
+    "LocationName": "Thị trấn Phú Hòa"
+  },
+  {
+    "LocationID": "VN6030719",
+    "LocationName": "Xã Chư Đăng Ya"
+  },
+  {
+    "LocationID": "VN6030725",
+    "LocationName": "Xã Chư Jôr"
+  },
+  {
+    "LocationID": "VN6030705",
+    "LocationName": "Xã Đăk Tơ Ver"
+  },
+  {
+    "LocationID": "VN6030711",
+    "LocationName": "Xã Hà Tây"
+  },
+  {
+    "LocationID": "VN6030701",
+    "LocationName": "Xã Hòa Phú"
+  },
+  {
+    "LocationID": "VN6030721",
+    "LocationName": "Xã Ia Ka"
+  },
+  {
+    "LocationID": "VN6030713",
+    "LocationName": "Xã Ia Khươl"
+  },
+  {
+    "LocationID": "VN6030729",
+    "LocationName": "Xã Ia Kreng"
+  },
+  {
+    "LocationID": "VN6030717",
+    "LocationName": "Xã Ia Mơ Nông"
+  },
+  {
+    "LocationID": "VN6030707",
+    "LocationName": "Xã Ia Nhin"
+  },
+  {
+    "LocationID": "VN6030703",
+    "LocationName": "Xã Ia Phí"
+  },
+  {
+    "LocationID": "VN6030723",
+    "LocationName": "Xã Nghĩa Hòa"
+  },
+  {
+    "LocationID": "VN6030727",
+    "LocationName": "Xã Nghĩa Hưng"
+  }
+]

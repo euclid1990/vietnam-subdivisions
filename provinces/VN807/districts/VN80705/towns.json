@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8070517",
+    "LocationName": "Thị trấn Mỹ Phước"
+  },
+  {
+    "LocationID": "VN8070525",
+    "LocationName": "Xã Hưng Thạnh"
+  },
+  {
+    "LocationID": "VN8070505",
+    "LocationName": "Xã Mỹ Phước"
+  },
+  {
+    "LocationID": "VN8070523",
+    "LocationName": "Xã Phú Mỹ"
+  },
+  {
+    "LocationID": "VN8070515",
+    "LocationName": "Xã Phước Lập"
+  },
+  {
+    "LocationID": "VN8070503",
+    "LocationName": "Xã Tân Hòa Đông"
+  },
+  {
+    "LocationID": "VN8070511",
+    "LocationName": "Xã Tân Hòa Tây"
+  },
+  {
+    "LocationID": "VN8070509",
+    "LocationName": "Xã Tân Hòa Thành"
+  },
+  {
+    "LocationID": "VN8070501",
+    "LocationName": "Xã Tân Lập 1"
+  },
+  {
+    "LocationID": "VN8070513",
+    "LocationName": "Xã Tân Lập 2"
+  },
+  {
+    "LocationID": "VN8070521",
+    "LocationName": "Xã Thạnh Hòa"
+  },
+  {
+    "LocationID": "VN8070519",
+    "LocationName": "Xã Thạnh Mỹ"
+  },
+  {
+    "LocationID": "VN8070507",
+    "LocationName": "Xã Thạnh Tân"
+  }
+]

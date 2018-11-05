@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN51117",
+    "LocationName": "Huyện Cam Lâm"
+  },
+  {
+    "LocationID": "VN51107",
+    "LocationName": "Huyện Diên Khánh"
+  },
+  {
+    "LocationID": "VN51113",
+    "LocationName": "Huyện Khánh Sơn"
+  },
+  {
+    "LocationID": "VN51111",
+    "LocationName": "Huyện Khánh Vĩnh"
+  },
+  {
+    "LocationID": "VN51115",
+    "LocationName": "Huyện Trường Sa"
+  },
+  {
+    "LocationID": "VN51103",
+    "LocationName": "Huyện Vạn Ninh"
+  },
+  {
+    "LocationID": "VN51109",
+    "LocationName": "Thành phố Cam Ranh"
+  },
+  {
+    "LocationID": "VN51101",
+    "LocationName": "Thành phố Nha Trang"
+  },
+  {
+    "LocationID": "VN51105",
+    "LocationName": "Thị xã Ninh Hòa"
+  }
+]

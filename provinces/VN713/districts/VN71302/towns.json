@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN7130219",
+    "LocationName": "Phường Phú Bình"
+  },
+  {
+    "LocationID": "VN7130215",
+    "LocationName": "Phường Xuân An"
+  },
+  {
+    "LocationID": "VN7130213",
+    "LocationName": "Phường Xuân Bình"
+  },
+  {
+    "LocationID": "VN7130217",
+    "LocationName": "Phường Xuân Hòa"
+  },
+  {
+    "LocationID": "VN7130203",
+    "LocationName": "Phường Xuân Thanh"
+  },
+  {
+    "LocationID": "VN7130211",
+    "LocationName": "Phường Xuân Trung"
+  },
+  {
+    "LocationID": "VN7130221",
+    "LocationName": "Xã Bảo Quang"
+  },
+  {
+    "LocationID": "VN7130223",
+    "LocationName": "Xã Bảo Vinh"
+  },
+  {
+    "LocationID": "VN7130225",
+    "LocationName": "Xã Bàu Sen"
+  },
+  {
+    "LocationID": "VN7130227",
+    "LocationName": "Xã Bàu Trâm"
+  },
+  {
+    "LocationID": "VN7130205",
+    "LocationName": "Xã Bình Lộc"
+  },
+  {
+    "LocationID": "VN7130209",
+    "LocationName": "Xã Hàng Gòn"
+  },
+  {
+    "LocationID": "VN7130201",
+    "LocationName": "Xã Suối Tre"
+  },
+  {
+    "LocationID": "VN7130207",
+    "LocationName": "Xã Xuân Lập"
+  },
+  {
+    "LocationID": "VN7130229",
+    "LocationName": "Xã Xuân Tân"
+  }
+]

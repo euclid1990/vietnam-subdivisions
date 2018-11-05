@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN1030409",
+    "LocationName": "Phường Cát Bi"
+  },
+  {
+    "LocationID": "VN1030405",
+    "LocationName": "Phường Đằng Hải"
+  },
+  {
+    "LocationID": "VN1030403",
+    "LocationName": "Phường Đằng Lâm"
+  },
+  {
+    "LocationID": "VN1030413",
+    "LocationName": "Phường Đông Hải 1"
+  },
+  {
+    "LocationID": "VN1030415",
+    "LocationName": "Phường Đông Hải 2"
+  },
+  {
+    "LocationID": "VN1030407",
+    "LocationName": "Phường Nam Hải"
+  },
+  {
+    "LocationID": "VN1030417",
+    "LocationName": "Phường Thành Tô"
+  },
+  {
+    "LocationID": "VN1030411",
+    "LocationName": "Phường Tràng Cát"
+  }
+]

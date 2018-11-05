@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN3010103",
+    "LocationName": "Phường Him Lam"
+  },
+  {
+    "LocationID": "VN3010115",
+    "LocationName": "Phường Mường Thanh"
+  },
+  {
+    "LocationID": "VN3010109",
+    "LocationName": "Phường Nam Thanh"
+  },
+  {
+    "LocationID": "VN3010101",
+    "LocationName": "Phường Noong Bua"
+  },
+  {
+    "LocationID": "VN3010107",
+    "LocationName": "Phường Tân Thanh"
+  },
+  {
+    "LocationID": "VN3010105",
+    "LocationName": "Phường Thanh Bình"
+  },
+  {
+    "LocationID": "VN3010111",
+    "LocationName": "Phường Thanh Trường"
+  },
+  {
+    "LocationID": "VN3010117",
+    "LocationName": "Xã Tà Lèng"
+  },
+  {
+    "LocationID": "VN3010113",
+    "LocationName": "Xã Thanh Minh"
+  }
+]

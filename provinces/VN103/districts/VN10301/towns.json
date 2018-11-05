@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN1030101",
+    "LocationName": "Phường Hạ Lý"
+  },
+  {
+    "LocationID": "VN1030117",
+    "LocationName": "Phường Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN1030109",
+    "LocationName": "Phường Hùng Vương"
+  },
+  {
+    "LocationID": "VN1030113",
+    "LocationName": "Phường Minh Khai"
+  },
+  {
+    "LocationID": "VN1030121",
+    "LocationName": "Phường Phạm Hồng Thái"
+  },
+  {
+    "LocationID": "VN1030119",
+    "LocationName": "Phường Phan Bội Châu"
+  },
+  {
+    "LocationID": "VN1030107",
+    "LocationName": "Phường Quán Toan"
+  },
+  {
+    "LocationID": "VN1030115",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1030103",
+    "LocationName": "Phường Sở Dầu"
+  },
+  {
+    "LocationID": "VN1030111",
+    "LocationName": "Phường Thượng Lý"
+  },
+  {
+    "LocationID": "VN1030105",
+    "LocationName": "Phường Trại Chuối"
+  }
+]

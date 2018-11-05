@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN2110113",
+    "LocationName": "Phường Hưng Thành"
+  },
+  {
+    "LocationID": "VN2110109",
+    "LocationName": "Phường Minh Xuân"
+  },
+  {
+    "LocationID": "VN2110105",
+    "LocationName": "Phường Nông Tiến"
+  },
+  {
+    "LocationID": "VN2110101",
+    "LocationName": "Phường Phan Thiết"
+  },
+  {
+    "LocationID": "VN2110115",
+    "LocationName": "Phường Tân Hà"
+  },
+  {
+    "LocationID": "VN2110111",
+    "LocationName": "Phường Tân Quang"
+  },
+  {
+    "LocationID": "VN2110107",
+    "LocationName": "Phường ỷ La"
+  },
+  {
+    "LocationID": "VN2110117",
+    "LocationName": "Xã An Khang"
+  },
+  {
+    "LocationID": "VN2110119",
+    "LocationName": "Xã An Tường"
+  },
+  {
+    "LocationID": "VN2110125",
+    "LocationName": "Xã Đội Cấn"
+  },
+  {
+    "LocationID": "VN2110121",
+    "LocationName": "Xã Lưỡng Vượng"
+  },
+  {
+    "LocationID": "VN2110123",
+    "LocationName": "Xã Thái Long"
+  },
+  {
+    "LocationID": "VN2110103",
+    "LocationName": "Xã Tràng Đà"
+  }
+]

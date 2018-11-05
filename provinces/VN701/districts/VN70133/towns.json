@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN7013315",
+    "LocationName": "Phường Bình Chiểu"
+  },
+  {
+    "LocationID": "VN7013319",
+    "LocationName": "Phường Bình Thọ"
+  },
+  {
+    "LocationID": "VN7013303",
+    "LocationName": "Phường Hiệp Bình Chánh"
+  },
+  {
+    "LocationID": "VN7013305",
+    "LocationName": "Phường Hiệp Bình Phước"
+  },
+  {
+    "LocationID": "VN7013311",
+    "LocationName": "Phường Linh Chiểu"
+  },
+  {
+    "LocationID": "VN7013301",
+    "LocationName": "Phường Linh Đông"
+  },
+  {
+    "LocationID": "VN7013317",
+    "LocationName": "Phường Linh Tây"
+  },
+  {
+    "LocationID": "VN7013323",
+    "LocationName": "Phường Linh Trung"
+  },
+  {
+    "LocationID": "VN7013309",
+    "LocationName": "Phường Linh Xuân"
+  },
+  {
+    "LocationID": "VN7013321",
+    "LocationName": "Phường Tam Bình"
+  },
+  {
+    "LocationID": "VN7013307",
+    "LocationName": "Phường Tam Phú"
+  },
+  {
+    "LocationID": "VN7013313",
+    "LocationName": "Phường Trường Thọ"
+  }
+]

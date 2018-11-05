@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN2131701",
+    "LocationName": "Thị trấn Trạm Tấu"
+  },
+  {
+    "LocationID": "VN2131723",
+    "LocationName": "Xã Bản Công"
+  },
+  {
+    "LocationID": "VN2131713",
+    "LocationName": "Xã Bản Mù"
+  },
+  {
+    "LocationID": "VN2131715",
+    "LocationName": "Xã Hát Lìu"
+  },
+  {
+    "LocationID": "VN2131711",
+    "LocationName": "Xã Làng Nhì"
+  },
+  {
+    "LocationID": "VN2131717",
+    "LocationName": "Xã Pá Hu"
+  },
+  {
+    "LocationID": "VN2131703",
+    "LocationName": "Xã Pá Lau"
+  },
+  {
+    "LocationID": "VN2131707",
+    "LocationName": "Xã Phình Hồ"
+  },
+  {
+    "LocationID": "VN2131709",
+    "LocationName": "Xã Tà Si Láng"
+  },
+  {
+    "LocationID": "VN2131721",
+    "LocationName": "Xã Trạm Tấu"
+  },
+  {
+    "LocationID": "VN2131719",
+    "LocationName": "Xã Túc Đán"
+  },
+  {
+    "LocationID": "VN2131705",
+    "LocationName": "Xã Xà Hồ"
+  }
+]

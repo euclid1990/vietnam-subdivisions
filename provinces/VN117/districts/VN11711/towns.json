@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1171105",
+    "LocationName": "Thị trấn Yên Thịnh"
+  },
+  {
+    "LocationID": "VN1171101",
+    "LocationName": "Xã Khánh Dương"
+  },
+  {
+    "LocationID": "VN1171119",
+    "LocationName": "Xã Khánh Thịnh"
+  },
+  {
+    "LocationID": "VN1171115",
+    "LocationName": "Xã Khánh Thượng"
+  },
+  {
+    "LocationID": "VN1171117",
+    "LocationName": "Xã Mai Sơn"
+  },
+  {
+    "LocationID": "VN1171133",
+    "LocationName": "Xã Yên Đồng"
+  },
+  {
+    "LocationID": "VN1171123",
+    "LocationName": "Xã Yên Hòa"
+  },
+  {
+    "LocationID": "VN1171127",
+    "LocationName": "Xã Yên Hưng"
+  },
+  {
+    "LocationID": "VN1171135",
+    "LocationName": "Xã Yên Lâm"
+  },
+  {
+    "LocationID": "VN1171131",
+    "LocationName": "Xã Yên Mạc"
+  },
+  {
+    "LocationID": "VN1171103",
+    "LocationName": "Xã Yên Mỹ"
+  },
+  {
+    "LocationID": "VN1171111",
+    "LocationName": "Xã Yên Nhân"
+  },
+  {
+    "LocationID": "VN1171121",
+    "LocationName": "Xã Yên Phong"
+  },
+  {
+    "LocationID": "VN1171107",
+    "LocationName": "Xã Yên Phú"
+  },
+  {
+    "LocationID": "VN1171113",
+    "LocationName": "Xã Yên Thái"
+  },
+  {
+    "LocationID": "VN1171125",
+    "LocationName": "Xã Yên Thắng"
+  },
+  {
+    "LocationID": "VN1171129",
+    "LocationName": "Xã Yên Thành"
+  },
+  {
+    "LocationID": "VN1171109",
+    "LocationName": "Xã Yên Từ"
+  }
+]

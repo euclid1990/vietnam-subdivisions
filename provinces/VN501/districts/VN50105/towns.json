@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN5010511",
+    "LocationName": "Phường An Hải Bắc"
+  },
+  {
+    "LocationID": "VN5010513",
+    "LocationName": "Phường An Hải Đông"
+  },
+  {
+    "LocationID": "VN5010501",
+    "LocationName": "Phường An Hải Tây"
+  },
+  {
+    "LocationID": "VN5010509",
+    "LocationName": "Phường Mân Thái"
+  },
+  {
+    "LocationID": "VN5010507",
+    "LocationName": "Phường Nại Hiên Đông"
+  },
+  {
+    "LocationID": "VN5010505",
+    "LocationName": "Phường Phước Mỹ"
+  },
+  {
+    "LocationID": "VN5010503",
+    "LocationName": "Phường Thọ Quang"
+  }
+]

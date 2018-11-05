@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN3012101",
+    "LocationName": "Thị Trấn Mường ảng"
+  },
+  {
+    "LocationID": "VN3012103",
+    "LocationName": "Xã ảng cang"
+  },
+  {
+    "LocationID": "VN3012105",
+    "LocationName": "Xã ảng nưa"
+  },
+  {
+    "LocationID": "VN3012107",
+    "LocationName": "Xã ảng tở"
+  },
+  {
+    "LocationID": "VN3012113",
+    "LocationName": "Xã Búng Lao"
+  },
+  {
+    "LocationID": "VN3012111",
+    "LocationName": "Xã Mường Đăng"
+  },
+  {
+    "LocationID": "VN3012119",
+    "LocationName": "Xã Mường Lạn"
+  },
+  {
+    "LocationID": "VN3012117",
+    "LocationName": "Xã Nậm Lịch"
+  },
+  {
+    "LocationID": "VN3012109",
+    "LocationName": "Xã Ngối Cáy"
+  },
+  {
+    "LocationID": "VN3012115",
+    "LocationName": "Xã Xuân Lao"
+  }
+]

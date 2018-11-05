@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN11111",
+    "LocationName": "Huyện Bình Lục"
+  },
+  {
+    "LocationID": "VN11103",
+    "LocationName": "Huyện Duy Tiên"
+  },
+  {
+    "LocationID": "VN11105",
+    "LocationName": "Huyện Kim Bảng"
+  },
+  {
+    "LocationID": "VN11107",
+    "LocationName": "Huyện Lý Nhân"
+  },
+  {
+    "LocationID": "VN11109",
+    "LocationName": "Huyện Thanh Liêm"
+  },
+  {
+    "LocationID": "VN11101",
+    "LocationName": "Thành phố Phủ Lý"
+  }
+]

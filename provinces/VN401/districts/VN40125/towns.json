@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN4012503",
+    "LocationName": "Thị trấn Yên Cát"
+  },
+  {
+    "LocationID": "VN4012505",
+    "LocationName": "Xã Bãi Trành"
+  },
+  {
+    "LocationID": "VN4012531",
+    "LocationName": "Xã Bình Lương"
+  },
+  {
+    "LocationID": "VN4012529",
+    "LocationName": "Xã Cát Tân"
+  },
+  {
+    "LocationID": "VN4012527",
+    "LocationName": "Xã Cát Vân"
+  },
+  {
+    "LocationID": "VN4012523",
+    "LocationName": "Xã Hóa Quỳ"
+  },
+  {
+    "LocationID": "VN4012509",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN4012511",
+    "LocationName": "Xã Thanh Hòa"
+  },
+  {
+    "LocationID": "VN4012501",
+    "LocationName": "Xã Thanh Lâm"
+  },
+  {
+    "LocationID": "VN4012517",
+    "LocationName": "Xã Thanh Phong"
+  },
+  {
+    "LocationID": "VN4012533",
+    "LocationName": "Xã Thanh Quân"
+  },
+  {
+    "LocationID": "VN4012513",
+    "LocationName": "Xã Thanh Sơn"
+  },
+  {
+    "LocationID": "VN4012535",
+    "LocationName": "Xã Thanh Xuân"
+  },
+  {
+    "LocationID": "VN4012515",
+    "LocationName": "Xã Thượng Ninh"
+  },
+  {
+    "LocationID": "VN4012521",
+    "LocationName": "Xã Xuân Bình"
+  },
+  {
+    "LocationID": "VN4012519",
+    "LocationName": "Xã Xuân Hòa"
+  },
+  {
+    "LocationID": "VN4012507",
+    "LocationName": "Xã Xuân Quỳ"
+  },
+  {
+    "LocationID": "VN4012525",
+    "LocationName": "Xã Yên Lễ"
+  }
+]

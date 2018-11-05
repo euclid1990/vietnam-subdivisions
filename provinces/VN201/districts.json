@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN20111",
+    "LocationName": "Huyện Bắc Mê"
+  },
+  {
+    "LocationID": "VN20119",
+    "LocationName": "Huyện Bắc Quang"
+  },
+  {
+    "LocationID": "VN20103",
+    "LocationName": "Huyện Đồng Văn"
+  },
+  {
+    "LocationID": "VN20113",
+    "LocationName": "Huyện Hoàng Su Phì"
+  },
+  {
+    "LocationID": "VN20105",
+    "LocationName": "Huyện Mèo Vạc"
+  },
+  {
+    "LocationID": "VN20109",
+    "LocationName": "Huyện Quản Bạ"
+  },
+  {
+    "LocationID": "VN20118",
+    "LocationName": "Huyện Quang Bình"
+  },
+  {
+    "LocationID": "VN20115",
+    "LocationName": "Huyện Vị Xuyên"
+  },
+  {
+    "LocationID": "VN20117",
+    "LocationName": "Huyện Xín Mần"
+  },
+  {
+    "LocationID": "VN20107",
+    "LocationName": "Huyện Yên Minh"
+  },
+  {
+    "LocationID": "VN20101",
+    "LocationName": "TP Hà Giang"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN1090111",
+    "LocationName": "Phường An Tảo"
+  },
+  {
+    "LocationID": "VN1090103",
+    "LocationName": "Phường Hiến Nam"
+  },
+  {
+    "LocationID": "VN1090115",
+    "LocationName": "Phường Hồng Châu"
+  },
+  {
+    "LocationID": "VN1090109",
+    "LocationName": "Phường Lam Sơn"
+  },
+  {
+    "LocationID": "VN1090113",
+    "LocationName": "Phường Lê Lợi"
+  },
+  {
+    "LocationID": "VN1090117",
+    "LocationName": "Phường Minh Khai"
+  },
+  {
+    "LocationID": "VN1090105",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1090101",
+    "LocationName": "Xã Bảo Khê"
+  },
+  {
+    "LocationID": "VN1090131",
+    "LocationName": "Xã Hoàng Hanh"
+  },
+  {
+    "LocationID": "VN1090123",
+    "LocationName": "Xã Hồng Nam"
+  },
+  {
+    "LocationID": "VN1090125",
+    "LocationName": "Xã Hùng Cường"
+  },
+  {
+    "LocationID": "VN1090121",
+    "LocationName": "Xã Liên Phương"
+  },
+  {
+    "LocationID": "VN1090127",
+    "LocationName": "Xã Phú Cường"
+  },
+  {
+    "LocationID": "VN1090129",
+    "LocationName": "Xã Phương Chiểu"
+  },
+  {
+    "LocationID": "VN1090107",
+    "LocationName": "Xã Quảng Châu"
+  },
+  {
+    "LocationID": "VN1090133",
+    "LocationName": "Xã Tân Hưng"
+  },
+  {
+    "LocationID": "VN1090119",
+    "LocationName": "Xã Trung Nghĩa"
+  }
+]

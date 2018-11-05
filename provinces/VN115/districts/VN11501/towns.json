@@ -1,0 +1,78 @@
+[
+  {
+    "LocationID": "VN1150103",
+    "LocationName": "Phường Bồ Xuyên"
+  },
+  {
+    "LocationID": "VN1150105",
+    "LocationName": "Phường Đề Thám"
+  },
+  {
+    "LocationID": "VN1150115",
+    "LocationName": "Phường Hoàng Diệu"
+  },
+  {
+    "LocationID": "VN1150107",
+    "LocationName": "Phường Kỳ Bá"
+  },
+  {
+    "LocationID": "VN1150101",
+    "LocationName": "Phường Lê Hồng Phong"
+  },
+  {
+    "LocationID": "VN1150111",
+    "LocationName": "Phường Phú Khánh"
+  },
+  {
+    "LocationID": "VN1150109",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1150117",
+    "LocationName": "Phường Tiền Phong"
+  },
+  {
+    "LocationID": "VN1150127",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1150121",
+    "LocationName": "Phường Trần Lãm"
+  },
+  {
+    "LocationID": "VN1150113",
+    "LocationName": "Xã Đông Hòa"
+  },
+  {
+    "LocationID": "VN1150131",
+    "LocationName": "Xã Đông Mỹ"
+  },
+  {
+    "LocationID": "VN1150129",
+    "LocationName": "Xã Đông Thọ"
+  },
+  {
+    "LocationID": "VN1150119",
+    "LocationName": "Xã Phú Xuân"
+  },
+  {
+    "LocationID": "VN1150133",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN1150123",
+    "LocationName": "Xã Vũ Chính"
+  },
+  {
+    "LocationID": "VN1150137",
+    "LocationName": "Xã Vũ Đông"
+  },
+  {
+    "LocationID": "VN1150135",
+    "LocationName": "Xã Vũ Lạc"
+  },
+  {
+    "LocationID": "VN1150125",
+    "LocationName": "Xã Vũ Phúc"
+  }
+]

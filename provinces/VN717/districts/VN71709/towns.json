@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7170901",
+    "LocationName": "Thị trấn Phú Mỹ"
+  },
+  {
+    "LocationID": "VN7170917",
+    "LocationName": "Xã Châu Pha"
+  },
+  {
+    "LocationID": "VN7170915",
+    "LocationName": "Xã Hắc Dịch"
+  },
+  {
+    "LocationID": "VN7170913",
+    "LocationName": "Xã Mỹ Xuân"
+  },
+  {
+    "LocationID": "VN7170909",
+    "LocationName": "Xã Phước Hòa"
+  },
+  {
+    "LocationID": "VN7170903",
+    "LocationName": "Xã Sông Xoài"
+  },
+  {
+    "LocationID": "VN7170905",
+    "LocationName": "Xã Tân Hải"
+  },
+  {
+    "LocationID": "VN7170907",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN7170911",
+    "LocationName": "Xã Tân Phước"
+  },
+  {
+    "LocationID": "VN7170919",
+    "LocationName": "Xã Tóc Tiên"
+  }
+]

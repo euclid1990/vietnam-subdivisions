@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8130309",
+    "LocationName": "Thị trấn Kiên Lương"
+  },
+  {
+    "LocationID": "VN8130301",
+    "LocationName": "Xã Bình An"
+  },
+  {
+    "LocationID": "VN8130325",
+    "LocationName": "Xã Bình Trị"
+  },
+  {
+    "LocationID": "VN8130321",
+    "LocationName": "Xã Dương Hòa"
+  },
+  {
+    "LocationID": "VN8130305",
+    "LocationName": "Xã Hòa Điền"
+  },
+  {
+    "LocationID": "VN8130323",
+    "LocationName": "Xã Hòn Nghệ"
+  },
+  {
+    "LocationID": "VN8130303",
+    "LocationName": "Xã Kiên Bình"
+  },
+  {
+    "LocationID": "VN8130317",
+    "LocationName": "Xã Phú Lợi"
+  },
+  {
+    "LocationID": "VN8130319",
+    "LocationName": "Xã Phú Mỹ"
+  },
+  {
+    "LocationID": "VN8130307",
+    "LocationName": "Xã Sơn Hải"
+  },
+  {
+    "LocationID": "VN8130315",
+    "LocationName": "Xã Tân Khánh Hòa"
+  },
+  {
+    "LocationID": "VN8130313",
+    "LocationName": "Xã Vĩnh Điều"
+  },
+  {
+    "LocationID": "VN8130311",
+    "LocationName": "Xã Vĩnh Phú"
+  }
+]

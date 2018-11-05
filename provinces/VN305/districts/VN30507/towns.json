@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN3050713",
+    "LocationName": "Thị trấn Kỳ Sơn"
+  },
+  {
+    "LocationID": "VN3050709",
+    "LocationName": "Xã Dân Hạ"
+  },
+  {
+    "LocationID": "VN3050717",
+    "LocationName": "Xã Dân Hòa"
+  },
+  {
+    "LocationID": "VN3050719",
+    "LocationName": "Xã Độc Lập"
+  },
+  {
+    "LocationID": "VN3050703",
+    "LocationName": "Xã Hợp Thành"
+  },
+  {
+    "LocationID": "VN3050715",
+    "LocationName": "Xã Hợp Thịnh"
+  },
+  {
+    "LocationID": "VN3050707",
+    "LocationName": "Xã Mông Hóa"
+  },
+  {
+    "LocationID": "VN3050701",
+    "LocationName": "Xã Phú Minh"
+  },
+  {
+    "LocationID": "VN3050705",
+    "LocationName": "Xã Phúc Tiến"
+  },
+  {
+    "LocationID": "VN3050721",
+    "LocationName": "Xã Yên Quang"
+  }
+]

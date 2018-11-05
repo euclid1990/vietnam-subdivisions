@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN6032129",
+    "LocationName": "Phường Cheo Reo"
+  },
+  {
+    "LocationID": "VN6032125",
+    "LocationName": "Phường Đoàn Kết"
+  },
+  {
+    "LocationID": "VN6032131",
+    "LocationName": "Phường Hòa Bình"
+  },
+  {
+    "LocationID": "VN6032127",
+    "LocationName": "Phường Sông Bờ"
+  },
+  {
+    "LocationID": "VN6032105",
+    "LocationName": "Xã Chư Băh"
+  },
+  {
+    "LocationID": "VN6032117",
+    "LocationName": "Xã Ia RTô"
+  },
+  {
+    "LocationID": "VN6032113",
+    "LocationName": "Xã la RBol"
+  },
+  {
+    "LocationID": "VN6032101",
+    "LocationName": "Xã la Sao"
+  }
+]

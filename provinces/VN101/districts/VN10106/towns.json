@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN1010611",
+    "LocationName": "Phường Bồ Đề"
+  },
+  {
+    "LocationID": "VN1010619",
+    "LocationName": "Phường Cự Khối"
+  },
+  {
+    "LocationID": "VN1010603",
+    "LocationName": "Phường Đức Giang"
+  },
+  {
+    "LocationID": "VN1010607",
+    "LocationName": "Phường Gia Thuỵ"
+  },
+  {
+    "LocationID": "VN1010601",
+    "LocationName": "Phường Giang Biên"
+  },
+  {
+    "LocationID": "VN1010627",
+    "LocationName": "Phường Long Biên"
+  },
+  {
+    "LocationID": "VN1010625",
+    "LocationName": "Phường Ngọc Lâm"
+  },
+  {
+    "LocationID": "VN1010623",
+    "LocationName": "Phường Ngọc Thuỵ"
+  },
+  {
+    "LocationID": "VN1010617",
+    "LocationName": "Phường Phúc Đồng"
+  },
+  {
+    "LocationID": "VN1010609",
+    "LocationName": "Phường Phúc Lợi"
+  },
+  {
+    "LocationID": "VN1010613",
+    "LocationName": "Phường Sài Đồng"
+  },
+  {
+    "LocationID": "VN1010615",
+    "LocationName": "Phường Thạch Bàn"
+  },
+  {
+    "LocationID": "VN1010621",
+    "LocationName": "Phường Thượng Thanh"
+  },
+  {
+    "LocationID": "VN1010605",
+    "LocationName": "Phường Việt Hưng"
+  }
+]

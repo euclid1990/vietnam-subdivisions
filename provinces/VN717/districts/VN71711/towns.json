@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN7171107",
+    "LocationName": "Thị trấn Long Điền"
+  },
+  {
+    "LocationID": "VN7171101",
+    "LocationName": "Thị trấn Long Hải"
+  },
+  {
+    "LocationID": "VN7171103",
+    "LocationName": "Xã An Ngãi"
+  },
+  {
+    "LocationID": "VN7171111",
+    "LocationName": "Xã An Nhứt"
+  },
+  {
+    "LocationID": "VN7171113",
+    "LocationName": "Xã Phước Hưng"
+  },
+  {
+    "LocationID": "VN7171105",
+    "LocationName": "Xã Phước Tỉnh"
+  },
+  {
+    "LocationID": "VN7171109",
+    "LocationName": "Xã Tam Phước"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN8171111",
+    "LocationName": "Thị trấn Cầu Ngang"
+  },
+  {
+    "LocationID": "VN8171103",
+    "LocationName": "Thị trấn Mỹ Long"
+  },
+  {
+    "LocationID": "VN8171119",
+    "LocationName": "Xã Hiệp Hòa"
+  },
+  {
+    "LocationID": "VN8171131",
+    "LocationName": "Xã Hiệp Mỹ"
+  },
+  {
+    "LocationID": "VN8171127",
+    "LocationName": "Xã Hiệp Mỹ Đông"
+  },
+  {
+    "LocationID": "VN8171109",
+    "LocationName": "Xã Hiệp Mỹ Tây"
+  },
+  {
+    "LocationID": "VN8171115",
+    "LocationName": "Xã Kim Hòa"
+  },
+  {
+    "LocationID": "VN8171125",
+    "LocationName": "Xã Long Sơn"
+  },
+  {
+    "LocationID": "VN8171105",
+    "LocationName": "Xã Mỹ Hòa"
+  },
+  {
+    "LocationID": "VN8171117",
+    "LocationName": "Xã Mỹ Long Bắc"
+  },
+  {
+    "LocationID": "VN8171101",
+    "LocationName": "Xã Mỹ Long Nam"
+  },
+  {
+    "LocationID": "VN8171123",
+    "LocationName": "Xã Nhị Trường"
+  },
+  {
+    "LocationID": "VN8171129",
+    "LocationName": "Xã Thạnh Hòa Sơn"
+  },
+  {
+    "LocationID": "VN8171107",
+    "LocationName": "Xã Thuận Hòa"
+  },
+  {
+    "LocationID": "VN8171121",
+    "LocationName": "Xã Trường Thọ"
+  },
+  {
+    "LocationID": "VN8171113",
+    "LocationName": "Xã Vĩnh Kim"
+  }
+]

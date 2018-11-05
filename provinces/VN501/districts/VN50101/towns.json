@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN5010117",
+    "LocationName": "Phường Bình Hiên"
+  },
+  {
+    "LocationID": "VN5010119",
+    "LocationName": "Phường Bình Thuận"
+  },
+  {
+    "LocationID": "VN5010101",
+    "LocationName": "Phường Hải Châu I"
+  },
+  {
+    "LocationID": "VN5010111",
+    "LocationName": "Phường Hải Châu II"
+  },
+  {
+    "LocationID": "VN5010121",
+    "LocationName": "Phường Hòa Cường"
+  },
+  {
+    "LocationID": "VN5010131",
+    "LocationName": "Phường Hòa Cường Bắc"
+  },
+  {
+    "LocationID": "VN5010129",
+    "LocationName": "Phường Hòa Cường Nam"
+  },
+  {
+    "LocationID": "VN5010115",
+    "LocationName": "Phường Hòa Thuận"
+  },
+  {
+    "LocationID": "VN5010125",
+    "LocationName": "Phường Hòa Thuận Đông"
+  },
+  {
+    "LocationID": "VN5010127",
+    "LocationName": "Phường Hòa Thuận Tây"
+  },
+  {
+    "LocationID": "VN5010105",
+    "LocationName": "Phường Nam Dương"
+  },
+  {
+    "LocationID": "VN5010113",
+    "LocationName": "Phường Phư��c Ninh"
+  },
+  {
+    "LocationID": "VN5010103",
+    "LocationName": "Phường Thạch Thang"
+  },
+  {
+    "LocationID": "VN5010107",
+    "LocationName": "Phường Thanh Bình"
+  },
+  {
+    "LocationID": "VN5010109",
+    "LocationName": "Phường Thuận Phước"
+  }
+]

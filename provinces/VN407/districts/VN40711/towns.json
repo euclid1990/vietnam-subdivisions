@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN4071111",
+    "LocationName": "Thị trấn Quán Hàu"
+  },
+  {
+    "LocationID": "VN4071103",
+    "LocationName": "Xã An Ninh"
+  },
+  {
+    "LocationID": "VN4071119",
+    "LocationName": "Xã Duy Ninh"
+  },
+  {
+    "LocationID": "VN4071121",
+    "LocationName": "Xã Gia Ninh"
+  },
+  {
+    "LocationID": "VN4071117",
+    "LocationName": "Xã Hải Ninh"
+  },
+  {
+    "LocationID": "VN4071107",
+    "LocationName": "Xã Hàm Ninh"
+  },
+  {
+    "LocationID": "VN4071125",
+    "LocationName": "Xã Hiền Ninh"
+  },
+  {
+    "LocationID": "VN4071105",
+    "LocationName": "Xã Lương Ninh"
+  },
+  {
+    "LocationID": "VN4071109",
+    "LocationName": "Xã Tân Ninh"
+  },
+  {
+    "LocationID": "VN4071113",
+    "LocationName": "Xã Trường Sơn"
+  },
+  {
+    "LocationID": "VN4071123",
+    "LocationName": "Xã Trường Xuân"
+  },
+  {
+    "LocationID": "VN4071129",
+    "LocationName": "Xã Vạn Ninh"
+  },
+  {
+    "LocationID": "VN4071101",
+    "LocationName": "Xã Vĩnh Ninh"
+  },
+  {
+    "LocationID": "VN4071115",
+    "LocationName": "Xã Võ Ninh"
+  },
+  {
+    "LocationID": "VN4071127",
+    "LocationName": "Xã Xuân Ninh"
+  }
+]

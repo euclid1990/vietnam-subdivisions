@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8051109",
+    "LocationName": "Thị trấn Cái Dầu"
+  },
+  {
+    "LocationID": "VN8051125",
+    "LocationName": "Xã Bình Chánh"
+  },
+  {
+    "LocationID": "VN8051119",
+    "LocationName": "Xã Bình Long"
+  },
+  {
+    "LocationID": "VN8051121",
+    "LocationName": "Xã Bình Mỹ"
+  },
+  {
+    "LocationID": "VN8051107",
+    "LocationName": "Xã Bình Phú"
+  },
+  {
+    "LocationID": "VN8051123",
+    "LocationName": "Xã Bình Thủy"
+  },
+  {
+    "LocationID": "VN8051101",
+    "LocationName": "Xã Đào Hữu Cảnh"
+  },
+  {
+    "LocationID": "VN8051111",
+    "LocationName": "Xã Khánh Hòa"
+  },
+  {
+    "LocationID": "VN8051113",
+    "LocationName": "Xã Mỹ Đức"
+  },
+  {
+    "LocationID": "VN8051103",
+    "LocationName": "Xã Mỹ Phú"
+  },
+  {
+    "LocationID": "VN8051115",
+    "LocationName": "Xã ô Long Vỹ"
+  },
+  {
+    "LocationID": "VN8051105",
+    "LocationName": "Xã Thạnh Mỹ Tây"
+  },
+  {
+    "LocationID": "VN8051117",
+    "LocationName": "Xã Vĩnh Thạnh Trung"
+  }
+]

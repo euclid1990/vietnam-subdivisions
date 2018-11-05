@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN50911",
+    "LocationName": "Huyện Đông Hòa"
+  },
+  {
+    "LocationID": "VN50903",
+    "LocationName": "Huyện Đồng Xuân"
+  },
+  {
+    "LocationID": "VN50915",
+    "LocationName": "Huyện Phú Hòa"
+  },
+  {
+    "LocationID": "VN50909",
+    "LocationName": "Huyện Sơn Hòa"
+  },
+  {
+    "LocationID": "VN50913",
+    "LocationName": "Huyện Sông Hinh"
+  },
+  {
+    "LocationID": "VN50912",
+    "LocationName": "Huyện Tây Hòa"
+  },
+  {
+    "LocationID": "VN50907",
+    "LocationName": "Huyện Tuy An"
+  },
+  {
+    "LocationID": "VN50905",
+    "LocationName": "Thị xã Sông Cầu"
+  },
+  {
+    "LocationID": "VN50901",
+    "LocationName": "TP Tuy Hòa"
+  }
+]

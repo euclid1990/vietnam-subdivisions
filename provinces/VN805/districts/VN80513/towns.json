@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN8051315",
+    "LocationName": "Thị trấn Chi Lăng"
+  },
+  {
+    "LocationID": "VN8051313",
+    "LocationName": "Thị trấn Nhà Bàng"
+  },
+  {
+    "LocationID": "VN8051321",
+    "LocationName": "Thị trấn Tịnh Biên"
+  },
+  {
+    "LocationID": "VN8051325",
+    "LocationName": "Xã An Cư"
+  },
+  {
+    "LocationID": "VN8051307",
+    "LocationName": "Xã An Hảo"
+  },
+  {
+    "LocationID": "VN8051305",
+    "LocationName": "Xã An Nông"
+  },
+  {
+    "LocationID": "VN8051319",
+    "LocationName": "Xã An Phú"
+  },
+  {
+    "LocationID": "VN8051317",
+    "LocationName": "Xã Nhơn Hưng"
+  },
+  {
+    "LocationID": "VN8051301",
+    "LocationName": "Xã Núi Voi"
+  },
+  {
+    "LocationID": "VN8051309",
+    "LocationName": "Xã Tân Lập"
+  },
+  {
+    "LocationID": "VN8051311",
+    "LocationName": "Xã Tân Lợi"
+  },
+  {
+    "LocationID": "VN8051303",
+    "LocationName": "Xã Thới Sơn"
+  },
+  {
+    "LocationID": "VN8051323",
+    "LocationName": "Xã Văn Giáo"
+  },
+  {
+    "LocationID": "VN8051327",
+    "LocationName": "Xã Vĩnh Trung"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN4090717",
+    "LocationName": "Thị trấn Cửa Việt"
+  },
+  {
+    "LocationID": "VN4090715",
+    "LocationName": "Thị trấn Gio Linh"
+  },
+  {
+    "LocationID": "VN4090729",
+    "LocationName": "Xã Gio An"
+  },
+  {
+    "LocationID": "VN4090725",
+    "LocationName": "Xã Gio Bình"
+  },
+  {
+    "LocationID": "VN4090709",
+    "LocationName": "Xã Gio Châu"
+  },
+  {
+    "LocationID": "VN4090727",
+    "LocationName": "Xã Gio Hải"
+  },
+  {
+    "LocationID": "VN4090735",
+    "LocationName": "Xã Gio Hòa"
+  },
+  {
+    "LocationID": "VN4090737",
+    "LocationName": "Xã Gio Mai"
+  },
+  {
+    "LocationID": "VN4090723",
+    "LocationName": "Xã Gio Mỹ"
+  },
+  {
+    "LocationID": "VN4090721",
+    "LocationName": "Xã Gio Phong"
+  },
+  {
+    "LocationID": "VN4090741",
+    "LocationName": "Xã Gio Quang"
+  },
+  {
+    "LocationID": "VN4090711",
+    "LocationName": "Xã Gio Sơn"
+  },
+  {
+    "LocationID": "VN4090731",
+    "LocationName": "Xã Gio Thành"
+  },
+  {
+    "LocationID": "VN4090733",
+    "LocationName": "Xã Gio Việt"
+  },
+  {
+    "LocationID": "VN4090739",
+    "LocationName": "Xã Hải Thái"
+  },
+  {
+    "LocationID": "VN4090713",
+    "LocationName": "Xã Linh Hải"
+  },
+  {
+    "LocationID": "VN4090703",
+    "LocationName": "Xã Linh Thượng"
+  },
+  {
+    "LocationID": "VN4090701",
+    "LocationName": "Xã Trung Giang"
+  },
+  {
+    "LocationID": "VN4090705",
+    "LocationName": "Xã Trung Hải"
+  },
+  {
+    "LocationID": "VN4090719",
+    "LocationName": "Xã Trung Sơn"
+  },
+  {
+    "LocationID": "VN4090707",
+    "LocationName": "Xã Vĩnh Trường"
+  }
+]

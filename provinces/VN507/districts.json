@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN50703",
+    "LocationName": "Huyện An Lão"
+  },
+  {
+    "LocationID": "VN50707",
+    "LocationName": "Huyện Hòai Ân"
+  },
+  {
+    "LocationID": "VN50705",
+    "LocationName": "Huyện Hòai Nhơn"
+  },
+  {
+    "LocationID": "VN50713",
+    "LocationName": "Huyện Phù Cát"
+  },
+  {
+    "LocationID": "VN50709",
+    "LocationName": "Huyện Phù Mỹ"
+  },
+  {
+    "LocationID": "VN50715",
+    "LocationName": "Huyện Tây Sơn"
+  },
+  {
+    "LocationID": "VN50719",
+    "LocationName": "Huyện Tuy Phước"
+  },
+  {
+    "LocationID": "VN50721",
+    "LocationName": "Huyện Vân Canh"
+  },
+  {
+    "LocationID": "VN50711",
+    "LocationName": "Huyện Vĩnh Thạnh"
+  },
+  {
+    "LocationID": "VN50701",
+    "LocationName": "Thành phố Quy Nhơn"
+  },
+  {
+    "LocationID": "VN50717",
+    "LocationName": "Thị Xã An Nhơn"
+  }
+]

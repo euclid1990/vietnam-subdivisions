@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN2190501",
+    "LocationName": "Thị trấn Hợp Hòa"
+  },
+  {
+    "LocationID": "VN2190523",
+    "LocationName": "Xã An Hòa"
+  },
+  {
+    "LocationID": "VN2190519",
+    "LocationName": "Xã Đạo Tú"
+  },
+  {
+    "LocationID": "VN2190521",
+    "LocationName": "Xã Đồng Tĩnh"
+  },
+  {
+    "LocationID": "VN2190511",
+    "LocationName": "Xã Duy Phiên"
+  },
+  {
+    "LocationID": "VN2190525",
+    "LocationName": "Xã Hoàng Đan"
+  },
+  {
+    "LocationID": "VN2190503",
+    "LocationName": "Xã Hoàng Hoa"
+  },
+  {
+    "LocationID": "VN2190513",
+    "LocationName": "Xã Hoàng Lâu"
+  },
+  {
+    "LocationID": "VN2190517",
+    "LocationName": "Xã Hợp Thịnh"
+  },
+  {
+    "LocationID": "VN2190507",
+    "LocationName": "Xã Hướng Đạo"
+  },
+  {
+    "LocationID": "VN2190505",
+    "LocationName": "Xã Kim Long"
+  },
+  {
+    "LocationID": "VN2190509",
+    "LocationName": "Xã Thanh Vân"
+  },
+  {
+    "LocationID": "VN2190515",
+    "LocationName": "Xã Vân Hội"
+  }
+]

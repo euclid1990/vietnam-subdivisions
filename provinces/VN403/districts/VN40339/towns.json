@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN4033905",
+    "LocationName": "Phường Mai Hùng"
+  },
+  {
+    "LocationID": "VN4033903",
+    "LocationName": "Phường Quỳnh Dị"
+  },
+  {
+    "LocationID": "VN4033907",
+    "LocationName": "Phường Quỳnh Phương"
+  },
+  {
+    "LocationID": "VN4033901",
+    "LocationName": "Phường Quỳnh Thiện"
+  },
+  {
+    "LocationID": "VN4033909",
+    "LocationName": "Phường Quỳnh Xuân"
+  },
+  {
+    "LocationID": "VN4033913",
+    "LocationName": "Xã Quỳnh Lập"
+  },
+  {
+    "LocationID": "VN4033915",
+    "LocationName": "Xã Quỳnh Liên"
+  },
+  {
+    "LocationID": "VN4033919",
+    "LocationName": "Xã Quỳnh Lộc"
+  },
+  {
+    "LocationID": "VN4033911",
+    "LocationName": "Xã Quỳnh Trang"
+  },
+  {
+    "LocationID": "VN4033917",
+    "LocationName": "Xã Quỳnh Vinh"
+  }
+]

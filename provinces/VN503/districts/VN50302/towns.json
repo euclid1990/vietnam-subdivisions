@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN5030221",
+    "LocationName": "Thị trấn Phú Thịnh"
+  },
+  {
+    "LocationID": "VN5030213",
+    "LocationName": "Xã Tam An"
+  },
+  {
+    "LocationID": "VN5030207",
+    "LocationName": "Xã Tam Đại"
+  },
+  {
+    "LocationID": "VN5030201",
+    "LocationName": "Xã Tam Dân"
+  },
+  {
+    "LocationID": "VN5030211",
+    "LocationName": "Xã Tam Đàn"
+  },
+  {
+    "LocationID": "VN5030203",
+    "LocationName": "Xã Tam Lãnh"
+  },
+  {
+    "LocationID": "VN5030219",
+    "LocationName": "Xã Tam Lộc"
+  },
+  {
+    "LocationID": "VN5030217",
+    "LocationName": "Xã Tam Phước"
+  },
+  {
+    "LocationID": "VN5030205",
+    "LocationName": "Xã Tam Thái"
+  },
+  {
+    "LocationID": "VN5030215",
+    "LocationName": "Xã Tam Thành"
+  },
+  {
+    "LocationID": "VN5030209",
+    "LocationName": "Xã Tam Vinh"
+  }
+]

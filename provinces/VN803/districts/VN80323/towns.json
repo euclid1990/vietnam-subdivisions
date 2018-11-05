@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN8032303",
+    "LocationName": "Phường An Lạc"
+  },
+  {
+    "LocationID": "VN8032305",
+    "LocationName": "Phường An Lộc"
+  },
+  {
+    "LocationID": "VN8032301",
+    "LocationName": "Phường An Thạnh"
+  },
+  {
+    "LocationID": "VN8032307",
+    "LocationName": "Xã An Bình A"
+  },
+  {
+    "LocationID": "VN8032309",
+    "LocationName": "Xã An Bình B"
+  },
+  {
+    "LocationID": "VN8032311",
+    "LocationName": "Xã Bình Thạnh"
+  },
+  {
+    "LocationID": "VN8032313",
+    "LocationName": "Xã Tân Hội"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN21913",
+    "LocationName": "Huyện Bình Xuyên"
+  },
+  {
+    "LocationID": "VN21903",
+    "LocationName": "Huyện Lập Thạch"
+  },
+  {
+    "LocationID": "VN21915",
+    "LocationName": "Huyện Sông Lô"
+  },
+  {
+    "LocationID": "VN21904",
+    "LocationName": "Huyện Tam Ðảo"
+  },
+  {
+    "LocationID": "VN21905",
+    "LocationName": "Huyện Tam Dương"
+  },
+  {
+    "LocationID": "VN21907",
+    "LocationName": "Huyện Vĩnh Tường"
+  },
+  {
+    "LocationID": "VN21909",
+    "LocationName": "Huyện Yên Lạc"
+  },
+  {
+    "LocationID": "VN21901",
+    "LocationName": "Thành phố Vĩnh Yên"
+  },
+  {
+    "LocationID": "VN21902",
+    "LocationName": "Thị xã Phúc Yên"
+  }
+]

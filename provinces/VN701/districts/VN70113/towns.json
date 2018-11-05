@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7011309",
+    "LocationName": "Phường Bình Thuận"
+  },
+  {
+    "LocationID": "VN7011301",
+    "LocationName": "Phường Phú Mỹ"
+  },
+  {
+    "LocationID": "VN7011303",
+    "LocationName": "Phường Phú Thuận"
+  },
+  {
+    "LocationID": "VN7011317",
+    "LocationName": "Phường Tân Hưng"
+  },
+  {
+    "LocationID": "VN7011313",
+    "LocationName": "Phường Tân Kiểng"
+  },
+  {
+    "LocationID": "VN7011319",
+    "LocationName": "Phường Tân Phong"
+  },
+  {
+    "LocationID": "VN7011305",
+    "LocationName": "Phường Tân Phú"
+  },
+  {
+    "LocationID": "VN7011315",
+    "LocationName": "Phường Tân Quy"
+  },
+  {
+    "LocationID": "VN7011307",
+    "LocationName": "Phường Tân Thuận Đông"
+  },
+  {
+    "LocationID": "VN7011311",
+    "LocationName": "Phường Tân Thuận Tây"
+  }
+]

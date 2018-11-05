@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN71505",
+    "LocationName": "Huyện Bắc Bình"
+  },
+  {
+    "LocationID": "VN71515",
+    "LocationName": "Huyện Đức Linh"
+  },
+  {
+    "LocationID": "VN71514",
+    "LocationName": "Huyện Hàm Tân"
+  },
+  {
+    "LocationID": "VN71507",
+    "LocationName": "Huyện Hàm Thuận Bắc"
+  },
+  {
+    "LocationID": "VN71509",
+    "LocationName": "Huyện Hàm Thuận Nam"
+  },
+  {
+    "LocationID": "VN71517",
+    "LocationName": "Huyện Phú Quý"
+  },
+  {
+    "LocationID": "VN71511",
+    "LocationName": "Huyện Tánh Linh"
+  },
+  {
+    "LocationID": "VN71503",
+    "LocationName": "Huyện Tuy Phong"
+  },
+  {
+    "LocationID": "VN71501",
+    "LocationName": "Thành phố  Phan Thiết"
+  },
+  {
+    "LocationID": "VN71513",
+    "LocationName": "Thị xã La Gi"
+  }
+]

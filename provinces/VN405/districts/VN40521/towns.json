@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN4052109",
+    "LocationName": "Thị trấn Vũ Quang"
+  },
+  {
+    "LocationID": "VN4052101",
+    "LocationName": "Xã ân Phú"
+  },
+  {
+    "LocationID": "VN4052105",
+    "LocationName": "Xã Đức Bồng"
+  },
+  {
+    "LocationID": "VN4052103",
+    "LocationName": "Xã Đức Giang"
+  },
+  {
+    "LocationID": "VN4052115",
+    "LocationName": "Xã Đức Hương"
+  },
+  {
+    "LocationID": "VN4052117",
+    "LocationName": "Xã Đức Liên"
+  },
+  {
+    "LocationID": "VN4052111",
+    "LocationName": "Xã Đức Lĩnh"
+  },
+  {
+    "LocationID": "VN4052119",
+    "LocationName": "Xã Hương Điền"
+  },
+  {
+    "LocationID": "VN4052107",
+    "LocationName": "Xã Hương Minh"
+  },
+  {
+    "LocationID": "VN4052123",
+    "LocationName": "Xã Hương Quang"
+  },
+  {
+    "LocationID": "VN4052121",
+    "LocationName": "Xã Hương Thọ"
+  },
+  {
+    "LocationID": "VN4052113",
+    "LocationName": "Xã Sơn Thọ"
+  }
+]

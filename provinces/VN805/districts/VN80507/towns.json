@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN8050723",
+    "LocationName": "Phường Long Châu"
+  },
+  {
+    "LocationID": "VN8050725",
+    "LocationName": "Phường Long Hưng"
+  },
+  {
+    "LocationID": "VN8050715",
+    "LocationName": "Phường Long Phú"
+  },
+  {
+    "LocationID": "VN8050729",
+    "LocationName": "Phương Long Sơn"
+  },
+  {
+    "LocationID": "VN8050727",
+    "LocationName": "Phường Long Thạnh"
+  },
+  {
+    "LocationID": "VN8050717",
+    "LocationName": "Xã Châu Phong"
+  },
+  {
+    "LocationID": "VN8050707",
+    "LocationName": "Xã Lê Chánh"
+  },
+  {
+    "LocationID": "VN8050705",
+    "LocationName": "Xã Long An"
+  },
+  {
+    "LocationID": "VN8050703",
+    "LocationName": "Xã Phú Lộc"
+  },
+  {
+    "LocationID": "VN8050719",
+    "LocationName": "Xã Phú Vĩnh"
+  },
+  {
+    "LocationID": "VN8050713",
+    "LocationName": "Xã Tân An"
+  },
+  {
+    "LocationID": "VN8050721",
+    "LocationName": "Xã Tân Thạnh"
+  },
+  {
+    "LocationID": "VN8050711",
+    "LocationName": "Xã Vĩnh Hòa"
+  },
+  {
+    "LocationID": "VN8050701",
+    "LocationName": "Xã Vĩnh Xương"
+  }
+]

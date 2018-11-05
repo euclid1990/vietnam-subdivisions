@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN2190219",
+    "LocationName": "Phường Đồng Xuân"
+  },
+  {
+    "LocationID": "VN2190201",
+    "LocationName": "Phường Hùng Vương"
+  },
+  {
+    "LocationID": "VN2190213",
+    "LocationName": "Phường Phúc Thắng"
+  },
+  {
+    "LocationID": "VN2190203",
+    "LocationName": "Phường Trưng Nhị"
+  },
+  {
+    "LocationID": "VN2190215",
+    "LocationName": "Phường Trưng Trắc"
+  },
+  {
+    "LocationID": "VN2190205",
+    "LocationName": "Phường Xuân Hòa"
+  },
+  {
+    "LocationID": "VN2190207",
+    "LocationName": "Xã Cao Minh"
+  },
+  {
+    "LocationID": "VN2190209",
+    "LocationName": "Xã Nam Viêm"
+  },
+  {
+    "LocationID": "VN2190217",
+    "LocationName": "Xã Ngọc Thanh"
+  },
+  {
+    "LocationID": "VN2190211",
+    "LocationName": "Xã Tiền Châu"
+  }
+]

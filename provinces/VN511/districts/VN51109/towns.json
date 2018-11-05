@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN5110921",
+    "LocationName": "Phường Ba Ngòi"
+  },
+  {
+    "LocationID": "VN5110925",
+    "LocationName": "Phường Cam Linh"
+  },
+  {
+    "LocationID": "VN5110917",
+    "LocationName": "Phường Cam Lộc"
+  },
+  {
+    "LocationID": "VN5110923",
+    "LocationName": "Phường Cam Lợi"
+  },
+  {
+    "LocationID": "VN5110911",
+    "LocationName": "Phường Cam Nghĩa"
+  },
+  {
+    "LocationID": "VN5110919",
+    "LocationName": "Phường Cam Phú"
+  },
+  {
+    "LocationID": "VN5110913",
+    "LocationName": "Phường Cam Phúc Bắc"
+  },
+  {
+    "LocationID": "VN5110915",
+    "LocationName": "Phường Cam Phúc Nam"
+  },
+  {
+    "LocationID": "VN5110901",
+    "LocationName": "Phường Cam Thuận"
+  },
+  {
+    "LocationID": "VN5110909",
+    "LocationName": "Xã Cam Bình"
+  },
+  {
+    "LocationID": "VN5110953",
+    "LocationName": "Xã Cam Lập"
+  },
+  {
+    "LocationID": "VN5110947",
+    "LocationName": "Xã Cam Phước Đông"
+  },
+  {
+    "LocationID": "VN5110945",
+    "LocationName": "Xã Cam Thành Nam"
+  },
+  {
+    "LocationID": "VN5110951",
+    "LocationName": "Xã Cam Thịnh Đông"
+  },
+  {
+    "LocationID": "VN5110949",
+    "LocationName": "Xã Cam Thịnh Tây"
+  }
+]

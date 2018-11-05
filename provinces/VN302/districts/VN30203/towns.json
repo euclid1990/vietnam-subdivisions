@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN3020301",
+    "LocationName": "Thị Trấn Phong Thổ"
+  },
+  {
+    "LocationID": "VN3020319",
+    "LocationName": "Xã Bản Lang"
+  },
+  {
+    "LocationID": "VN3020315",
+    "LocationName": "Xã Dào San"
+  },
+  {
+    "LocationID": "VN3020329",
+    "LocationName": "Xã Hoang Thèn"
+  },
+  {
+    "LocationID": "VN3020333",
+    "LocationName": "Xã Huổi Luông"
+  },
+  {
+    "LocationID": "VN3020321",
+    "LocationName": "Xã Khổng Lào"
+  },
+  {
+    "LocationID": "VN3020335",
+    "LocationName": "Xã Lản Nhì Thảng"
+  },
+  {
+    "LocationID": "VN3020307",
+    "LocationName": "Xã Ma Li Chải"
+  },
+  {
+    "LocationID": "VN3020317",
+    "LocationName": "Xã Ma Ly Pho"
+  },
+  {
+    "LocationID": "VN3020305",
+    "LocationName": "Xã Mồ Sì San"
+  },
+  {
+    "LocationID": "VN3020313",
+    "LocationName": "Xã Mù Sang"
+  },
+  {
+    "LocationID": "VN3020325",
+    "LocationName": "Xã Mường So"
+  },
+  {
+    "LocationID": "VN3020323",
+    "LocationName": "Xã Nậm Xe"
+  },
+  {
+    "LocationID": "VN3020309",
+    "LocationName": "Xã Pa Vây Sử"
+  },
+  {
+    "LocationID": "VN3020303",
+    "LocationName": "Xã Sì Lờ Lầu"
+  },
+  {
+    "LocationID": "VN3020331",
+    "LocationName": "Xã Sin Suối Hồ"
+  },
+  {
+    "LocationID": "VN3020327",
+    "LocationName": "Xã Tông Qua Lìn"
+  },
+  {
+    "LocationID": "VN3020311",
+    "LocationName": "Xã Vàng Ma Chải"
+  }
+]

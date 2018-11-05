@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN5011509",
+    "LocationName": "Phường Hòa An"
+  },
+  {
+    "LocationID": "VN5011511",
+    "LocationName": "Phường Hòa Phát"
+  },
+  {
+    "LocationID": "VN5011505",
+    "LocationName": "Phường Hòa Thọ Đông"
+  },
+  {
+    "LocationID": "VN5011507",
+    "LocationName": "Phường Hòa Thọ Tây"
+  },
+  {
+    "LocationID": "VN5011503",
+    "LocationName": "Phường Hòa Xuân"
+  },
+  {
+    "LocationID": "VN5011501",
+    "LocationName": "Phường Khuê Trung"
+  }
+]

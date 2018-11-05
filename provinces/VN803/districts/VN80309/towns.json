@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN8030903",
+    "LocationName": "Thị trấn Tràm Chim"
+  },
+  {
+    "LocationID": "VN8030917",
+    "LocationName": "Xã An Hòa"
+  },
+  {
+    "LocationID": "VN8030901",
+    "LocationName": "Xã An Long"
+  },
+  {
+    "LocationID": "VN8030909",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN8030919",
+    "LocationName": "Xã Phú Cường"
+  },
+  {
+    "LocationID": "VN8030915",
+    "LocationName": "Xã Phú Đức"
+  },
+  {
+    "LocationID": "VN8030913",
+    "LocationName": "Xã Phú Hiệp"
+  },
+  {
+    "LocationID": "VN8030907",
+    "LocationName": "Xã Phú Ninh"
+  },
+  {
+    "LocationID": "VN8030923",
+    "LocationName": "Xã Phú Thành A"
+  },
+  {
+    "LocationID": "VN8030905",
+    "LocationName": "Xã Phú Thành B"
+  },
+  {
+    "LocationID": "VN8030921",
+    "LocationName": "Xã Phú Thọ"
+  },
+  {
+    "LocationID": "VN8030911",
+    "LocationName": "Xã Tân Công Sính"
+  }
+]

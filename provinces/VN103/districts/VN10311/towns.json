@@ -1,0 +1,150 @@
+[
+  {
+    "LocationID": "VN1031129",
+    "LocationName": "Thị trấn Minh Đức"
+  },
+  {
+    "LocationID": "VN1031127",
+    "LocationName": "Thị trấn Núi Đèo"
+  },
+  {
+    "LocationID": "VN1031155",
+    "LocationName": "Xã An Lư"
+  },
+  {
+    "LocationID": "VN1031109",
+    "LocationName": "Xã An Sơn"
+  },
+  {
+    "LocationID": "VN1031103",
+    "LocationName": "Xã Cao Nhân"
+  },
+  {
+    "LocationID": "VN1031145",
+    "LocationName": "Xã Chính Mỹ"
+  },
+  {
+    "LocationID": "VN1031117",
+    "LocationName": "Xã Đông Sơn"
+  },
+  {
+    "LocationID": "VN1031107",
+    "LocationName": "Xã Dương Quan"
+  },
+  {
+    "LocationID": "VN1031139",
+    "LocationName": "Xã Gia Đức"
+  },
+  {
+    "LocationID": "VN1031137",
+    "LocationName": "Xã Gia Minh"
+  },
+  {
+    "LocationID": "VN1031151",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN1031125",
+    "LocationName": "Xã Hoa Động"
+  },
+  {
+    "LocationID": "VN1031169",
+    "LocationName": "Xã Hoàng Động"
+  },
+  {
+    "LocationID": "VN1031147",
+    "LocationName": "Xã Hợp Thành"
+  },
+  {
+    "LocationID": "VN1031115",
+    "LocationName": "Xã Kênh Giang"
+  },
+  {
+    "LocationID": "VN1031163",
+    "LocationName": "Xã Kiền Bái"
+  },
+  {
+    "LocationID": "VN1031133",
+    "LocationName": "Xã Kỳ Sơn"
+  },
+  {
+    "LocationID": "VN1031131",
+    "LocationName": "Xã Lại Xuân"
+  },
+  {
+    "LocationID": "VN1031171",
+    "LocationName": "Xã Lâm Động"
+  },
+  {
+    "LocationID": "VN1031161",
+    "LocationName": "Xã Lập Lễ"
+  },
+  {
+    "LocationID": "VN1031135",
+    "LocationName": "Xã Liên Khê"
+  },
+  {
+    "LocationID": "VN1031101",
+    "LocationName": "Xã Lưu Kiếm"
+  },
+  {
+    "LocationID": "VN1031111",
+    "LocationName": "Xã Lưu Kỳ"
+  },
+  {
+    "LocationID": "VN1031113",
+    "LocationName": "Xã Minh Tân"
+  },
+  {
+    "LocationID": "VN1031149",
+    "LocationName": "Xã Mỹ Đồng"
+  },
+  {
+    "LocationID": "VN1031157",
+    "LocationName": "Xã Ngũ Lão"
+  },
+  {
+    "LocationID": "VN1031121",
+    "LocationName": "Xã Phả Lễ"
+  },
+  {
+    "LocationID": "VN1031141",
+    "LocationName": "Xã Phù Ninh"
+  },
+  {
+    "LocationID": "VN1031159",
+    "LocationName": "Xã Phục Lễ"
+  },
+  {
+    "LocationID": "VN1031143",
+    "LocationName": "Xã Quảng Thanh"
+  },
+  {
+    "LocationID": "VN1031105",
+    "LocationName": "Xã Tam Hưng"
+  },
+  {
+    "LocationID": "VN1031173",
+    "LocationName": "Xã Tân Dương"
+  },
+  {
+    "LocationID": "VN1031165",
+    "LocationName": "Xã Thiên Hương"
+  },
+  {
+    "LocationID": "VN1031167",
+    "LocationName": "Xã Thuỷ Đường"
+  },
+  {
+    "LocationID": "VN1031123",
+    "LocationName": "Xã Thuỷ Sơn"
+  },
+  {
+    "LocationID": "VN1031119",
+    "LocationName": "Xã Thuỷ Triều"
+  },
+  {
+    "LocationID": "VN1031153",
+    "LocationName": "Xã Trung Hà"
+  }
+]

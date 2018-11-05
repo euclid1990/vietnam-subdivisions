@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN7050711",
+    "LocationName": "Thị trấn Phước Dân"
+  },
+  {
+    "LocationID": "VN7050701",
+    "LocationName": "Xã An Hải"
+  },
+  {
+    "LocationID": "VN7050725",
+    "LocationName": "Xã Nhị Hà"
+  },
+  {
+    "LocationID": "VN7050729",
+    "LocationName": "Xã Phước Diêm"
+  },
+  {
+    "LocationID": "VN7050727",
+    "LocationName": "Xã Phước Dinh"
+  },
+  {
+    "LocationID": "VN7050719",
+    "LocationName": "Xã Phước Hà"
+  },
+  {
+    "LocationID": "VN7050707",
+    "LocationName": "Xã Phước Hải"
+  },
+  {
+    "LocationID": "VN7050717",
+    "LocationName": "Xã Phước Hậu"
+  },
+  {
+    "LocationID": "VN7050721",
+    "LocationName": "Xã Phước Hữu"
+  },
+  {
+    "LocationID": "VN7050709",
+    "LocationName": "Xã Phước Minh"
+  },
+  {
+    "LocationID": "VN7050723",
+    "LocationName": "Xã Phước Nam"
+  },
+  {
+    "LocationID": "VN7050713",
+    "LocationName": "Xã Phước Sơn"
+  },
+  {
+    "LocationID": "VN7050715",
+    "LocationName": "Xã Phước Thái"
+  },
+  {
+    "LocationID": "VN7050705",
+    "LocationName": "Xã Phước Thuận"
+  },
+  {
+    "LocationID": "VN7050703",
+    "LocationName": "Xã Phước Vinh"
+  }
+]

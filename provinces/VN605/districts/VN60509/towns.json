@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN6050937",
+    "LocationName": "Phường An Bình"
+  },
+  {
+    "LocationID": "VN6050935",
+    "LocationName": "Phường An Lạc"
+  },
+  {
+    "LocationID": "VN6050931",
+    "LocationName": "Phường Bình Tân"
+  },
+  {
+    "LocationID": "VN6050933",
+    "LocationName": "Phường Đạt Hiếu"
+  },
+  {
+    "LocationID": "VN6050905",
+    "LocationName": "Phường Đoàn Kết"
+  },
+  {
+    "LocationID": "VN6050939",
+    "LocationName": "Phường Thiện An"
+  },
+  {
+    "LocationID": "VN6050907",
+    "LocationName": "Phường Thống Nhất"
+  },
+  {
+    "LocationID": "VN6050923",
+    "LocationName": "Xã Bình Thuận"
+  },
+  {
+    "LocationID": "VN6050925",
+    "LocationName": "Xã Cư Bao"
+  },
+  {
+    "LocationID": "VN6050917",
+    "LocationName": "Xã Ea Blang"
+  },
+  {
+    "LocationID": "VN6050919",
+    "LocationName": "Xã Ea Drông"
+  },
+  {
+    "LocationID": "VN6050921",
+    "LocationName": "Xã Ea Siên"
+  }
+]

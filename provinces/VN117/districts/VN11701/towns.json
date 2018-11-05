@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN1170117",
+    "LocationName": "Phường Bích Đào"
+  },
+  {
+    "LocationID": "VN1170103",
+    "LocationName": "Phường Đông Thành"
+  },
+  {
+    "LocationID": "VN1170119",
+    "LocationName": "Phường Nam Bình"
+  },
+  {
+    "LocationID": "VN1170101",
+    "LocationName": "Phường Nam Thành"
+  },
+  {
+    "LocationID": "VN1170121",
+    "LocationName": "Phường Ninh Khánh"
+  },
+  {
+    "LocationID": "VN1170109",
+    "LocationName": "Phường Ninh Phong"
+  },
+  {
+    "LocationID": "VN1170127",
+    "LocationName": "Phường Ninh Sơn"
+  },
+  {
+    "LocationID": "VN1170105",
+    "LocationName": "Phường Phúc Thành"
+  },
+  {
+    "LocationID": "VN1170111",
+    "LocationName": "Phường Tân Thành"
+  },
+  {
+    "LocationID": "VN1170113",
+    "LocationName": "Phường Thanh Bình"
+  },
+  {
+    "LocationID": "VN1170115",
+    "LocationName": "Phường Vân Giang"
+  },
+  {
+    "LocationID": "VN1170107",
+    "LocationName": "Xã Ninh Nhất"
+  },
+  {
+    "LocationID": "VN1170125",
+    "LocationName": "Xã Ninh Phúc"
+  },
+  {
+    "LocationID": "VN1170123",
+    "LocationName": "Xã Ninh Tiến"
+  }
+]

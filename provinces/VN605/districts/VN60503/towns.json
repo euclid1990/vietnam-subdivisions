@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN6050301",
+    "LocationName": "Thị trấn Ea Drăng"
+  },
+  {
+    "LocationID": "VN6050323",
+    "LocationName": "Xã Cư Amung"
+  },
+  {
+    "LocationID": "VN6050305",
+    "LocationName": "Xã Cư Mốt"
+  },
+  {
+    "LocationID": "VN6050307",
+    "LocationName": "Xã Dlê Yang"
+  },
+  {
+    "LocationID": "VN6050315",
+    "LocationName": "Xã Ea Hiao"
+  },
+  {
+    "LocationID": "VN6050303",
+    "LocationName": "Xã Ea H-leo"
+  },
+  {
+    "LocationID": "VN6050317",
+    "LocationName": "Xã Ea Khal"
+  },
+  {
+    "LocationID": "VN6050319",
+    "LocationName": "Xã Ea Nam"
+  },
+  {
+    "LocationID": "VN6050311",
+    "LocationName": "Xã Ea Ral"
+  },
+  {
+    "LocationID": "VN6050309",
+    "LocationName": "Xã Ea Sol"
+  },
+  {
+    "LocationID": "VN6050321",
+    "LocationName": "Xã Ea Tir"
+  },
+  {
+    "LocationID": "VN6050313",
+    "LocationName": "Xã Ea Wy"
+  }
+]

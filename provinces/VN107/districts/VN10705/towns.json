@@ -1,0 +1,78 @@
+[
+  {
+    "LocationID": "VN1070519",
+    "LocationName": "Thị trấn Nam Sách"
+  },
+  {
+    "LocationID": "VN1070529",
+    "LocationName": "Xã An Bình"
+  },
+  {
+    "LocationID": "VN1070535",
+    "LocationName": "Xã An Lâm"
+  },
+  {
+    "LocationID": "VN1070503",
+    "LocationName": "Xã An Sơn"
+  },
+  {
+    "LocationID": "VN1070511",
+    "LocationName": "Xã Cộng Hòa"
+  },
+  {
+    "LocationID": "VN1070541",
+    "LocationName": "Xã Đồng Lạc"
+  },
+  {
+    "LocationID": "VN1070523",
+    "LocationName": "Xã Hiệp Cát"
+  },
+  {
+    "LocationID": "VN1070539",
+    "LocationName": "Xã Hồng Phong"
+  },
+  {
+    "LocationID": "VN1070507",
+    "LocationName": "Xã Hợp Tiến"
+  },
+  {
+    "LocationID": "VN1070505",
+    "LocationName": "Xã Minh Tân"
+  },
+  {
+    "LocationID": "VN1070509",
+    "LocationName": "Xã Nam Chính"
+  },
+  {
+    "LocationID": "VN1070513",
+    "LocationName": "Xã Nam Hồng"
+  },
+  {
+    "LocationID": "VN1070501",
+    "LocationName": "Xã Nam Hưng"
+  },
+  {
+    "LocationID": "VN1070521",
+    "LocationName": "Xã Nam Tân"
+  },
+  {
+    "LocationID": "VN1070531",
+    "LocationName": "Xã Nam Trung"
+  },
+  {
+    "LocationID": "VN1070537",
+    "LocationName": "Xã Phú Điền"
+  },
+  {
+    "LocationID": "VN1070527",
+    "LocationName": "Xã Quốc Tuấn"
+  },
+  {
+    "LocationID": "VN1070533",
+    "LocationName": "Xã Thái Tân"
+  },
+  {
+    "LocationID": "VN1070525",
+    "LocationName": "Xã Thanh Quang"
+  }
+]

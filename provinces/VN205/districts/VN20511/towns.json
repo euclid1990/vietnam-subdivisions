@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN2051101",
+    "LocationName": "Thị trấn N.T Phong Hải"
+  },
+  {
+    "LocationID": "VN2051121",
+    "LocationName": "Thị trấn Phố Lu"
+  },
+  {
+    "LocationID": "VN2051103",
+    "LocationName": "Thị trấn Tằng Loỏng"
+  },
+  {
+    "LocationID": "VN2051105",
+    "LocationName": "Xã Bản Cầm"
+  },
+  {
+    "LocationID": "VN2051125",
+    "LocationName": "Xã Bản Phiệt"
+  },
+  {
+    "LocationID": "VN2051127",
+    "LocationName": "Xã Gia Phú"
+  },
+  {
+    "LocationID": "VN2051119",
+    "LocationName": "Xã Phố Lu"
+  },
+  {
+    "LocationID": "VN2051109",
+    "LocationName": "Xã Phong Niên"
+  },
+  {
+    "LocationID": "VN2051123",
+    "LocationName": "Xã Phú Nhuận"
+  },
+  {
+    "LocationID": "VN2051117",
+    "LocationName": "Xã Sơn Hà"
+  },
+  {
+    "LocationID": "VN2051113",
+    "LocationName": "Xã Sơn Hải"
+  },
+  {
+    "LocationID": "VN2051107",
+    "LocationName": "Xã Thái Niên"
+  },
+  {
+    "LocationID": "VN2051129",
+    "LocationName": "Xã Trì Quang"
+  },
+  {
+    "LocationID": "VN2051115",
+    "LocationName": "Xã Xuân Giao"
+  },
+  {
+    "LocationID": "VN2051111",
+    "LocationName": "Xã Xuân Quang"
+  }
+]

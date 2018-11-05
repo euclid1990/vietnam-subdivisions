@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN8051511",
+    "LocationName": "Thị trấn Ba Chúc"
+  },
+  {
+    "LocationID": "VN8051509",
+    "LocationName": "Thị trấn Tri Tôn"
+  },
+  {
+    "LocationID": "VN8051525",
+    "LocationName": "Xã An Tức"
+  },
+  {
+    "LocationID": "VN8051503",
+    "LocationName": "Xã Châu Lăng"
+  },
+  {
+    "LocationID": "VN8051527",
+    "LocationName": "Xã Cô Tô"
+  },
+  {
+    "LocationID": "VN8051513",
+    "LocationName": "Xã Lạc Quới"
+  },
+  {
+    "LocationID": "VN8051515",
+    "LocationName": "Xã Lê Trì"
+  },
+  {
+    "LocationID": "VN8051521",
+    "LocationName": "Xã Lương An Trà"
+  },
+  {
+    "LocationID": "VN8051519",
+    "LocationName": "Xã Lương Phi"
+  },
+  {
+    "LocationID": "VN8051505",
+    "LocationName": "Xã Núi Tô"
+  },
+  {
+    "LocationID": "VN8051507",
+    "LocationName": "Xã ô Lâm"
+  },
+  {
+    "LocationID": "VN8051523",
+    "LocationName": "Xã Tà Đảnh"
+  },
+  {
+    "LocationID": "VN8051529",
+    "LocationName": "Xã Tân Tuyến"
+  },
+  {
+    "LocationID": "VN8051517",
+    "LocationName": "Xã Vĩnh Gia"
+  },
+  {
+    "LocationID": "VN8051501",
+    "LocationName": "Xã Vĩnh Phước"
+  }
+]

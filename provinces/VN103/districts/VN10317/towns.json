@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1031707",
+    "LocationName": "Thị trấn Núi Đối"
+  },
+  {
+    "LocationID": "VN1031711",
+    "LocationName": "Xã Đại Đồng"
+  },
+  {
+    "LocationID": "VN1031703",
+    "LocationName": "Xã Đại Hà"
+  },
+  {
+    "LocationID": "VN1031723",
+    "LocationName": "Xã Đại Hợp"
+  },
+  {
+    "LocationID": "VN1031719",
+    "LocationName": "Xã Đoàn Xá"
+  },
+  {
+    "LocationID": "VN1031701",
+    "LocationName": "Xã Đông Phương"
+  },
+  {
+    "LocationID": "VN1031713",
+    "LocationName": "Xã Du Lễ"
+  },
+  {
+    "LocationID": "VN1031735",
+    "LocationName": "Xã Hữu Bằng"
+  },
+  {
+    "LocationID": "VN1031741",
+    "LocationName": "Xã Kiến Quốc"
+  },
+  {
+    "LocationID": "VN1031715",
+    "LocationName": "Xã Minh Tân"
+  },
+  {
+    "LocationID": "VN1031747",
+    "LocationName": "Xã Ngũ Đoan"
+  },
+  {
+    "LocationID": "VN1031739",
+    "LocationName": "Xã Ngũ Phúc"
+  },
+  {
+    "LocationID": "VN1031749",
+    "LocationName": "Xã Tân Phong"
+  },
+  {
+    "LocationID": "VN1031705",
+    "LocationName": "Xã Tân Trào"
+  },
+  {
+    "LocationID": "VN1031745",
+    "LocationName": "Xã Thanh Sơn"
+  },
+  {
+    "LocationID": "VN1031733",
+    "LocationName": "Xã Thuận Thiên"
+  },
+  {
+    "LocationID": "VN1031743",
+    "LocationName": "Xã Thuỵ Hương"
+  },
+  {
+    "LocationID": "VN1031721",
+    "LocationName": "Xã Tú Sơn"
+  }
+]

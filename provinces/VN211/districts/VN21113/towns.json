@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN2111311",
+    "LocationName": "Xã Bình An"
+  },
+  {
+    "LocationID": "VN2111315",
+    "LocationName": "Xã Hồng Quang"
+  },
+  {
+    "LocationID": "VN2111305",
+    "LocationName": "Xã Khuôn Hà"
+  },
+  {
+    "LocationID": "VN2111301",
+    "LocationName": "Xã Lăng Can"
+  },
+  {
+    "LocationID": "VN2111307",
+    "LocationName": "Xã Phúc Yên"
+  },
+  {
+    "LocationID": "VN2111313",
+    "LocationName": "Xã Thổ Bình"
+  },
+  {
+    "LocationID": "VN2111303",
+    "LocationName": "Xã Thượng Lâm"
+  },
+  {
+    "LocationID": "VN2111309",
+    "LocationName": "Xã Xuân Lập"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN1010901",
+    "LocationName": "Phường Cát Linh"
+  },
+  {
+    "LocationID": "VN1010909",
+    "LocationName": "Phường Hàng Bột"
+  },
+  {
+    "LocationID": "VN1010911",
+    "LocationName": "Phường Khâm Thiên"
+  },
+  {
+    "LocationID": "VN1010929",
+    "LocationName": "Phường Khương Thượng"
+  },
+  {
+    "LocationID": "VN1010925",
+    "LocationName": "Phường Kim Liên"
+  },
+  {
+    "LocationID": "VN1010937",
+    "LocationName": "Phường Láng Hạ"
+  },
+  {
+    "LocationID": "VN1010905",
+    "LocationName": "Phường Láng Thượng"
+  },
+  {
+    "LocationID": "VN1010915",
+    "LocationName": "Phường Nam Đồng"
+  },
+  {
+    "LocationID": "VN1010927",
+    "LocationName": "Phường Ngã Tư Sở"
+  },
+  {
+    "LocationID": "VN1010907",
+    "LocationName": "Phường ô Chợ Dừa"
+  },
+  {
+    "LocationID": "VN1010921",
+    "LocationName": "Phường Phương Liên"
+  },
+  {
+    "LocationID": "VN1010933",
+    "LocationName": "Phường Phương Mai"
+  },
+  {
+    "LocationID": "VN1010917",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1010935",
+    "LocationName": "Phường Quốc Tử Giám"
+  },
+  {
+    "LocationID": "VN1010923",
+    "LocationName": "Phường Thịnh Quang"
+  },
+  {
+    "LocationID": "VN1010913",
+    "LocationName": "Phường Thổ Quan"
+  },
+  {
+    "LocationID": "VN1010919",
+    "LocationName": "Phường Trung Liệt"
+  },
+  {
+    "LocationID": "VN1010939",
+    "LocationName": "Phường Trung Phụng"
+  },
+  {
+    "LocationID": "VN1010941",
+    "LocationName": "Phường Trung Tự"
+  },
+  {
+    "LocationID": "VN1010931",
+    "LocationName": "Phường Văn Chương"
+  },
+  {
+    "LocationID": "VN1010903",
+    "LocationName": "Phường Văn Miếu"
+  }
+]

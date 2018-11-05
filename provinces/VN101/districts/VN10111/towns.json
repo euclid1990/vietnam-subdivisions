@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN1011111",
+    "LocationName": "Phường Hạ Đình"
+  },
+  {
+    "LocationID": "VN1011113",
+    "LocationName": "Phường Khương Đình"
+  },
+  {
+    "LocationID": "VN1011119",
+    "LocationName": "Phường Khương Mai"
+  },
+  {
+    "LocationID": "VN1011105",
+    "LocationName": "Phường Khương Trung"
+  },
+  {
+    "LocationID": "VN1011115",
+    "LocationName": "Phường Kim Giang"
+  },
+  {
+    "LocationID": "VN1011101",
+    "LocationName": "Phường Nhân Chính"
+  },
+  {
+    "LocationID": "VN1011109",
+    "LocationName": "Phường Phương Liệt"
+  },
+  {
+    "LocationID": "VN1011121",
+    "LocationName": "Phường Thanh Xuân Bắc"
+  },
+  {
+    "LocationID": "VN1011117",
+    "LocationName": "Phường Thanh Xuân Nam"
+  },
+  {
+    "LocationID": "VN1011107",
+    "LocationName": "Phường Thanh Xuân Trung"
+  },
+  {
+    "LocationID": "VN1011103",
+    "LocationName": "Phường Thượng Đình"
+  }
+]

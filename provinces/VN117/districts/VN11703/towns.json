@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN1170305",
+    "LocationName": "Phường Bắc Sơn"
+  },
+  {
+    "LocationID": "VN1170309",
+    "LocationName": "Phường Nam Sơn"
+  },
+  {
+    "LocationID": "VN1170317",
+    "LocationName": "Phường Tân Bình"
+  },
+  {
+    "LocationID": "VN1170315",
+    "LocationName": "Phường Tây Sơn"
+  },
+  {
+    "LocationID": "VN1170307",
+    "LocationName": "Phường Trung Sơn"
+  },
+  {
+    "LocationID": "VN1170313",
+    "LocationName": "Xã Đông Sơn"
+  },
+  {
+    "LocationID": "VN1170311",
+    "LocationName": "Xã Quang Sơn"
+  },
+  {
+    "LocationID": "VN1170301",
+    "LocationName": "Xã Yên Bình"
+  },
+  {
+    "LocationID": "VN1170303",
+    "LocationName": "Xã Yên Sơn"
+  }
+]

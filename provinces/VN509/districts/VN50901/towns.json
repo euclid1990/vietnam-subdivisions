@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN5090109",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN5090103",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN5090115",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN5090105",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN5090101",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN5090119",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN5090117",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN5090111",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN5090113",
+    "LocationName": "Phường 9"
+  },
+  {
+    "LocationID": "VN5090131",
+    "LocationName": "Phường Phú Đông"
+  },
+  {
+    "LocationID": "VN5090127",
+    "LocationName": "Phường Phú Lâm"
+  },
+  {
+    "LocationID": "VN5090129",
+    "LocationName": "Phường Phú Thạnh"
+  },
+  {
+    "LocationID": "VN5090125",
+    "LocationName": "Xã An Phú"
+  },
+  {
+    "LocationID": "VN5090121",
+    "LocationName": "Xã Bình Kiến"
+  },
+  {
+    "LocationID": "VN5090123",
+    "LocationName": "Xã Bình Ngọc"
+  },
+  {
+    "LocationID": "VN5090107",
+    "LocationName": "Xã Hòa Kiến"
+  }
+]

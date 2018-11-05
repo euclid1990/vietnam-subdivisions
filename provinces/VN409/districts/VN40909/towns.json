@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN4090907",
+    "LocationName": "Thị trấn Cam Lộ"
+  },
+  {
+    "LocationID": "VN4090911",
+    "LocationName": "Xã Cam An"
+  },
+  {
+    "LocationID": "VN4090905",
+    "LocationName": "Xã Cam Chính"
+  },
+  {
+    "LocationID": "VN4090915",
+    "LocationName": "Xã Cam Hiếu"
+  },
+  {
+    "LocationID": "VN4090917",
+    "LocationName": "Xã Cam Nghĩa"
+  },
+  {
+    "LocationID": "VN4090901",
+    "LocationName": "Xã Cam Thanh"
+  },
+  {
+    "LocationID": "VN4090913",
+    "LocationName": "Xã Cam Thành"
+  },
+  {
+    "LocationID": "VN4090903",
+    "LocationName": "Xã Cam Thủy"
+  },
+  {
+    "LocationID": "VN4090909",
+    "LocationName": "Xã Cam Tuyền"
+  }
+]

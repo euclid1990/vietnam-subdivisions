@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN8131307",
+    "LocationName": "Thị trấn Gò Quao"
+  },
+  {
+    "LocationID": "VN8131313",
+    "LocationName": "Xã Định An"
+  },
+  {
+    "LocationID": "VN8131309",
+    "LocationName": "Xã Định Hòa"
+  },
+  {
+    "LocationID": "VN8131311",
+    "LocationName": "Xã Thới Quản"
+  },
+  {
+    "LocationID": "VN8131315",
+    "LocationName": "Xã Thủy Liễu"
+  },
+  {
+    "LocationID": "VN8131303",
+    "LocationName": "Xã Vĩnh Hòa Hưng Bắc"
+  },
+  {
+    "LocationID": "VN8131305",
+    "LocationName": "Xã Vĩnh Hòa Hưng Nam"
+  },
+  {
+    "LocationID": "VN8131301",
+    "LocationName": "Xã Vĩnh Phước A"
+  },
+  {
+    "LocationID": "VN8131317",
+    "LocationName": "Xã Vĩnh Phước B"
+  },
+  {
+    "LocationID": "VN8131321",
+    "LocationName": "Xã Vĩnh Thắng"
+  },
+  {
+    "LocationID": "VN8131319",
+    "LocationName": "Xã Vĩnh Tuy"
+  }
+]

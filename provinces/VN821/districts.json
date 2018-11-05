@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN82111",
+    "LocationName": "Huyện Đông Hải"
+  },
+  {
+    "LocationID": "VN82107",
+    "LocationName": "Huyện Giá Rai"
+  },
+  {
+    "LocationID": "VN82106",
+    "LocationName": "Huyện Hòa Bình"
+  },
+  {
+    "LocationID": "VN82103",
+    "LocationName": "Huyện Hồng Dân"
+  },
+  {
+    "LocationID": "VN82109",
+    "LocationName": "Huyện Phước Long"
+  },
+  {
+    "LocationID": "VN82105",
+    "LocationName": "Huyện Vĩnh Lợi"
+  },
+  {
+    "LocationID": "VN82101",
+    "LocationName": "Thành Phố Bạc Liêu"
+  }
+]

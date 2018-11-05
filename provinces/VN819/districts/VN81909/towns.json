@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN8190929",
+    "LocationName": "Thị trấn Mỹ Xuyên"
+  },
+  {
+    "LocationID": "VN8190905",
+    "LocationName": "Xã Đại Tâm"
+  },
+  {
+    "LocationID": "VN8190903",
+    "LocationName": "Xã Gia Hòa 1"
+  },
+  {
+    "LocationID": "VN8190907",
+    "LocationName": "Xã Gia Hòa 2"
+  },
+  {
+    "LocationID": "VN8190923",
+    "LocationName": "Xã Hòa Tú 1"
+  },
+  {
+    "LocationID": "VN8190927",
+    "LocationName": "Xã Hòa Tú II"
+  },
+  {
+    "LocationID": "VN8190919",
+    "LocationName": "Xã Ngọc Đông"
+  },
+  {
+    "LocationID": "VN8190925",
+    "LocationName": "Xã Ngọc Tố"
+  },
+  {
+    "LocationID": "VN8190901",
+    "LocationName": "Xã Tham Đôn"
+  },
+  {
+    "LocationID": "VN8190917",
+    "LocationName": "Xã Thạnh Phú"
+  },
+  {
+    "LocationID": "VN8190921",
+    "LocationName": "Xã Thạnh Quới"
+  }
+]

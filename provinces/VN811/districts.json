@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN81113",
+    "LocationName": "Huyện Ba Tri"
+  },
+  {
+    "LocationID": "VN81111",
+    "LocationName": "Huyện Bình Đại"
+  },
+  {
+    "LocationID": "VN81103",
+    "LocationName": "Huyện Châu Thành"
+  },
+  {
+    "LocationID": "VN81105",
+    "LocationName": "Huyện Chợ Lách"
+  },
+  {
+    "LocationID": "VN81109",
+    "LocationName": "Huyện Giồng Trôm"
+  },
+  {
+    "LocationID": "VN81108",
+    "LocationName": "Huyện Mỏ Cày Bắc"
+  },
+  {
+    "LocationID": "VN81107",
+    "LocationName": "Huyện Mỏ Cày Nam"
+  },
+  {
+    "LocationID": "VN81115",
+    "LocationName": "Huyện Thạnh Phú"
+  },
+  {
+    "LocationID": "VN81101",
+    "LocationName": "Thành phố Bến Tre"
+  }
+]

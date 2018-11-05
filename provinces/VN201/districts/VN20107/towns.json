@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN2010701",
+    "LocationName": "Thị trấn Yên Minh"
+  },
+  {
+    "LocationID": "VN2010707",
+    "LocationName": "Xã Bạch Đích"
+  },
+  {
+    "LocationID": "VN2010713",
+    "LocationName": "Xã Đông Minh"
+  },
+  {
+    "LocationID": "VN2010735",
+    "LocationName": "Xã Du Già"
+  },
+  {
+    "LocationID": "VN2010723",
+    "LocationName": "Xã Du Tiến"
+  },
+  {
+    "LocationID": "VN2010719",
+    "LocationName": "Xã Đường Thượng"
+  },
+  {
+    "LocationID": "VN2010709",
+    "LocationName": "Xã Hữu Vinh"
+  },
+  {
+    "LocationID": "VN2010731",
+    "LocationName": "Xã Lao Và Chải"
+  },
+  {
+    "LocationID": "VN2010721",
+    "LocationName": "Xã Lũng Hồ"
+  },
+  {
+    "LocationID": "VN2010711",
+    "LocationName": "Xã Mậu Duệ"
+  },
+  {
+    "LocationID": "VN2010715",
+    "LocationName": "Xã Mậu Long"
+  },
+  {
+    "LocationID": "VN2010729",
+    "LocationName": "Xã Na Khê"
+  },
+  {
+    "LocationID": "VN2010717",
+    "LocationName": "Xã Ngam La"
+  },
+  {
+    "LocationID": "VN2010733",
+    "LocationName": "Xã Ngọc Long"
+  },
+  {
+    "LocationID": "VN2010703",
+    "LocationName": "Xã Phú Lũng"
+  },
+  {
+    "LocationID": "VN2010725",
+    "LocationName": "Xã Sủng Thài"
+  },
+  {
+    "LocationID": "VN2010705",
+    "LocationName": "Xã Sủng Tráng"
+  },
+  {
+    "LocationID": "VN2010727",
+    "LocationName": "Xã Thắng Mố"
+  }
+]

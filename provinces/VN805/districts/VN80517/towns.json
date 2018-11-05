@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN8051713",
+    "LocationName": "Thị trấn Chợ Mới"
+  },
+  {
+    "LocationID": "VN8051715",
+    "LocationName": "Thị trấn Mỹ Luông"
+  },
+  {
+    "LocationID": "VN8051703",
+    "LocationName": "Xã An Thạnh Trung"
+  },
+  {
+    "LocationID": "VN8051731",
+    "LocationName": "Xã Bình Phước Xuân"
+  },
+  {
+    "LocationID": "VN8051735",
+    "LocationName": "Xã Hòa An"
+  },
+  {
+    "LocationID": "VN8051733",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN8051711",
+    "LocationName": "Xã Hội An"
+  },
+  {
+    "LocationID": "VN8051701",
+    "LocationName": "Xã Kiến An"
+  },
+  {
+    "LocationID": "VN8051707",
+    "LocationName": "Xã Kiến Thành"
+  },
+  {
+    "LocationID": "VN8051717",
+    "LocationName": "Xã Long Điền A"
+  },
+  {
+    "LocationID": "VN8051721",
+    "LocationName": "Xã Long Điền B"
+  },
+  {
+    "LocationID": "VN8051709",
+    "LocationName": "Xã Long Giang"
+  },
+  {
+    "LocationID": "VN8051729",
+    "LocationName": "Xã Long Kiến"
+  },
+  {
+    "LocationID": "VN8051725",
+    "LocationName": "Xã Mỹ An"
+  },
+  {
+    "LocationID": "VN8051723",
+    "LocationName": "Xã Mỹ Hiệp"
+  },
+  {
+    "LocationID": "VN8051705",
+    "LocationName": "Xã Mỹ Hội Đông"
+  },
+  {
+    "LocationID": "VN8051727",
+    "LocationName": "Xã Nhơn Mỹ"
+  },
+  {
+    "LocationID": "VN8051719",
+    "LocationName": "Xã Tấn Mỹ"
+  }
+]

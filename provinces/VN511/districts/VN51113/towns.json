@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN5111301",
+    "LocationName": "Thị trấn Tô Hạp"
+  },
+  {
+    "LocationID": "VN5111313",
+    "LocationName": "Xã Ba Cụm Bắc"
+  },
+  {
+    "LocationID": "VN5111315",
+    "LocationName": "Xã Ba Cụm Nam"
+  },
+  {
+    "LocationID": "VN5111303",
+    "LocationName": "Xã Sơn Bình"
+  },
+  {
+    "LocationID": "VN5111309",
+    "LocationName": "Xã Sơn Hiệp"
+  },
+  {
+    "LocationID": "VN5111307",
+    "LocationName": "Xã Sơn Lâm"
+  },
+  {
+    "LocationID": "VN5111311",
+    "LocationName": "Xã Sơn Trung"
+  },
+  {
+    "LocationID": "VN5111305",
+    "LocationName": "Xã Thành Sơn"
+  }
+]

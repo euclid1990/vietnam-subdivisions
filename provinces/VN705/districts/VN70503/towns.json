@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN7050303",
+    "LocationName": "Thị trấn Tân Sơn"
+  },
+  {
+    "LocationID": "VN7050301",
+    "LocationName": "Xã Hòa Sơn"
+  },
+  {
+    "LocationID": "VN7050305",
+    "LocationName": "Xã Lâm Sơn"
+  },
+  {
+    "LocationID": "VN7050307",
+    "LocationName": "Xã Lương Sơn"
+  },
+  {
+    "LocationID": "VN7050313",
+    "LocationName": "Xã Ma Nới"
+  },
+  {
+    "LocationID": "VN7050311",
+    "LocationName": "Xã Mỹ Sơn"
+  },
+  {
+    "LocationID": "VN7050315",
+    "LocationName": "Xã Nhơn Sơn"
+  },
+  {
+    "LocationID": "VN7050309",
+    "LocationName": "Xã Quảng Sơn"
+  }
+]

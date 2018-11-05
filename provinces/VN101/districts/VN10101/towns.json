@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN1010111",
+    "LocationName": "P. Nguyễn Trung Trực"
+  },
+  {
+    "LocationID": "VN1010107",
+    "LocationName": "Phường Cống Vị"
+  },
+  {
+    "LocationID": "VN1010123",
+    "LocationName": "Phường Điện Biên"
+  },
+  {
+    "LocationID": "VN1010115",
+    "LocationName": "Phường Đội Cấn"
+  },
+  {
+    "LocationID": "VN1010119",
+    "LocationName": "Phường Giảng Võ"
+  },
+  {
+    "LocationID": "VN1010117",
+    "LocationName": "Phường Kim Mã"
+  },
+  {
+    "LocationID": "VN1010109",
+    "LocationName": "Phường Liễu Giai"
+  },
+  {
+    "LocationID": "VN1010113",
+    "LocationName": "Phường Ngọc Hà"
+  },
+  {
+    "LocationID": "VN1010127",
+    "LocationName": "Phường Ngọc Khánh"
+  },
+  {
+    "LocationID": "VN1010101",
+    "LocationName": "Phường Phúc Xá"
+  },
+  {
+    "LocationID": "VN1010125",
+    "LocationName": "Phường Quán Thánh"
+  },
+  {
+    "LocationID": "VN1010121",
+    "LocationName": "Phường Thành Công"
+  },
+  {
+    "LocationID": "VN1010103",
+    "LocationName": "Phường Trúc Bạch"
+  },
+  {
+    "LocationID": "VN1010105",
+    "LocationName": "Phường Vĩnh Phúc"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN2250919",
+    "LocationName": "Phường Bình Ngọc"
+  },
+  {
+    "LocationID": "VN2250915",
+    "LocationName": "Phường Hải Hòa"
+  },
+  {
+    "LocationID": "VN2250911",
+    "LocationName": "Phường Hải Yên"
+  },
+  {
+    "LocationID": "VN2250905",
+    "LocationName": "Phường Hòa Lạc"
+  },
+  {
+    "LocationID": "VN2250925",
+    "LocationName": "Phường Ka Long"
+  },
+  {
+    "LocationID": "VN2250903",
+    "LocationName": "Phường Ninh Dương"
+  },
+  {
+    "LocationID": "VN2250927",
+    "LocationName": "Phường Trà Cổ"
+  },
+  {
+    "LocationID": "VN2250901",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN2250909",
+    "LocationName": "Xã Bắc Sơn"
+  },
+  {
+    "LocationID": "VN2250923",
+    "LocationName": "Xã Hải Đông"
+  },
+  {
+    "LocationID": "VN2250907",
+    "LocationName": "Xã Hải Sơn"
+  },
+  {
+    "LocationID": "VN2250929",
+    "LocationName": "Xã Hải Tiến"
+  },
+  {
+    "LocationID": "VN2250931",
+    "LocationName": "Xã Hải Xuân"
+  },
+  {
+    "LocationID": "VN2250913",
+    "LocationName": "Xã Quảng Nghĩa"
+  },
+  {
+    "LocationID": "VN2250917",
+    "LocationName": "Xã Vạn Ninh"
+  },
+  {
+    "LocationID": "VN2250933",
+    "LocationName": "Xã Vĩnh Thực"
+  },
+  {
+    "LocationID": "VN2250921",
+    "LocationName": "Xã Vĩnh Trung"
+  }
+]

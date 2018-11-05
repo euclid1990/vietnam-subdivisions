@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN3011101",
+    "LocationName": "Thị trấn Mường Chà"
+  },
+  {
+    "LocationID": "VN3011105",
+    "LocationName": "Xã Hừa Ngài"
+  },
+  {
+    "LocationID": "VN3011109",
+    "LocationName": "Xã Huổi Lèng"
+  },
+  {
+    "LocationID": "VN3011131",
+    "LocationName": "Xã Huổi Mí"
+  },
+  {
+    "LocationID": "VN3011125",
+    "LocationName": "Xã Ma Thì Hồ"
+  },
+  {
+    "LocationID": "VN3011111",
+    "LocationName": "Xã Mường Mơn"
+  },
+  {
+    "LocationID": "VN3011103",
+    "LocationName": "Xã Mường Tùng"
+  },
+  {
+    "LocationID": "VN3011121",
+    "LocationName": "Xã Na Sang"
+  },
+  {
+    "LocationID": "VN3011133",
+    "LocationName": "Xã Nậm Nèn"
+  },
+  {
+    "LocationID": "VN3011107",
+    "LocationName": "Xã Pa Ham"
+  },
+  {
+    "LocationID": "VN3011127",
+    "LocationName": "Xã Sa Lông"
+  },
+  {
+    "LocationID": "VN3011113",
+    "LocationName": "Xã Xá Tổng"
+  }
+]

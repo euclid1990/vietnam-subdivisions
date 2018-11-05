@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN1032701",
+    "LocationName": "Phường Anh Dũng"
+  },
+  {
+    "LocationID": "VN1032703",
+    "LocationName": "Phường Đa Phúc"
+  },
+  {
+    "LocationID": "VN1032707",
+    "LocationName": "Phường Hải Thành"
+  },
+  {
+    "LocationID": "VN1032711",
+    "LocationName": "Phường Hòa Nghĩa"
+  },
+  {
+    "LocationID": "VN1032705",
+    "LocationName": "Phường Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1032709",
+    "LocationName": "Phường Tân Thành"
+  }
+]

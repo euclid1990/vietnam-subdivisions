@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN2010107",
+    "LocationName": "Phường Minh Khai"
+  },
+  {
+    "LocationID": "VN2010103",
+    "LocationName": "Phường Ngọc Hà"
+  },
+  {
+    "LocationID": "VN2010105",
+    "LocationName": "Phường Nguyễn Trãi"
+  },
+  {
+    "LocationID": "VN2010101",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN2010115",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN2010113",
+    "LocationName": "Xã Ngọc Đường"
+  },
+  {
+    "LocationID": "VN2010109",
+    "LocationName": "Xã Phương Độ"
+  },
+  {
+    "LocationID": "VN2010111",
+    "LocationName": "Xã Phương Thiện"
+  }
+]

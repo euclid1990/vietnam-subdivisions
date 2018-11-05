@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN2150701",
+    "LocationName": "Thị trấn Đình Cả"
+  },
+  {
+    "LocationID": "VN2150719",
+    "LocationName": "Xã Bình Long"
+  },
+  {
+    "LocationID": "VN2150721",
+    "LocationName": "Xã Cúc Đường"
+  },
+  {
+    "LocationID": "VN2150729",
+    "LocationName": "Xã Dân Tiến"
+  },
+  {
+    "LocationID": "VN2150711",
+    "LocationName": "Xã La Hiên"
+  },
+  {
+    "LocationID": "VN2150727",
+    "LocationName": "Xã Lâu Thượng"
+  },
+  {
+    "LocationID": "VN2150717",
+    "LocationName": "Xã Liên Minh"
+  },
+  {
+    "LocationID": "VN2150703",
+    "LocationName": "Xã Nghinh Tường"
+  },
+  {
+    "LocationID": "VN2150709",
+    "LocationName": "Xã Phú Thượng"
+  },
+  {
+    "LocationID": "VN2150715",
+    "LocationName": "Xã Phương Giao"
+  },
+  {
+    "LocationID": "VN2150723",
+    "LocationName": "Xã Sảng Mộc"
+  },
+  {
+    "LocationID": "VN2150705",
+    "LocationName": "Xã Thần Xa"
+  },
+  {
+    "LocationID": "VN2150725",
+    "LocationName": "Xã Thượng Nung"
+  },
+  {
+    "LocationID": "VN2150713",
+    "LocationName": "Xã Tràng Xá"
+  },
+  {
+    "LocationID": "VN2150707",
+    "LocationName": "Xã Vũ Chấn"
+  }
+]

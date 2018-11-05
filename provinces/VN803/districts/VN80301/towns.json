@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN8030103",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8030111",
+    "LocationName": "Phường 11"
+  },
+  {
+    "LocationID": "VN8030113",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8030105",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8030115",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8030101",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN8030129",
+    "LocationName": "Phường Hòa Thuận"
+  },
+  {
+    "LocationID": "VN8030127",
+    "LocationName": "Phường Mỹ Phú"
+  },
+  {
+    "LocationID": "VN8030123",
+    "LocationName": "Xã Hòa An"
+  },
+  {
+    "LocationID": "VN8030117",
+    "LocationName": "Xã Mỹ Ngãi"
+  },
+  {
+    "LocationID": "VN8030119",
+    "LocationName": "Xã Mỹ Tân"
+  },
+  {
+    "LocationID": "VN8030107",
+    "LocationName": "Xã Mỹ Trà"
+  },
+  {
+    "LocationID": "VN8030109",
+    "LocationName": "Xã Tân Thuận Đông"
+  },
+  {
+    "LocationID": "VN8030121",
+    "LocationName": "Xã Tân Thu���n Tây"
+  },
+  {
+    "LocationID": "VN8030125",
+    "LocationName": "Xã Tịnh Thới"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN7130703",
+    "LocationName": "Thị trấn Vĩnh An"
+  },
+  {
+    "LocationID": "VN7130711",
+    "LocationName": "Xã Bình Hòa"
+  },
+  {
+    "LocationID": "VN7130723",
+    "LocationName": "Xã Bình Lợi"
+  },
+  {
+    "LocationID": "VN7130701",
+    "LocationName": "Xã Hiếu Liêm"
+  },
+  {
+    "LocationID": "VN7130713",
+    "LocationName": "Xã Mã Đà"
+  },
+  {
+    "LocationID": "VN7130717",
+    "LocationName": "Xã Phú Lý"
+  },
+  {
+    "LocationID": "VN7130721",
+    "LocationName": "Xã Tân An"
+  },
+  {
+    "LocationID": "VN7130709",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN7130715",
+    "LocationName": "Xã Thạnh Phú"
+  },
+  {
+    "LocationID": "VN7130707",
+    "LocationName": "Xã Thiện Tân"
+  },
+  {
+    "LocationID": "VN7130719",
+    "LocationName": "Xã Trị An"
+  },
+  {
+    "LocationID": "VN7130705",
+    "LocationName": "Xã Vĩnh Tân"
+  }
+]

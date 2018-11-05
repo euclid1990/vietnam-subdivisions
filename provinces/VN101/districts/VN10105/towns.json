@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1010515",
+    "LocationName": "Phường Chương Dương"
+  },
+  {
+    "LocationID": "VN1010531",
+    "LocationName": "Phường Cửa Đông"
+  },
+  {
+    "LocationID": "VN1010519",
+    "LocationName": "Phường Cửa Nam"
+  },
+  {
+    "LocationID": "VN1010529",
+    "LocationName": "Phường Đồng Xuân"
+  },
+  {
+    "LocationID": "VN1010513",
+    "LocationName": "Phường Hàng Bạc"
+  },
+  {
+    "LocationID": "VN1010525",
+    "LocationName": "Phường Hàng Bài"
+  },
+  {
+    "LocationID": "VN1010509",
+    "LocationName": "Phường Hàng Bồ"
+  },
+  {
+    "LocationID": "VN1010527",
+    "LocationName": "Phường Hàng Bông"
+  },
+  {
+    "LocationID": "VN1010505",
+    "LocationName": "Phường Hàng Buồm"
+  },
+  {
+    "LocationID": "VN1010507",
+    "LocationName": "Phường Hàng Đào"
+  },
+  {
+    "LocationID": "VN1010533",
+    "LocationName": "Phường Hàng Gai"
+  },
+  {
+    "LocationID": "VN1010503",
+    "LocationName": "Phường Hàng Mã"
+  },
+  {
+    "LocationID": "VN1010517",
+    "LocationName": "Phường Hàng Trống"
+  },
+  {
+    "LocationID": "VN1010511",
+    "LocationName": "Phường Lý Thái Tổ"
+  },
+  {
+    "LocationID": "VN1010523",
+    "LocationName": "Phường Phan Chu Trinh"
+  },
+  {
+    "LocationID": "VN1010501",
+    "LocationName": "Phường Phúc Tân"
+  },
+  {
+    "LocationID": "VN1010521",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1010535",
+    "LocationName": "Phường Tràng Tiền"
+  }
+]

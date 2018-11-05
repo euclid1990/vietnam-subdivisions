@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN7150123",
+    "LocationName": "Phường Bình Hưng"
+  },
+  {
+    "LocationID": "VN7150131",
+    "LocationName": "Phường Đức Long"
+  },
+  {
+    "LocationID": "VN7150125",
+    "LocationName": "Phường Đức Nghĩa"
+  },
+  {
+    "LocationID": "VN7150127",
+    "LocationName": "Phường Đức Thắng"
+  },
+  {
+    "LocationID": "VN7150115",
+    "LocationName": "Phường Hàm Tiến"
+  },
+  {
+    "LocationID": "VN7150129",
+    "LocationName": "Phường Hưng Long"
+  },
+  {
+    "LocationID": "VN7150109",
+    "LocationName": "Phường Lạc Đạo"
+  },
+  {
+    "LocationID": "VN7150113",
+    "LocationName": "Phường Mũi Né"
+  },
+  {
+    "LocationID": "VN7150105",
+    "LocationName": "Phường Phú Hài"
+  },
+  {
+    "LocationID": "VN7150101",
+    "LocationName": "Phường Phú Tài"
+  },
+  {
+    "LocationID": "VN7150117",
+    "LocationName": "Phường Phú Thủy"
+  },
+  {
+    "LocationID": "VN7150119",
+    "LocationName": "Phường Phú Trinh"
+  },
+  {
+    "LocationID": "VN7150121",
+    "LocationName": "Phường Thanh Hải"
+  },
+  {
+    "LocationID": "VN7150107",
+    "LocationName": "Phường Xuân An"
+  },
+  {
+    "LocationID": "VN7150133",
+    "LocationName": "Xã Phong Nẫm"
+  },
+  {
+    "LocationID": "VN7150111",
+    "LocationName": "Xã Thiện Nghiệp"
+  },
+  {
+    "LocationID": "VN7150135",
+    "LocationName": "Xã Tiến Lợi"
+  },
+  {
+    "LocationID": "VN7150103",
+    "LocationName": "Xã Tiến Thành"
+  }
+]

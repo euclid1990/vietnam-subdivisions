@@ -1,0 +1,380 @@
+[
+  {
+     "LocationID":"VN101",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Hà Nội"
+  },
+  {
+     "LocationID":"VN701",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Hồ Chí Minh"
+  },
+  {
+     "LocationID":"VN805",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"An Giang"
+  },
+  {
+     "LocationID":"VN717",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Bà Rịa - Vũng Tàu"
+  },
+  {
+     "LocationID":"VN221",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Bắc Giang"
+  },
+  {
+     "LocationID":"VN207",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Bắc Kạn"
+  },
+  {
+     "LocationID":"VN821",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Bạc Liêu"
+  },
+  {
+     "LocationID":"VN223",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Bắc Ninh"
+  },
+  {
+     "LocationID":"VN811",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Bến Tre"
+  },
+  {
+     "LocationID":"VN507",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Bình Định"
+  },
+  {
+     "LocationID":"VN711",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Bình Dương"
+  },
+  {
+     "LocationID":"VN707",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Bình Phước"
+  },
+  {
+     "LocationID":"VN715",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Bình Thuận"
+  },
+  {
+     "LocationID":"VN823",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Cà Mau"
+  },
+  {
+     "LocationID":"VN815",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Cần Thơ"
+  },
+  {
+     "LocationID":"VN203",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Cao Bằng"
+  },
+  {
+     "LocationID":"VN501",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Đà Nẵng"
+  },
+  {
+     "LocationID":"VN605",
+     "Kind":1,
+     "AreaCode":"Tây nguyên",
+     "LocationName":"Đắk Lắk"
+  },
+  {
+     "LocationID":"VN606",
+     "Kind":1,
+     "AreaCode":"",
+     "LocationName":"Đắk Nông"
+  },
+  {
+     "LocationID":"VN301",
+     "Kind":1,
+     "AreaCode":"Miền tây bắc",
+     "LocationName":"Điện Biên"
+  },
+  {
+     "LocationID":"VN713",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Đồng Nai"
+  },
+  {
+     "LocationID":"VN803",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Đồng Tháp"
+  },
+  {
+     "LocationID":"VN603",
+     "Kind":1,
+     "AreaCode":"Tây nguyên",
+     "LocationName":"Gia Lai"
+  },
+  {
+     "LocationID":"VN201",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Hà Giang"
+  },
+  {
+     "LocationID":"VN111",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Hà Nam"
+  },
+  {
+     "LocationID":"VN405",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Hà Tĩnh"
+  },
+  {
+     "LocationID":"VN107",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Hải Dương"
+  },
+  {
+     "LocationID":"VN103",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Hải Phòng"
+  },
+  {
+     "LocationID":"VN816",
+     "Kind":1,
+     "AreaCode":"",
+     "LocationName":"Hậu Giang"
+  },
+  {
+     "LocationID":"VN305",
+     "Kind":1,
+     "AreaCode":"Miền tây bắc",
+     "LocationName":"Hòa Bình"
+  },
+  {
+     "LocationID":"VN109",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Hưng Yên"
+  },
+  {
+     "LocationID":"VN511",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Khánh Hòa"
+  },
+  {
+     "LocationID":"VN813",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Kiên Giang"
+  },
+  {
+     "LocationID":"VN601",
+     "Kind":1,
+     "AreaCode":"Tây nguyên",
+     "LocationName":"Kon Tum"
+  },
+  {
+     "LocationID":"VN302",
+     "Kind":1,
+     "AreaCode":"",
+     "LocationName":"Lai Châu"
+  },
+  {
+     "LocationID":"VN703",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Lâm Đồng"
+  },
+  {
+     "LocationID":"VN209",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Lạng Sơn"
+  },
+  {
+     "LocationID":"VN205",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Lào Cai"
+  },
+  {
+     "LocationID":"VN801",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Long An"
+  },
+  {
+     "LocationID":"VN113",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Nam Định"
+  },
+  {
+     "LocationID":"VN403",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Nghệ An"
+  },
+  {
+     "LocationID":"VN117",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Ninh Bình"
+  },
+  {
+     "LocationID":"VN705",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Ninh Thuận"
+  },
+  {
+     "LocationID":"VN217",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Phú Thọ"
+  },
+  {
+     "LocationID":"VN509",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Phú Yên"
+  },
+  {
+     "LocationID":"VN407",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Quảng Bình"
+  },
+  {
+     "LocationID":"VN503",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Quảng Nam"
+  },
+  {
+     "LocationID":"VN505",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Quảng Ngãi"
+  },
+  {
+     "LocationID":"VN225",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Quảng Ninh"
+  },
+  {
+     "LocationID":"VN409",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Quảng Trị"
+  },
+  {
+     "LocationID":"VN819",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Sóc Trăng"
+  },
+  {
+     "LocationID":"VN303",
+     "Kind":1,
+     "AreaCode":"Miền tây bắc",
+     "LocationName":"Sơn La"
+  },
+  {
+     "LocationID":"VN709",
+     "Kind":1,
+     "AreaCode":"Miền đông nam bộ",
+     "LocationName":"Tây Ninh"
+  },
+  {
+     "LocationID":"VN115",
+     "Kind":1,
+     "AreaCode":"Miền bắc",
+     "LocationName":"Thái Bình"
+  },
+  {
+     "LocationID":"VN215",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Thái Nguyên"
+  },
+  {
+     "LocationID":"VN401",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Thanh Hóa"
+  },
+  {
+     "LocationID":"VN411",
+     "Kind":1,
+     "AreaCode":"Miền trung",
+     "LocationName":"Thừa Thiên - Huế"
+  },
+  {
+     "LocationID":"VN807",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Tiền Giang"
+  },
+  {
+     "LocationID":"VN817",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Trà Vinh"
+  },
+  {
+     "LocationID":"VN211",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Tuyên Quang"
+  },
+  {
+     "LocationID":"VN809",
+     "Kind":1,
+     "AreaCode":"Miền tây nam bộ",
+     "LocationName":"Vĩnh Long"
+  },
+  {
+     "LocationID":"VN219",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Vĩnh Phúc"
+  },
+  {
+     "LocationID":"VN213",
+     "Kind":1,
+     "AreaCode":"Miền đông bắc",
+     "LocationName":"Yên Bái"
+  }
+]

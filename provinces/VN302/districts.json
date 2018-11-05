@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN30201",
+    "LocationName": "Huyện Mường Tè"
+  },
+  {
+    "LocationID": "VN30213",
+    "LocationName": "Huyện Nậm Nhùn"
+  },
+  {
+    "LocationID": "VN30203",
+    "LocationName": "Huyện Phong Thổ"
+  },
+  {
+    "LocationID": "VN30207",
+    "LocationName": "Huyện Sìn Hồ"
+  },
+  {
+    "LocationID": "VN30205",
+    "LocationName": "Huyện Tam Đường"
+  },
+  {
+    "LocationID": "VN30211",
+    "LocationName": "Huyện Tân Uyên"
+  },
+  {
+    "LocationID": "VN30209",
+    "LocationName": "Huyện Than Uyên"
+  },
+  {
+    "LocationID": "VN30202",
+    "LocationName": "Thành Phố Lai Châu"
+  }
+]

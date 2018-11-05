@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN11509",
+    "LocationName": "Huyện Đông Hưng"
+  },
+  {
+    "LocationID": "VN11505",
+    "LocationName": "Huyện Hưng Hà"
+  },
+  {
+    "LocationID": "VN11513",
+    "LocationName": "Huyện Kiến Xương"
+  },
+  {
+    "LocationID": "VN11503",
+    "LocationName": "Huyện Quỳnh Phụ"
+  },
+  {
+    "LocationID": "VN11507",
+    "LocationName": "Huyện Thái Thụy"
+  },
+  {
+    "LocationID": "VN11515",
+    "LocationName": "Huyện Tiền Hải"
+  },
+  {
+    "LocationID": "VN11511",
+    "LocationName": "Huyện Vũ Thư"
+  },
+  {
+    "LocationID": "VN11501",
+    "LocationName": "Thành phố Thái Bình"
+  }
+]

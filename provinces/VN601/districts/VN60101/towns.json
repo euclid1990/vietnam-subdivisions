@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN6010115",
+    "LocationName": "Phường Duy Tân"
+  },
+  {
+    "LocationID": "VN6010101",
+    "LocationName": "Phường Lê Lợi"
+  },
+  {
+    "LocationID": "VN6010121",
+    "LocationName": "Phường Ngô Mây"
+  },
+  {
+    "LocationID": "VN6010125",
+    "LocationName": "Phường Nguyễn Trãi"
+  },
+  {
+    "LocationID": "VN6010105",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN6010117",
+    "LocationName": "Phường Quyết Thắng"
+  },
+  {
+    "LocationID": "VN6010107",
+    "LocationName": "Phường Thắng Lợi"
+  },
+  {
+    "LocationID": "VN6010123",
+    "LocationName": "Phường Thống Nhất"
+  },
+  {
+    "LocationID": "VN6010109",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN6010119",
+    "LocationName": "Phường Trường Chinh"
+  },
+  {
+    "LocationID": "VN6010139",
+    "LocationName": "Xã Chư Hreng"
+  },
+  {
+    "LocationID": "VN6010111",
+    "LocationName": "Xã Đắk Blà"
+  },
+  {
+    "LocationID": "VN6010127",
+    "LocationName": "Xã Đắk Cấm"
+  },
+  {
+    "LocationID": "VN6010141",
+    "LocationName": "Xã Đăk Năng"
+  },
+  {
+    "LocationID": "VN6010113",
+    "LocationName": "Xã Đắk Rơ Wa"
+  },
+  {
+    "LocationID": "VN6010137",
+    "LocationName": "Xã Đoàn Kết"
+  },
+  {
+    "LocationID": "VN6010103",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN6010135",
+    "LocationName": "Xã Ia Chim"
+  },
+  {
+    "LocationID": "VN6010129",
+    "LocationName": "Xã Kroong"
+  },
+  {
+    "LocationID": "VN6010131",
+    "LocationName": "Xã Ngọk Bay"
+  },
+  {
+    "LocationID": "VN6010133",
+    "LocationName": "Xã Vinh Quang"
+  }
+]

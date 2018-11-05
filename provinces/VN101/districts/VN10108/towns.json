@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN1010823",
+    "LocationName": "Phường Đại Kim"
+  },
+  {
+    "LocationID": "VN1010803",
+    "LocationName": "Phường Định Công"
+  },
+  {
+    "LocationID": "VN1010813",
+    "LocationName": "Phường Giáp Bát"
+  },
+  {
+    "LocationID": "VN1010817",
+    "LocationName": "Phường Hoàng Liệt"
+  },
+  {
+    "LocationID": "VN1010811",
+    "LocationName": "Phường Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN1010825",
+    "LocationName": "Phường Lĩnh Nam"
+  },
+  {
+    "LocationID": "VN1010805",
+    "LocationName": "Phường Mai Động"
+  },
+  {
+    "LocationID": "VN1010809",
+    "LocationName": "Phường Tân Mai"
+  },
+  {
+    "LocationID": "VN1010821",
+    "LocationName": "Phường Thanh Trì"
+  },
+  {
+    "LocationID": "VN1010815",
+    "LocationName": "Phường Thịnh Liệt"
+  },
+  {
+    "LocationID": "VN1010819",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN1010807",
+    "LocationName": "Phường Tương Mai"
+  },
+  {
+    "LocationID": "VN1010801",
+    "LocationName": "Phường Vĩnh Hưng"
+  },
+  {
+    "LocationID": "VN1010827",
+    "LocationName": "Phường Yên Sở"
+  }
+]

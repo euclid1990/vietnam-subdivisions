@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7090107",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN7090113",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN7090101",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN7090109",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN7090111",
+    "LocationName": "Phường Hiệp Ninh"
+  },
+  {
+    "LocationID": "VN7090119",
+    "LocationName": "Phường Ninh Sơn"
+  },
+  {
+    "LocationID": "VN7090105",
+    "LocationName": "Phường Ninh Thạnh"
+  },
+  {
+    "LocationID": "VN7090117",
+    "LocationName": "Xã Bình Minh"
+  },
+  {
+    "LocationID": "VN7090115",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN7090103",
+    "LocationName": "Xã Thạnh Tân"
+  }
+]

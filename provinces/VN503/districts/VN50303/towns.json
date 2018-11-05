@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN5030319",
+    "LocationName": "Phường Cẩm An"
+  },
+  {
+    "LocationID": "VN5030301",
+    "LocationName": "Phường Cẩm Châu"
+  },
+  {
+    "LocationID": "VN5030323",
+    "LocationName": "Phường Cẩm Nam"
+  },
+  {
+    "LocationID": "VN5030313",
+    "LocationName": "Phường Cẩm Phô"
+  },
+  {
+    "LocationID": "VN5030317",
+    "LocationName": "Phường Cửa Đại"
+  },
+  {
+    "LocationID": "VN5030303",
+    "LocationName": "Phường Minh An"
+  },
+  {
+    "LocationID": "VN5030305",
+    "LocationName": "Phường Sơn Phong"
+  },
+  {
+    "LocationID": "VN5030311",
+    "LocationName": "Phường Tân An"
+  },
+  {
+    "LocationID": "VN5030315",
+    "LocationName": "Phường Thanh Hà"
+  },
+  {
+    "LocationID": "VN5030321",
+    "LocationName": "Xã Cẩm Hà"
+  },
+  {
+    "LocationID": "VN5030307",
+    "LocationName": "Xã Cẩm Kim"
+  },
+  {
+    "LocationID": "VN5030325",
+    "LocationName": "Xã Cẩm Thanh"
+  },
+  {
+    "LocationID": "VN5030309",
+    "LocationName": "Xã Tân Hiệp"
+  }
+]

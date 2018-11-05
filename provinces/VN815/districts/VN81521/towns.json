@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8152107",
+    "LocationName": "Phường An Thới"
+  },
+  {
+    "LocationID": "VN8152103",
+    "LocationName": "Phường Bình Thủy"
+  },
+  {
+    "LocationID": "VN8152113",
+    "LocationName": "Phường Bùi Hữu Nghĩa"
+  },
+  {
+    "LocationID": "VN8152109",
+    "LocationName": "Phường Long Hòa"
+  },
+  {
+    "LocationID": "VN8152111",
+    "LocationName": "Phường Long Tuyền"
+  },
+  {
+    "LocationID": "VN8152105",
+    "LocationName": "Phường Thới An Đông"
+  },
+  {
+    "LocationID": "VN8152115",
+    "LocationName": "Phường Trà An"
+  },
+  {
+    "LocationID": "VN8152101",
+    "LocationName": "Phường Trà Nóc"
+  }
+]

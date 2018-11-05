@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN4032715",
+    "LocationName": "Thị trấn Anh Sơn"
+  },
+  {
+    "LocationID": "VN4032705",
+    "LocationName": "Xã Bình Sơn"
+  },
+  {
+    "LocationID": "VN4032707",
+    "LocationName": "Xã Cẩm Sơn"
+  },
+  {
+    "LocationID": "VN4032739",
+    "LocationName": "Xã Cao Sơn"
+  },
+  {
+    "LocationID": "VN4032721",
+    "LocationName": "Xã Đỉnh Sơn"
+  },
+  {
+    "LocationID": "VN4032725",
+    "LocationName": "Xã Đức Sơn"
+  },
+  {
+    "LocationID": "VN4032741",
+    "LocationName": "Xã Hoa Sơn"
+  },
+  {
+    "LocationID": "VN4032731",
+    "LocationName": "Xã Hội Sơn"
+  },
+  {
+    "LocationID": "VN4032723",
+    "LocationName": "Xã Hùng Sơn"
+  },
+  {
+    "LocationID": "VN4032737",
+    "LocationName": "Xã Khai Sơn"
+  },
+  {
+    "LocationID": "VN4032703",
+    "LocationName": "Xã Lạng Sơn"
+  },
+  {
+    "LocationID": "VN4032713",
+    "LocationName": "Xã Lĩnh Sơn"
+  },
+  {
+    "LocationID": "VN4032735",
+    "LocationName": "Xã Long Sơn"
+  },
+  {
+    "LocationID": "VN4032733",
+    "LocationName": "Xã Phúc Sơn"
+  },
+  {
+    "LocationID": "VN4032719",
+    "LocationName": "Xã Tam Sơn"
+  },
+  {
+    "LocationID": "VN4032709",
+    "LocationName": "Xã Tào Sơn"
+  },
+  {
+    "LocationID": "VN4032711",
+    "LocationName": "Xã Thạch Sơn"
+  },
+  {
+    "LocationID": "VN4032717",
+    "LocationName": "Xã Thành Sơn"
+  },
+  {
+    "LocationID": "VN4032701",
+    "LocationName": "Xã Thọ Sơn"
+  },
+  {
+    "LocationID": "VN4032727",
+    "LocationName": "Xã Tường Sơn"
+  },
+  {
+    "LocationID": "VN4032729",
+    "LocationName": "Xã Vĩnh Sơn"
+  }
+]

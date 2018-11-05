@@ -1,0 +1,78 @@
+[
+  {
+    "LocationID": "VN2252527",
+    "LocationName": "Phường Cộng Hòa"
+  },
+  {
+    "LocationID": "VN2252503",
+    "LocationName": "Phường Đông Mai"
+  },
+  {
+    "LocationID": "VN2252515",
+    "LocationName": "Phường Hà An"
+  },
+  {
+    "LocationID": "VN2252529",
+    "LocationName": "Phường Minh Thành"
+  },
+  {
+    "LocationID": "VN2252533",
+    "LocationName": "Phường Nam Hòa"
+  },
+  {
+    "LocationID": "VN2252523",
+    "LocationName": "Phường Phong Cốc"
+  },
+  {
+    "LocationID": "VN2252535",
+    "LocationName": "Phường Phong Hải"
+  },
+  {
+    "LocationID": "VN2252501",
+    "LocationName": "Phường Quảng Yên"
+  },
+  {
+    "LocationID": "VN2252511",
+    "LocationName": "Phường Tân An"
+  },
+  {
+    "LocationID": "VN2252513",
+    "LocationName": "Phường Yên Giang"
+  },
+  {
+    "LocationID": "VN2252519",
+    "LocationName": "Phường Yên Hải"
+  },
+  {
+    "LocationID": "VN2252517",
+    "LocationName": "Xã Cẩm La"
+  },
+  {
+    "LocationID": "VN2252507",
+    "LocationName": "Xã Hiệp Hòa"
+  },
+  {
+    "LocationID": "VN2252509",
+    "LocationName": "Xã Hoàng Tân"
+  },
+  {
+    "LocationID": "VN2252521",
+    "LocationName": "Xã Liên Hòa"
+  },
+  {
+    "LocationID": "VN2252537",
+    "LocationName": "Xã Liên Vị"
+  },
+  {
+    "LocationID": "VN2252505",
+    "LocationName": "Xã Sông Khoai"
+  },
+  {
+    "LocationID": "VN2252531",
+    "LocationName": "Xã Tiền An"
+  },
+  {
+    "LocationID": "VN2252525",
+    "LocationName": "Xã Tiền Phong"
+  }
+]

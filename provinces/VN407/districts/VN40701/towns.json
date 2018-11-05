@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN4070103",
+    "LocationName": "Phường Bắc Lý"
+  },
+  {
+    "LocationID": "VN4070123",
+    "LocationName": "Phường Bắc Nghĩa"
+  },
+  {
+    "LocationID": "VN4070115",
+    "LocationName": "Phường Đồng Mỹ"
+  },
+  {
+    "LocationID": "VN4070113",
+    "LocationName": "Phường Đồng Phú"
+  },
+  {
+    "LocationID": "VN4070121",
+    "LocationName": "Phường Đồng Sơn"
+  },
+  {
+    "LocationID": "VN4070125",
+    "LocationName": "Phường Đức Ninh Đông"
+  },
+  {
+    "LocationID": "VN4070119",
+    "LocationName": "Phường Hải Đình"
+  },
+  {
+    "LocationID": "VN4070111",
+    "LocationName": "Phường Hải Thành"
+  },
+  {
+    "LocationID": "VN4070117",
+    "LocationName": "Phường Nam Lý"
+  },
+  {
+    "LocationID": "VN4070105",
+    "LocationName": "Phường Phú Hải"
+  },
+  {
+    "LocationID": "VN4070129",
+    "LocationName": "Xã Bảo Ninh"
+  },
+  {
+    "LocationID": "VN4070109",
+    "LocationName": "Xã Đức Ninh"
+  },
+  {
+    "LocationID": "VN4070107",
+    "LocationName": "Xã Lộc Ninh"
+  },
+  {
+    "LocationID": "VN4070101",
+    "LocationName": "Xã Nghĩa Ninh"
+  },
+  {
+    "LocationID": "VN4070127",
+    "LocationName": "Xã Quang Phú"
+  },
+  {
+    "LocationID": "VN4070131",
+    "LocationName": "Xã Thuận Đức"
+  }
+]

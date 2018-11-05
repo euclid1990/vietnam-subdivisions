@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN8230109",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8230111",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8230107",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8230101",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8230115",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN8230117",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN8230113",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN8230105",
+    "LocationName": "Phường 9"
+  },
+  {
+    "LocationID": "VN8230133",
+    "LocationName": "Phường Tân Thành"
+  },
+  {
+    "LocationID": "VN8230131",
+    "LocationName": "Phường Tân Xuyên"
+  },
+  {
+    "LocationID": "VN8230119",
+    "LocationName": "Xã An Xuyên"
+  },
+  {
+    "LocationID": "VN8230125",
+    "LocationName": "Xã Định Bình"
+  },
+  {
+    "LocationID": "VN8230129",
+    "LocationName": "Xã Hòa Tân"
+  },
+  {
+    "LocationID": "VN8230127",
+    "LocationName": "Xã Hòa Thành"
+  },
+  {
+    "LocationID": "VN8230103",
+    "LocationName": "Xã Lý Văn Lâm"
+  },
+  {
+    "LocationID": "VN8230123",
+    "LocationName": "Xã Tắc Vân"
+  },
+  {
+    "LocationID": "VN8230121",
+    "LocationName": "Xã Tân Thành"
+  }
+]

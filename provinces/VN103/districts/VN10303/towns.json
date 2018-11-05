@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN1030313",
+    "LocationName": "P. Lương Khánh Thiện"
+  },
+  {
+    "LocationID": "VN1030307",
+    "LocationName": "Phường Cầu Đất"
+  },
+  {
+    "LocationID": "VN1030301",
+    "LocationName": "Phường Cầu Tre"
+  },
+  {
+    "LocationID": "VN1030321",
+    "LocationName": "Phường Đằng Giang"
+  },
+  {
+    "LocationID": "VN1030317",
+    "LocationName": "Phường Đông Khê"
+  },
+  {
+    "LocationID": "VN1030325",
+    "LocationName": "Phường Đổng Quốc Bình"
+  },
+  {
+    "LocationID": "VN1030315",
+    "LocationName": "Phường Gia Viên"
+  },
+  {
+    "LocationID": "VN1030305",
+    "LocationName": "Phường Lạc Viên"
+  },
+  {
+    "LocationID": "VN1030323",
+    "LocationName": "Phường Lạch Tray"
+  },
+  {
+    "LocationID": "VN1030319",
+    "LocationName": "Phường Lê Lợi"
+  },
+  {
+    "LocationID": "VN1030303",
+    "LocationName": "Phường Máy Chai"
+  },
+  {
+    "LocationID": "VN1030309",
+    "LocationName": "Phường Máy Tơ"
+  },
+  {
+    "LocationID": "VN1030311",
+    "LocationName": "Phường Vạn Mỹ"
+  }
+]

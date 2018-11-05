@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN30309",
+    "LocationName": "Huyện Bắc Yên"
+  },
+  {
+    "LocationID": "VN30313",
+    "LocationName": "Huyện Mai Sơn"
+  },
+  {
+    "LocationID": "VN30319",
+    "LocationName": "Huyện Mộc Châu"
+  },
+  {
+    "LocationID": "VN30305",
+    "LocationName": "Huyện Mường La"
+  },
+  {
+    "LocationID": "VN30311",
+    "LocationName": "Huyện Phù Yên"
+  },
+  {
+    "LocationID": "VN30303",
+    "LocationName": "Huyện Quỳnh Nhai"
+  },
+  {
+    "LocationID": "VN30315",
+    "LocationName": "Huyện Sông Mã"
+  },
+  {
+    "LocationID": "VN30321",
+    "LocationName": "Huyện Sốp Cộp"
+  },
+  {
+    "LocationID": "VN30307",
+    "LocationName": "Huyện Thuận Châu"
+  },
+  {
+    "LocationID": "VN30323",
+    "LocationName": "Huyện Vân Hồ"
+  },
+  {
+    "LocationID": "VN30317",
+    "LocationName": "Huyện Yên Châu"
+  },
+  {
+    "LocationID": "VN30301",
+    "LocationName": "Thành phố Sơn La"
+  }
+]

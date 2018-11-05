@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN7010105",
+    "LocationName": "Phường Bến Nghé"
+  },
+  {
+    "LocationID": "VN7010107",
+    "LocationName": "Phường Bến Thành"
+  },
+  {
+    "LocationID": "VN7010119",
+    "LocationName": "Phường Cầu Kho"
+  },
+  {
+    "LocationID": "VN7010115",
+    "LocationName": "Phường Cầu Ông Lãnh"
+  },
+  {
+    "LocationID": "VN7010113",
+    "LocationName": "Phường Cô Giang"
+  },
+  {
+    "LocationID": "VN7010103",
+    "LocationName": "Phường Đa Kao"
+  },
+  {
+    "LocationID": "VN7010117",
+    "LocationName": "Phường Nguyễn Cư Trinh"
+  },
+  {
+    "LocationID": "VN7010109",
+    "LocationName": "Phường Nguyễn Thái Bình"
+  },
+  {
+    "LocationID": "VN7010111",
+    "LocationName": "Phường Phạm Ngũ Lão"
+  },
+  {
+    "LocationID": "VN7010101",
+    "LocationName": "Phường Tân Định"
+  }
+]

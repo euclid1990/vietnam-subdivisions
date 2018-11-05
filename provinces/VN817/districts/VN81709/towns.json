@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN8170911",
+    "LocationName": "Thị trấn Cầu Quan"
+  },
+  {
+    "LocationID": "VN8170909",
+    "LocationName": "Thị trấn Tiểu Cần"
+  },
+  {
+    "LocationID": "VN8170903",
+    "LocationName": "Xã Hiếu Trung"
+  },
+  {
+    "LocationID": "VN8170913",
+    "LocationName": "Xã Hiếu Tử"
+  },
+  {
+    "LocationID": "VN8170907",
+    "LocationName": "Xã Hùng Hòa"
+  },
+  {
+    "LocationID": "VN8170905",
+    "LocationName": "Xã Long Thới"
+  },
+  {
+    "LocationID": "VN8170919",
+    "LocationName": "Xã Ngãi Hùng"
+  },
+  {
+    "LocationID": "VN8170917",
+    "LocationName": "Xã Phú Cần"
+  },
+  {
+    "LocationID": "VN8170921",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8170901",
+    "LocationName": "Xã Tân Hùng"
+  },
+  {
+    "LocationID": "VN8170915",
+    "LocationName": "Xã Tập Ngãi"
+  }
+]

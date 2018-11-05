@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN1070317",
+    "LocationName": "Phường Bến Tắm"
+  },
+  {
+    "LocationID": "VN1070311",
+    "LocationName": "Phường Chí Minh"
+  },
+  {
+    "LocationID": "VN1070309",
+    "LocationName": "Phường Cộng Hòa"
+  },
+  {
+    "LocationID": "VN1070327",
+    "LocationName": "Phường Hoàng Tân"
+  },
+  {
+    "LocationID": "VN1070305",
+    "LocationName": "Phường Phả Lại"
+  },
+  {
+    "LocationID": "VN1070301",
+    "LocationName": "Phường Sao Đỏ"
+  },
+  {
+    "LocationID": "VN1070333",
+    "LocationName": "Phường Thái Học"
+  },
+  {
+    "LocationID": "VN1070303",
+    "LocationName": "Phường Văn An"
+  },
+  {
+    "LocationID": "VN1070313",
+    "LocationName": "Xã An Lạc"
+  },
+  {
+    "LocationID": "VN1070307",
+    "LocationName": "Xã Bắc An"
+  },
+  {
+    "LocationID": "VN1070329",
+    "LocationName": "Xã Cổ Thành"
+  },
+  {
+    "LocationID": "VN1070339",
+    "LocationName": "Xã Đồng Lạc"
+  },
+  {
+    "LocationID": "VN1070319",
+    "LocationName": "Xã Hoàng Hoa Thám"
+  },
+  {
+    "LocationID": "VN1070325",
+    "LocationName": "Xã Hoàng Tiến"
+  },
+  {
+    "LocationID": "VN1070321",
+    "LocationName": "Xã Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1070337",
+    "LocationName": "Xã Kênh Giang"
+  },
+  {
+    "LocationID": "VN1070323",
+    "LocationName": "Xã Lê Lợi"
+  },
+  {
+    "LocationID": "VN1070335",
+    "LocationName": "Xã Nhân Huệ"
+  },
+  {
+    "LocationID": "VN1070315",
+    "LocationName": "Xã Tân Dân"
+  },
+  {
+    "LocationID": "VN1070331",
+    "LocationName": "Xã Văn Đức"
+  }
+]

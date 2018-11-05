@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8012103",
+    "LocationName": "Thị trấn Tầm Vu"
+  },
+  {
+    "LocationID": "VN8012121",
+    "LocationName": "Xã An Lục Long"
+  },
+  {
+    "LocationID": "VN8012109",
+    "LocationName": "Xã Bình Quới"
+  },
+  {
+    "LocationID": "VN8012119",
+    "LocationName": "Xã Dương Xuân Hội"
+  },
+  {
+    "LocationID": "VN8012117",
+    "LocationName": "Xã Hiệp Thạnh"
+  },
+  {
+    "LocationID": "VN8012111",
+    "LocationName": "Xã Hòa Phú"
+  },
+  {
+    "LocationID": "VN8012123",
+    "LocationName": "Xã Long Trì"
+  },
+  {
+    "LocationID": "VN8012113",
+    "LocationName": "Xã Phú Ngãi Trị"
+  },
+  {
+    "LocationID": "VN8012101",
+    "LocationName": "Xã Phước Tân Hưng"
+  },
+  {
+    "LocationID": "VN8012107",
+    "LocationName": "Xã Thanh Phú Long"
+  },
+  {
+    "LocationID": "VN8012125",
+    "LocationName": "Xã Thanh Vĩnh Đông"
+  },
+  {
+    "LocationID": "VN8012115",
+    "LocationName": "Xã Thuận Mỹ"
+  },
+  {
+    "LocationID": "VN8012105",
+    "LocationName": "Xã Vĩnh Công"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN8010115",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8010111",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8010103",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8010113",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8010107",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN8010119",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN8010117",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN8010125",
+    "LocationName": "Phường Khánh Hậu"
+  },
+  {
+    "LocationID": "VN8010127",
+    "LocationName": "Phường Tân Khánh"
+  },
+  {
+    "LocationID": "VN8010109",
+    "LocationName": "Xã An Vĩnh Ngãi"
+  },
+  {
+    "LocationID": "VN8010123",
+    "LocationName": "Xã Bình Tâm"
+  },
+  {
+    "LocationID": "VN8010101",
+    "LocationName": "Xã Hướng Thọ Phú"
+  },
+  {
+    "LocationID": "VN8010121",
+    "LocationName": "Xã Lợi Bình Nhơn"
+  },
+  {
+    "LocationID": "VN8010105",
+    "LocationName": "Xã Nhơn Thạnh Trung"
+  }
+]

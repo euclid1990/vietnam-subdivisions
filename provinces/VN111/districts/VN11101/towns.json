@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN1110109",
+    "LocationName": "P. Lương Khánh Thiện"
+  },
+  {
+    "LocationID": "VN1110123",
+    "LocationName": "Phường Châu Sơn"
+  },
+  {
+    "LocationID": "VN1110113",
+    "LocationName": "Phường Hai Bà Trưng"
+  },
+  {
+    "LocationID": "VN1110115",
+    "LocationName": "Phường Lam Hạ"
+  },
+  {
+    "LocationID": "VN1110111",
+    "LocationName": "Phường Lê Hồng Phong"
+  },
+  {
+    "LocationID": "VN1110119",
+    "LocationName": "Phường Liêm Chính"
+  },
+  {
+    "LocationID": "VN1110101",
+    "LocationName": "Phường Minh Khai"
+  },
+  {
+    "LocationID": "VN1110103",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN1110107",
+    "LocationName": "Phường Thanh Châu"
+  },
+  {
+    "LocationID": "VN1110125",
+    "LocationName": "Phường Thanh Tuyền"
+  },
+  {
+    "LocationID": "VN1110105",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1110133",
+    "LocationName": "Xã Đinh Xá"
+  },
+  {
+    "LocationID": "VN1110141",
+    "LocationName": "Xã Kim Bình"
+  },
+  {
+    "LocationID": "VN1110121",
+    "LocationName": "Xã Liêm Chung"
+  },
+  {
+    "LocationID": "VN1110139",
+    "LocationName": "Xã Liêm Tiết"
+  },
+  {
+    "LocationID": "VN1110137",
+    "LocationName": "Xã Liêm Tuyền"
+  },
+  {
+    "LocationID": "VN1110117",
+    "LocationName": "Xã Phù Vân"
+  },
+  {
+    "LocationID": "VN1110131",
+    "LocationName": "Xã Tiên Hải"
+  },
+  {
+    "LocationID": "VN1110129",
+    "LocationName": "Xã Tiên Hiệp"
+  },
+  {
+    "LocationID": "VN1110127",
+    "LocationName": "Xã Tiên Tân"
+  },
+  {
+    "LocationID": "VN1110135",
+    "LocationName": "Xã Trịnh Xá"
+  }
+]

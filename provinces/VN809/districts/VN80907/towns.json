@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8090703",
+    "LocationName": "Phường Cái Vồn"
+  },
+  {
+    "LocationID": "VN8090735",
+    "LocationName": "Phường Đông Thuận"
+  },
+  {
+    "LocationID": "VN8090737",
+    "LocationName": "Phường Thành Phước"
+  },
+  {
+    "LocationID": "VN8090729",
+    "LocationName": "Xã Đông Bình"
+  },
+  {
+    "LocationID": "VN8090733",
+    "LocationName": "Xã Đông Thành"
+  },
+  {
+    "LocationID": "VN8090709",
+    "LocationName": "Xã Đông Thạnh"
+  },
+  {
+    "LocationID": "VN8090731",
+    "LocationName": "Xã Mỹ Hòa"
+  },
+  {
+    "LocationID": "VN8090727",
+    "LocationName": "Xã Thuận An"
+  }
+]

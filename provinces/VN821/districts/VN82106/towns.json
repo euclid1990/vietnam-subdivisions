@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8210601",
+    "LocationName": "Thị trấn Hòa Bình"
+  },
+  {
+    "LocationID": "VN8210603",
+    "LocationName": "Xã Minh Diệu"
+  },
+  {
+    "LocationID": "VN8210605",
+    "LocationName": "Xã Vĩnh Bình"
+  },
+  {
+    "LocationID": "VN8210609",
+    "LocationName": "Xã Vĩnh Hậu"
+  },
+  {
+    "LocationID": "VN8210615",
+    "LocationName": "Xã Vĩnh Hậu A"
+  },
+  {
+    "LocationID": "VN8210611",
+    "LocationName": "Xã Vĩnh Mỹ A"
+  },
+  {
+    "LocationID": "VN8210607",
+    "LocationName": "Xã Vĩnh Mỹ B"
+  },
+  {
+    "LocationID": "VN8210613",
+    "LocationName": "Xã Vĩnh Thịnh"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN6061305",
+    "LocationName": "Phường Nghĩa Đức"
+  },
+  {
+    "LocationID": "VN6061307",
+    "LocationName": "Phường Nghĩa Phú"
+  },
+  {
+    "LocationID": "VN6061309",
+    "LocationName": "Phường Nghĩa Tân"
+  },
+  {
+    "LocationID": "VN6061303",
+    "LocationName": "Phường Nghĩa Thành"
+  },
+  {
+    "LocationID": "VN6061311",
+    "LocationName": "Phường Nghĩa Trung"
+  },
+  {
+    "LocationID": "VN6061315",
+    "LocationName": "Xã Đắk Nia"
+  },
+  {
+    "LocationID": "VN6061313",
+    "LocationName": "Xã Đăk R Moan"
+  },
+  {
+    "LocationID": "VN6061301",
+    "LocationName": "Xã Quảng Thành"
+  }
+]

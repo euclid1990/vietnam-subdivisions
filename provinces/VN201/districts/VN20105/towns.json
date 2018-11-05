@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN2010501",
+    "LocationName": "Thị trấn Mèo Vạc"
+  },
+  {
+    "LocationID": "VN2010533",
+    "LocationName": "Xã Cán Chu Phìn"
+  },
+  {
+    "LocationID": "VN2010531",
+    "LocationName": "Xã Giàng Chu Phìn"
+  },
+  {
+    "LocationID": "VN2010519",
+    "LocationName": "Xã Khâu Vai"
+  },
+  {
+    "LocationID": "VN2010527",
+    "LocationName": "Xã Lũng Chinh"
+  },
+  {
+    "LocationID": "VN2010515",
+    "LocationName": "Xã Lũng Pù"
+  },
+  {
+    "LocationID": "VN2010535",
+    "LocationName": "Xã Nậm Ban"
+  },
+  {
+    "LocationID": "VN2010523",
+    "LocationName": "Xã Niêm Sơn"
+  },
+  {
+    "LocationID": "VN2010521",
+    "LocationName": "Xã Niêm Tòng"
+  },
+  {
+    "LocationID": "VN2010505",
+    "LocationName": "Xã Pả Vi"
+  },
+  {
+    "LocationID": "VN2010525",
+    "LocationName": "Xã Pải Lủng"
+  },
+  {
+    "LocationID": "VN2010511",
+    "LocationName": "Xã Sơn Vĩ"
+  },
+  {
+    "LocationID": "VN2010509",
+    "LocationName": "Xã Sủng Máng"
+  },
+  {
+    "LocationID": "VN2010507",
+    "LocationName": "Xã Sủng Trà"
+  },
+  {
+    "LocationID": "VN2010513",
+    "LocationName": "Xã Tả Lủng"
+  },
+  {
+    "LocationID": "VN2010517",
+    "LocationName": "Xã Tát Ngà"
+  },
+  {
+    "LocationID": "VN2010529",
+    "LocationName": "Xã Thượng Phùng"
+  },
+  {
+    "LocationID": "VN2010503",
+    "LocationName": "Xã Xín Cái"
+  }
+]

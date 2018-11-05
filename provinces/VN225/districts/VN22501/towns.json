@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN2250121",
+    "LocationName": "Phường Bạch Đằng"
+  },
+  {
+    "LocationID": "VN2250111",
+    "LocationName": "Phường Bãi Cháy"
+  },
+  {
+    "LocationID": "VN2250113",
+    "LocationName": "Phường Cao Thắng"
+  },
+  {
+    "LocationID": "VN2250133",
+    "LocationName": "Phường Cao Xanh"
+  },
+  {
+    "LocationID": "VN2250105",
+    "LocationName": "Phường Giếng Đáy"
+  },
+  {
+    "LocationID": "VN2250101",
+    "LocationName": "Phường Hà Khánh"
+  },
+  {
+    "LocationID": "VN2250103",
+    "LocationName": "Phường Hà Khẩu"
+  },
+  {
+    "LocationID": "VN2250135",
+    "LocationName": "Phường Hà Lầm"
+  },
+  {
+    "LocationID": "VN2250129",
+    "LocationName": "Phường Hà Phong"
+  },
+  {
+    "LocationID": "VN2250109",
+    "LocationName": "Phường Hà Trung"
+  },
+  {
+    "LocationID": "VN2250107",
+    "LocationName": "Phường Hà Tu"
+  },
+  {
+    "LocationID": "VN2250131",
+    "LocationName": "Phường Hồng Gai"
+  },
+  {
+    "LocationID": "VN2250139",
+    "LocationName": "Phường Hồng Hà"
+  },
+  {
+    "LocationID": "VN2250119",
+    "LocationName": "Phường Hồng Hải"
+  },
+  {
+    "LocationID": "VN2250115",
+    "LocationName": "Phường Hùng Thắng"
+  },
+  {
+    "LocationID": "VN2250117",
+    "LocationName": "Phường Trần Hưng Đạo"
+  },
+  {
+    "LocationID": "VN2250123",
+    "LocationName": "Phường Tuần Châu"
+  },
+  {
+    "LocationID": "VN2250137",
+    "LocationName": "Phường Yết Kiêu"
+  },
+  {
+    "LocationID": "VN2250127",
+    "LocationName": "Xã Đại Yên"
+  },
+  {
+    "LocationID": "VN2250125",
+    "LocationName": "Xã Việt Hưng"
+  }
+]

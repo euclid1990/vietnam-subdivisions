@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN2250701",
+    "LocationName": "Thị trấn Bình Liêu"
+  },
+  {
+    "LocationID": "VN2250705",
+    "LocationName": "Xã Đồng Tâm"
+  },
+  {
+    "LocationID": "VN2250713",
+    "LocationName": "Xã Đồng Văn"
+  },
+  {
+    "LocationID": "VN2250703",
+    "LocationName": "Xã Hoành Mô"
+  },
+  {
+    "LocationID": "VN2250715",
+    "LocationName": "Xã Húc Động"
+  },
+  {
+    "LocationID": "VN2250709",
+    "LocationName": "Xã Lục Hồn"
+  },
+  {
+    "LocationID": "VN2250707",
+    "LocationName": "Xã Tình Húc"
+  },
+  {
+    "LocationID": "VN2250711",
+    "LocationName": "Xã Vô Ngại"
+  }
+]

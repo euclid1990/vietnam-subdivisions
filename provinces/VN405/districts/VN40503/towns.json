@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN4050311",
+    "LocationName": "Phường Bắc Hồng"
+  },
+  {
+    "LocationID": "VN4050301",
+    "LocationName": "Phường Nam Hồng"
+  },
+  {
+    "LocationID": "VN4050307",
+    "LocationName": "Xã Đậu Liêu"
+  },
+  {
+    "LocationID": "VN4050305",
+    "LocationName": "Xã Đức Thuận"
+  },
+  {
+    "LocationID": "VN4050309",
+    "LocationName": "Xã Thuận Lộc"
+  },
+  {
+    "LocationID": "VN4050303",
+    "LocationName": "Xã Trung Lương"
+  }
+]

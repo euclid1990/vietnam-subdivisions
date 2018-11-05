@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN7090509",
+    "LocationName": "Thị trấn Tân Châu"
+  },
+  {
+    "LocationID": "VN7090515",
+    "LocationName": "Xã Suối Dây"
+  },
+  {
+    "LocationID": "VN7090505",
+    "LocationName": "Xã Suối Ngô"
+  },
+  {
+    "LocationID": "VN7090511",
+    "LocationName": "Xã Tân Đông"
+  },
+  {
+    "LocationID": "VN7090503",
+    "LocationName": "Xã Tân Hà"
+  },
+  {
+    "LocationID": "VN7090517",
+    "LocationName": "Xã Tân Hiệp"
+  },
+  {
+    "LocationID": "VN7090501",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN7090513",
+    "LocationName": "Xã Tân Hội"
+  },
+  {
+    "LocationID": "VN7090523",
+    "LocationName": "Xã Tân Hưng"
+  },
+  {
+    "LocationID": "VN7090521",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN7090519",
+    "LocationName": "Xã Tân Thành"
+  },
+  {
+    "LocationID": "VN7090507",
+    "LocationName": "Xã Thạnh Đông"
+  }
+]

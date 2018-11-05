@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN7110321",
+    "LocationName": "Phường Chánh Phú Hòa"
+  },
+  {
+    "LocationID": "VN7110327",
+    "LocationName": "Phường Hòa Lợi"
+  },
+  {
+    "LocationID": "VN7110311",
+    "LocationName": "Phường Mỹ Phước"
+  },
+  {
+    "LocationID": "VN7110329",
+    "LocationName": "Phường Tân Định"
+  },
+  {
+    "LocationID": "VN7110307",
+    "LocationName": "Phường Thới Hòa"
+  },
+  {
+    "LocationID": "VN7110323",
+    "LocationName": "Xã An Điền"
+  },
+  {
+    "LocationID": "VN7110325",
+    "LocationName": "Xã An Tây"
+  },
+  {
+    "LocationID": "VN7110309",
+    "LocationName": "Xã Phú An"
+  }
+]

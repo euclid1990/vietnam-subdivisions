@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN8030315",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8030311",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8030313",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN8030303",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN8030317",
+    "LocationName": "Phường An Hòa"
+  },
+  {
+    "LocationID": "VN8030301",
+    "LocationName": "Phường Tân Quy Đông"
+  },
+  {
+    "LocationID": "VN8030305",
+    "LocationName": "Xã Tân Khánh Đông"
+  },
+  {
+    "LocationID": "VN8030309",
+    "LocationName": "Xã Tân Phú Đông"
+  },
+  {
+    "LocationID": "VN8030307",
+    "LocationName": "Xã Tân Quy Tây"
+  }
+]

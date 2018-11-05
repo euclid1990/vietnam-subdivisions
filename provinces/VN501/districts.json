@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN50113",
+    "LocationName": "Huyện Đảo Hoàng Sa"
+  },
+  {
+    "LocationID": "VN50111",
+    "LocationName": "Huyện Hòa Vang"
+  },
+  {
+    "LocationID": "VN50115",
+    "LocationName": "Quận Cẩm Lệ"
+  },
+  {
+    "LocationID": "VN50101",
+    "LocationName": "Quận Hải Châu"
+  },
+  {
+    "LocationID": "VN50109",
+    "LocationName": "Quận Liên Chiểu"
+  },
+  {
+    "LocationID": "VN50107",
+    "LocationName": "Quận Ngũ Hành Sơn"
+  },
+  {
+    "LocationID": "VN50105",
+    "LocationName": "Quận Sơn Trà"
+  },
+  {
+    "LocationID": "VN50103",
+    "LocationName": "Quận Thanh Khê"
+  }
+]

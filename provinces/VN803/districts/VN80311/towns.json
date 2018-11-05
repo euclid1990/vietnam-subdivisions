@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8031111",
+    "LocationName": "Thị trấn Thanh Bình"
+  },
+  {
+    "LocationID": "VN8031115",
+    "LocationName": "Xã An Phong"
+  },
+  {
+    "LocationID": "VN8031119",
+    "LocationName": "Xã Bình Tấn"
+  },
+  {
+    "LocationID": "VN8031101",
+    "LocationName": "Xã Bình Thành"
+  },
+  {
+    "LocationID": "VN8031117",
+    "LocationName": "Xã Phú Lợi"
+  },
+  {
+    "LocationID": "VN8031107",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN8031113",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8031121",
+    "LocationName": "Xã Tân Huề"
+  },
+  {
+    "LocationID": "VN8031109",
+    "LocationName": "Xã Tân Long"
+  },
+  {
+    "LocationID": "VN8031105",
+    "LocationName": "Xã Tân Mỹ"
+  },
+  {
+    "LocationID": "VN8031125",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN8031103",
+    "LocationName": "Xã Tân Quới"
+  },
+  {
+    "LocationID": "VN8031123",
+    "LocationName": "Xã Tân Thạnh"
+  }
+]

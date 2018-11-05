@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN80117",
+    "LocationName": "Huyện Bến Lức"
+  },
+  {
+    "LocationID": "VN80125",
+    "LocationName": "Huyện Cần Đước"
+  },
+  {
+    "LocationID": "VN80127",
+    "LocationName": "Huyện Cần Giuộc"
+  },
+  {
+    "LocationID": "VN80121",
+    "LocationName": "Huyện Châu Thành"
+  },
+  {
+    "LocationID": "VN80115",
+    "LocationName": "Huyện Đức Hòa"
+  },
+  {
+    "LocationID": "VN80113",
+    "LocationName": "Huyện Đức Huệ"
+  },
+  {
+    "LocationID": "VN80107",
+    "LocationName": "Huyện Mộc Hoá"
+  },
+  {
+    "LocationID": "VN80103",
+    "LocationName": "Huyện Tân Hưng"
+  },
+  {
+    "LocationID": "VN80109",
+    "LocationName": "Huyện Tân Thạnh"
+  },
+  {
+    "LocationID": "VN80123",
+    "LocationName": "Huyện Tân Trụ"
+  },
+  {
+    "LocationID": "VN80111",
+    "LocationName": "Huyện Thạnh Hoá"
+  },
+  {
+    "LocationID": "VN80119",
+    "LocationName": "Huyện Thủ Thừa"
+  },
+  {
+    "LocationID": "VN80105",
+    "LocationName": "Huyện Vĩnh Hưng"
+  },
+  {
+    "LocationID": "VN80101",
+    "LocationName": "Thành phố Tân An"
+  },
+  {
+    "LocationID": "VN80129",
+    "LocationName": "Thị xã Kiến Tường"
+  }
+]

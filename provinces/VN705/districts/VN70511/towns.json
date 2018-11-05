@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN7051111",
+    "LocationName": "Xã Bắc Phong"
+  },
+  {
+    "LocationID": "VN7051109",
+    "LocationName": "Xã Bắc Sơn"
+  },
+  {
+    "LocationID": "VN7051103",
+    "LocationName": "Xã Công Hải"
+  },
+  {
+    "LocationID": "VN7051101",
+    "LocationName": "Xã Lợi Hải"
+  },
+  {
+    "LocationID": "VN7051105",
+    "LocationName": "Xã Phước Chiến"
+  },
+  {
+    "LocationID": "VN7051107",
+    "LocationName": "Xã Phước Kháng"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN2250331",
+    "LocationName": "Phường Cẩm Bình"
+  },
+  {
+    "LocationID": "VN2250327",
+    "LocationName": "Phường Cẩm Đông"
+  },
+  {
+    "LocationID": "VN2250305",
+    "LocationName": "Phường Cẩm Phú"
+  },
+  {
+    "LocationID": "VN2250323",
+    "LocationName": "Phường Cẩm Sơn"
+  },
+  {
+    "LocationID": "VN2250307",
+    "LocationName": "Phường Cẩm Tây"
+  },
+  {
+    "LocationID": "VN2250313",
+    "LocationName": "Phường Cẩm Thạch"
+  },
+  {
+    "LocationID": "VN2250315",
+    "LocationName": "Phường Cẩm Thành"
+  },
+  {
+    "LocationID": "VN2250329",
+    "LocationName": "Phường Cẩm Thịnh"
+  },
+  {
+    "LocationID": "VN2250311",
+    "LocationName": "Phường Cẩm Thủy"
+  },
+  {
+    "LocationID": "VN2250317",
+    "LocationName": "Phường Cẩm Trung"
+  },
+  {
+    "LocationID": "VN2250303",
+    "LocationName": "Phường Cửa ông"
+  },
+  {
+    "LocationID": "VN2250301",
+    "LocationName": "Phường Mông Dương"
+  },
+  {
+    "LocationID": "VN2250309",
+    "LocationName": "Phường Quang Hanh"
+  },
+  {
+    "LocationID": "VN2250325",
+    "LocationName": "Xã Cẩm Hải"
+  },
+  {
+    "LocationID": "VN2250319",
+    "LocationName": "Xã Cộng Hòa"
+  },
+  {
+    "LocationID": "VN2250321",
+    "LocationName": "Xã Dương Huy"
+  }
+]

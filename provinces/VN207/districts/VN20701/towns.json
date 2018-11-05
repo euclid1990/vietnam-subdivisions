@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN2070101",
+    "LocationName": "P. Nguyễn Thị Minh Khai"
+  },
+  {
+    "LocationID": "VN2070105",
+    "LocationName": "Phường Đức Xuân"
+  },
+  {
+    "LocationID": "VN2070107",
+    "LocationName": "Phường Phùng Chí Kiên"
+  },
+  {
+    "LocationID": "VN2070103",
+    "LocationName": "Phường Sông Cầu"
+  },
+  {
+    "LocationID": "VN2070115",
+    "LocationName": "Xã Dương Quang"
+  },
+  {
+    "LocationID": "VN2070109",
+    "LocationName": "Xã Huyền Tụng"
+  },
+  {
+    "LocationID": "VN2070111",
+    "LocationName": "Xã Nông Thượng"
+  },
+  {
+    "LocationID": "VN2070113",
+    "LocationName": "Xã Xuất Hoá"
+  }
+]

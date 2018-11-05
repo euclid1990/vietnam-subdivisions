@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN8030505",
+    "LocationName": "Thị trấn Sa Rài"
+  },
+  {
+    "LocationID": "VN8030503",
+    "LocationName": "Xã An Phước"
+  },
+  {
+    "LocationID": "VN8030511",
+    "LocationName": "Xã Bình Phú"
+  },
+  {
+    "LocationID": "VN8030501",
+    "LocationName": "Xã Tân Công Chí"
+  },
+  {
+    "LocationID": "VN8030507",
+    "LocationName": "Xã Tân Hộ Cơ"
+  },
+  {
+    "LocationID": "VN8030517",
+    "LocationName": "Xã Tân Phước"
+  },
+  {
+    "LocationID": "VN8030513",
+    "LocationName": "Xã Tân Thành A"
+  },
+  {
+    "LocationID": "VN8030515",
+    "LocationName": "Xã Tân Thành B"
+  },
+  {
+    "LocationID": "VN8030509",
+    "LocationName": "Xã Thông Bình"
+  }
+]

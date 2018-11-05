@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN1091319",
+    "LocationName": "Thị trấn Vương"
+  },
+  {
+    "LocationID": "VN1091327",
+    "LocationName": "Xã An Viên"
+  },
+  {
+    "LocationID": "VN1091309",
+    "LocationName": "Xã Cương Chính"
+  },
+  {
+    "LocationID": "VN1091325",
+    "LocationName": "Xã Dị Chế"
+  },
+  {
+    "LocationID": "VN1091301",
+    "LocationName": "Xã Đức Thắng"
+  },
+  {
+    "LocationID": "VN1091329",
+    "LocationName": "Xã Hải Triều"
+  },
+  {
+    "LocationID": "VN1091303",
+    "LocationName": "Xã Hưng Đạo"
+  },
+  {
+    "LocationID": "VN1091305",
+    "LocationName": "Xã Lệ Xá"
+  },
+  {
+    "LocationID": "VN1091311",
+    "LocationName": "Xã Minh Phượng"
+  },
+  {
+    "LocationID": "VN1091321",
+    "LocationName": "Xã Ngô Quyền"
+  },
+  {
+    "LocationID": "VN1091323",
+    "LocationName": "Xã Nhật Tân"
+  },
+  {
+    "LocationID": "VN1091333",
+    "LocationName": "Xã Thiện Phiến"
+  },
+  {
+    "LocationID": "VN1091331",
+    "LocationName": "Xã Thủ Sỹ"
+  },
+  {
+    "LocationID": "VN1091335",
+    "LocationName": "Xã Thụy Lôi"
+  },
+  {
+    "LocationID": "VN1091307",
+    "LocationName": "Xã Trung Dũng"
+  }
+]

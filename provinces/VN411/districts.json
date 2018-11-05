@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN41115",
+    "LocationName": "Huyện A Lưới"
+  },
+  {
+    "LocationID": "VN41117",
+    "LocationName": "Huyện Nam Đông"
+  },
+  {
+    "LocationID": "VN41103",
+    "LocationName": "Huyện Phong Điền"
+  },
+  {
+    "LocationID": "VN41113",
+    "LocationName": "Huyện Phú Lộc"
+  },
+  {
+    "LocationID": "VN41109",
+    "LocationName": "Huyện Phú Vang"
+  },
+  {
+    "LocationID": "VN41105",
+    "LocationName": "Huyện Quảng Điền"
+  },
+  {
+    "LocationID": "VN41101",
+    "LocationName": "Thành phố Huế"
+  },
+  {
+    "LocationID": "VN41111",
+    "LocationName": "Thị xã Hương Thuỷ"
+  },
+  {
+    "LocationID": "VN41107",
+    "LocationName": "Thị Xã Hương Trà"
+  }
+]

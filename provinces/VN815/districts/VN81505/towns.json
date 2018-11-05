@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN8150505",
+    "LocationName": "Phường Châu Văn Liêm"
+  },
+  {
+    "LocationID": "VN8150513",
+    "LocationName": "Phường Long Hưng"
+  },
+  {
+    "LocationID": "VN8150501",
+    "LocationName": "Phường Phước Thới"
+  },
+  {
+    "LocationID": "VN8150511",
+    "LocationName": "Phường Thới  Hòa"
+  },
+  {
+    "LocationID": "VN8150503",
+    "LocationName": "Phường Thới An"
+  },
+  {
+    "LocationID": "VN8150507",
+    "LocationName": "Phường Thới Long"
+  },
+  {
+    "LocationID": "VN8150509",
+    "LocationName": "Phường Trường Lạc"
+  }
+]

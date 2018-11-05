@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN4030709",
+    "LocationName": "Thị trấn Tân Lạc"
+  },
+  {
+    "LocationID": "VN4030711",
+    "LocationName": "Xã Châu Bính"
+  },
+  {
+    "LocationID": "VN4030723",
+    "LocationName": "Xã Châu Bình"
+  },
+  {
+    "LocationID": "VN4030717",
+    "LocationName": "Xã Châu Hạnh"
+  },
+  {
+    "LocationID": "VN4030705",
+    "LocationName": "Xã Châu Hoàn"
+  },
+  {
+    "LocationID": "VN4030713",
+    "LocationName": "Xã Châu Hội"
+  },
+  {
+    "LocationID": "VN4030715",
+    "LocationName": "Xã Châu Nga"
+  },
+  {
+    "LocationID": "VN4030721",
+    "LocationName": "Xã Châu Phong"
+  },
+  {
+    "LocationID": "VN4030719",
+    "LocationName": "Xã Châu Thắng"
+  },
+  {
+    "LocationID": "VN4030703",
+    "LocationName": "Xã Châu Thuận"
+  },
+  {
+    "LocationID": "VN4030701",
+    "LocationName": "Xã Châu Tiến"
+  },
+  {
+    "LocationID": "VN4030707",
+    "LocationName": "Xã Diên Lãm"
+  }
+]

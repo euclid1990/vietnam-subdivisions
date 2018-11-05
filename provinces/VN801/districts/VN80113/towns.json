@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN8011303",
+    "LocationName": "Thị trấn Đông Thành"
+  },
+  {
+    "LocationID": "VN8011317",
+    "LocationName": "Xã Bình Hòa Bắc"
+  },
+  {
+    "LocationID": "VN8011319",
+    "LocationName": "Xã Bình Hòa Hưng"
+  },
+  {
+    "LocationID": "VN8011307",
+    "LocationName": "Xã Bình Hòa Nam"
+  },
+  {
+    "LocationID": "VN8011315",
+    "LocationName": "Xã Bình Thành"
+  },
+  {
+    "LocationID": "VN8011321",
+    "LocationName": "Xã Mỹ Bình"
+  },
+  {
+    "LocationID": "VN8011309",
+    "LocationName": "Xã Mỹ Quý Đông"
+  },
+  {
+    "LocationID": "VN8011313",
+    "LocationName": "Xã Mỹ Quý Tây"
+  },
+  {
+    "LocationID": "VN8011311",
+    "LocationName": "Xã Mỹ Thạnh Bắc"
+  },
+  {
+    "LocationID": "VN8011305",
+    "LocationName": "Xã Mỹ Thạnh Đông"
+  },
+  {
+    "LocationID": "VN8011301",
+    "LocationName": "Xã Mỹ Thạnh Tây"
+  }
+]

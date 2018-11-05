@@ -1,0 +1,110 @@
+[
+  {
+    "LocationID": "VN5110111",
+    "LocationName": "Phường Lộc Thọ"
+  },
+  {
+    "LocationID": "VN5110107",
+    "LocationName": "Phường Ngọc Hiệp"
+  },
+  {
+    "LocationID": "VN5110133",
+    "LocationName": "Phường Phước Hải"
+  },
+  {
+    "LocationID": "VN5110139",
+    "LocationName": "Phường Phước Hòa"
+  },
+  {
+    "LocationID": "VN5110141",
+    "LocationName": "Phường Phước Long"
+  },
+  {
+    "LocationID": "VN5110103",
+    "LocationName": "Phường Phước Tân"
+  },
+  {
+    "LocationID": "VN5110135",
+    "LocationName": "Phường Phước Tiến"
+  },
+  {
+    "LocationID": "VN5110129",
+    "LocationName": "Phường Phương Sài"
+  },
+  {
+    "LocationID": "VN5110131",
+    "LocationName": "Phường Phương Sơn"
+  },
+  {
+    "LocationID": "VN5110137",
+    "LocationName": "Phường Tân Lập"
+  },
+  {
+    "LocationID": "VN5110127",
+    "LocationName": "Phường Vạn Thắng"
+  },
+  {
+    "LocationID": "VN5110109",
+    "LocationName": "Phường Vạn Thạnh"
+  },
+  {
+    "LocationID": "VN5110119",
+    "LocationName": "Phường Vĩnh Hải"
+  },
+  {
+    "LocationID": "VN5110105",
+    "LocationName": "Phường Vĩnh Hòa"
+  },
+  {
+    "LocationID": "VN5110113",
+    "LocationName": "Phường Vĩnh Nguyên"
+  },
+  {
+    "LocationID": "VN5110121",
+    "LocationName": "Phường Vĩnh Phước"
+  },
+  {
+    "LocationID": "VN5110123",
+    "LocationName": "Phường Vĩnh Thọ"
+  },
+  {
+    "LocationID": "VN5110143",
+    "LocationName": "Phường Vĩnh Trường"
+  },
+  {
+    "LocationID": "VN5110125",
+    "LocationName": "Phường Xương Huân"
+  },
+  {
+    "LocationID": "VN5110153",
+    "LocationName": "Xã Phước Đồng"
+  },
+  {
+    "LocationID": "VN5110101",
+    "LocationName": "Xã Vĩnh Hiệp"
+  },
+  {
+    "LocationID": "VN5110145",
+    "LocationName": "Xã Vĩnh Lương"
+  },
+  {
+    "LocationID": "VN5110115",
+    "LocationName": "Xã Vĩnh Ngọc"
+  },
+  {
+    "LocationID": "VN5110147",
+    "LocationName": "Xã Vĩnh Phương"
+  },
+  {
+    "LocationID": "VN5110117",
+    "LocationName": "Xã Vĩnh Thái"
+  },
+  {
+    "LocationID": "VN5110149",
+    "LocationName": "Xã Vĩnh Thạnh"
+  },
+  {
+    "LocationID": "VN5110151",
+    "LocationName": "Xã Vĩnh Trung"
+  }
+]

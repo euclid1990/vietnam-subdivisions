@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN2231321",
+    "LocationName": "Phường Châu Khê"
+  },
+  {
+    "LocationID": "VN2231317",
+    "LocationName": "Phường Đình Bảng"
+  },
+  {
+    "LocationID": "VN2231309",
+    "LocationName": "Phường Đồng Kỵ"
+  },
+  {
+    "LocationID": "VN2231301",
+    "LocationName": "Phường Đông Ngàn"
+  },
+  {
+    "LocationID": "VN2231311",
+    "LocationName": "Phường Đồng Nguyên"
+  },
+  {
+    "LocationID": "VN2231313",
+    "LocationName": "Phường Tân Hồng"
+  },
+  {
+    "LocationID": "VN2231323",
+    "LocationName": "Phường Trang Hạ"
+  },
+  {
+    "LocationID": "VN2231305",
+    "LocationName": "Xã Hương Mạc"
+  },
+  {
+    "LocationID": "VN2231315",
+    "LocationName": "Xã Phù Chẩn"
+  },
+  {
+    "LocationID": "VN2231307",
+    "LocationName": "Xã Phù Khê"
+  },
+  {
+    "LocationID": "VN2231303",
+    "LocationName": "Xã Tam Sơn"
+  },
+  {
+    "LocationID": "VN2231319",
+    "LocationName": "Xã Tương Giang"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN7151311",
+    "LocationName": "Phường Bình Tân"
+  },
+  {
+    "LocationID": "VN7151303",
+    "LocationName": "Phường Phước Hội"
+  },
+  {
+    "LocationID": "VN7151305",
+    "LocationName": "Phường Phước Lộc"
+  },
+  {
+    "LocationID": "VN7151309",
+    "LocationName": "Phường Tân An"
+  },
+  {
+    "LocationID": "VN7151307",
+    "LocationName": "Phường Tân Thiện"
+  },
+  {
+    "LocationID": "VN7151315",
+    "LocationName": "Xã Tân Bình"
+  },
+  {
+    "LocationID": "VN7151313",
+    "LocationName": "Xã Tân Hải"
+  },
+  {
+    "LocationID": "VN7151317",
+    "LocationName": "Xã Tân Phước"
+  },
+  {
+    "LocationID": "VN7151301",
+    "LocationName": "Xã Tân Tiến"
+  }
+]

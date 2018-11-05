@@ -1,0 +1,78 @@
+[
+  {
+    "LocationID": "VN2010305",
+    "LocationName": "Thị trấn Đồng Văn"
+  },
+  {
+    "LocationID": "VN2010301",
+    "LocationName": "Thị trấn Phó Bảng"
+  },
+  {
+    "LocationID": "VN2010321",
+    "LocationName": "Xã Hố Quáng Phìn"
+  },
+  {
+    "LocationID": "VN2010335",
+    "LocationName": "Xã Lũng Cú"
+  },
+  {
+    "LocationID": "VN2010323",
+    "LocationName": "Xã Lũng Phìn"
+  },
+  {
+    "LocationID": "VN2010337",
+    "LocationName": "Xã Lũng Táo"
+  },
+  {
+    "LocationID": "VN2010319",
+    "LocationName": "Xã Lũng Thầu"
+  },
+  {
+    "LocationID": "VN2010303",
+    "LocationName": "Xã Má Lé"
+  },
+  {
+    "LocationID": "VN2010315",
+    "LocationName": "Xã Phố Cáo"
+  },
+  {
+    "LocationID": "VN2010307",
+    "LocationName": "Xã Phố Là"
+  },
+  {
+    "LocationID": "VN2010317",
+    "LocationName": "Xã Sảng Tủng"
+  },
+  {
+    "LocationID": "VN2010329",
+    "LocationName": "Xã Sính Lủng"
+  },
+  {
+    "LocationID": "VN2010311",
+    "LocationName": "Xã Sủng Là"
+  },
+  {
+    "LocationID": "VN2010325",
+    "LocationName": "Xã Sủng Trái"
+  },
+  {
+    "LocationID": "VN2010313",
+    "LocationName": "Xã Tả Lủng"
+  },
+  {
+    "LocationID": "VN2010327",
+    "LocationName": "Xã Tả Phìn"
+  },
+  {
+    "LocationID": "VN2010309",
+    "LocationName": "Xã Thài Phìn Tủng"
+  },
+  {
+    "LocationID": "VN2010331",
+    "LocationName": "Xã Vần Chải"
+  },
+  {
+    "LocationID": "VN2010333",
+    "LocationName": "Xã Xà Phìn"
+  }
+]

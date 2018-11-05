@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN2011105",
+    "LocationName": "Thị trấn Yên Phú"
+  },
+  {
+    "LocationID": "VN2011125",
+    "LocationName": "Xã Đường âm"
+  },
+  {
+    "LocationID": "VN2011115",
+    "LocationName": "Xã Đường Hồng"
+  },
+  {
+    "LocationID": "VN2011103",
+    "LocationName": "Xã Giáp Trung"
+  },
+  {
+    "LocationID": "VN2011123",
+    "LocationName": "Xã Lạc Nông"
+  },
+  {
+    "LocationID": "VN2011107",
+    "LocationName": "Xã Minh Ngọc"
+  },
+  {
+    "LocationID": "VN2011101",
+    "LocationName": "Xã Minh Sơn"
+  },
+  {
+    "LocationID": "VN2011117",
+    "LocationName": "Xã Phiêng Luông"
+  },
+  {
+    "LocationID": "VN2011119",
+    "LocationName": "Xã Phú Nam"
+  },
+  {
+    "LocationID": "VN2011113",
+    "LocationName": "Xã Thượng Tân"
+  },
+  {
+    "LocationID": "VN2011111",
+    "LocationName": "Xã Yên Cường"
+  },
+  {
+    "LocationID": "VN2011121",
+    "LocationName": "Xã Yên Định"
+  },
+  {
+    "LocationID": "VN2011109",
+    "LocationName": "Xã Yên Phong"
+  }
+]

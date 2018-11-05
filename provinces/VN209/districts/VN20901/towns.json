@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN2090107",
+    "LocationName": "Phường Chi Lăng"
+  },
+  {
+    "LocationID": "VN2090113",
+    "LocationName": "Phường Đông Kinh"
+  },
+  {
+    "LocationID": "VN2090101",
+    "LocationName": "Phường Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN2090103",
+    "LocationName": "Phường Tam Thanh"
+  },
+  {
+    "LocationID": "VN2090105",
+    "LocationName": "Phường Vĩnh Trại"
+  },
+  {
+    "LocationID": "VN2090115",
+    "LocationName": "Xã Hoàng Đồng"
+  },
+  {
+    "LocationID": "VN2090111",
+    "LocationName": "Xã Mai Pha"
+  },
+  {
+    "LocationID": "VN2090109",
+    "LocationName": "Xã Quảng Lạc"
+  }
+]

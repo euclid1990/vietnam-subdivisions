@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN2130107",
+    "LocationName": "Phường Đồng Tâm"
+  },
+  {
+    "LocationID": "VN2130119",
+    "LocationName": "Phường Hồng Hà"
+  },
+  {
+    "LocationID": "VN2130129",
+    "LocationName": "Phường Hợp Minh"
+  },
+  {
+    "LocationID": "VN2130117",
+    "LocationName": "Phường Minh Tân"
+  },
+  {
+    "LocationID": "VN2130115",
+    "LocationName": "Phường Nam Cường"
+  },
+  {
+    "LocationID": "VN2130109",
+    "LocationName": "Phường Nguyễn Phúc"
+  },
+  {
+    "LocationID": "VN2130105",
+    "LocationName": "Phường Nguyễn Thái Học"
+  },
+  {
+    "LocationID": "VN2130103",
+    "LocationName": "Phường Yên Ninh"
+  },
+  {
+    "LocationID": "VN2130101",
+    "LocationName": "Phường Yên Thịnh"
+  },
+  {
+    "LocationID": "VN2130123",
+    "LocationName": "Xã Âu Lâu"
+  },
+  {
+    "LocationID": "VN2130127",
+    "LocationName": "xã Giới Phiên"
+  },
+  {
+    "LocationID": "VN2130111",
+    "LocationName": "Xã Minh Bảo"
+  },
+  {
+    "LocationID": "VN2130125",
+    "LocationName": "Xã Phúc Lộc"
+  },
+  {
+    "LocationID": "VN2130121",
+    "LocationName": "Xã Tân Thịnh"
+  },
+  {
+    "LocationID": "VN2130113",
+    "LocationName": "Xã Tuy Lộc"
+  },
+  {
+    "LocationID": "VN2130133",
+    "LocationName": "Xã Văn Phú"
+  },
+  {
+    "LocationID": "VN2130131",
+    "LocationName": "Xã Văn Tiến"
+  }
+]

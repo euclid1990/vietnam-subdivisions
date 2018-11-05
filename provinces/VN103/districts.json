@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN10313",
+    "LocationName": "Huyện An Dương"
+  },
+  {
+    "LocationID": "VN10315",
+    "LocationName": "Huyện An Lão"
+  },
+  {
+    "LocationID": "VN10325",
+    "LocationName": "Huyện Bạch Long Vĩ"
+  },
+  {
+    "LocationID": "VN10323",
+    "LocationName": "Huyện Cát Hải"
+  },
+  {
+    "LocationID": "VN10317",
+    "LocationName": "Huyện Kiến Thuỵ"
+  },
+  {
+    "LocationID": "VN10311",
+    "LocationName": "Huyện Thuỷ Nguyên"
+  },
+  {
+    "LocationID": "VN10319",
+    "LocationName": "Huyện Tiên Lãng"
+  },
+  {
+    "LocationID": "VN10321",
+    "LocationName": "Huyện Vĩnh Bảo"
+  },
+  {
+    "LocationID": "VN10309",
+    "LocationName": "Quận Đồ Sơn"
+  },
+  {
+    "LocationID": "VN10327",
+    "LocationName": "Quận Dương Kinh"
+  },
+  {
+    "LocationID": "VN10304",
+    "LocationName": "Quận Hải An"
+  },
+  {
+    "LocationID": "VN10301",
+    "LocationName": "Quận Hồng Bàng"
+  },
+  {
+    "LocationID": "VN10307",
+    "LocationName": "Quận Kiến An"
+  },
+  {
+    "LocationID": "VN10305",
+    "LocationName": "Quận Lê Chân"
+  },
+  {
+    "LocationID": "VN10303",
+    "LocationName": "Quận Ngô Quyền"
+  }
+]

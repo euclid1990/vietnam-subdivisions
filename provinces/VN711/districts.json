@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN71117",
+    "LocationName": "Huyện Bắc Tân Uyên"
+  },
+  {
+    "LocationID": "VN71115",
+    "LocationName": "Huyện Bàu Bàng"
+  },
+  {
+    "LocationID": "VN71113",
+    "LocationName": "Huyện Dầu Tiếng"
+  },
+  {
+    "LocationID": "VN71111",
+    "LocationName": "Huyện Phú Giáo"
+  },
+  {
+    "LocationID": "VN71101",
+    "LocationName": "Thành phố Thủ Dầu Một"
+  },
+  {
+    "LocationID": "VN71103",
+    "LocationName": "Thị Xã Bến Cát"
+  },
+  {
+    "LocationID": "VN71109",
+    "LocationName": "Thị xã Dĩ An"
+  },
+  {
+    "LocationID": "VN71105",
+    "LocationName": "Thị xã Tân Uyên"
+  },
+  {
+    "LocationID": "VN71107",
+    "LocationName": "Thị xã Thuận An"
+  }
+]

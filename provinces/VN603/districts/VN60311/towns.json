@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN6031101",
+    "LocationName": "Phường An Bình"
+  },
+  {
+    "LocationID": "VN6031107",
+    "LocationName": "Phường An Phú"
+  },
+  {
+    "LocationID": "VN6031119",
+    "LocationName": "Phường An Phước"
+  },
+  {
+    "LocationID": "VN6031109",
+    "LocationName": "Phường An Tân"
+  },
+  {
+    "LocationID": "VN6031121",
+    "LocationName": "Phường Ngô Mây"
+  },
+  {
+    "LocationID": "VN6031103",
+    "LocationName": "Phường Tây Sơn"
+  },
+  {
+    "LocationID": "VN6031105",
+    "LocationName": "Xã Cửu An"
+  },
+  {
+    "LocationID": "VN6031113",
+    "LocationName": "Xã Song An"
+  },
+  {
+    "LocationID": "VN6031115",
+    "LocationName": "Xã Thành An"
+  },
+  {
+    "LocationID": "VN6031111",
+    "LocationName": "Xã Tú An"
+  },
+  {
+    "LocationID": "VN6031117",
+    "LocationName": "Xã Xuân An"
+  }
+]

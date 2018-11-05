@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN5091111",
+    "LocationName": "Thị trấn Hòa Hiệp Trung"
+  },
+  {
+    "LocationID": "VN5091109",
+    "LocationName": "Thị trấn Hòa Vinh"
+  },
+  {
+    "LocationID": "VN5091107",
+    "LocationName": "Xã Hòa Hiệp Bắc"
+  },
+  {
+    "LocationID": "VN5091115",
+    "LocationName": "Xã Hòa Hiệp Nam"
+  },
+  {
+    "LocationID": "VN5091119",
+    "LocationName": "Xã Hòa Tâm"
+  },
+  {
+    "LocationID": "VN5091101",
+    "LocationName": "Xã Hòa Tân Đông"
+  },
+  {
+    "LocationID": "VN5091105",
+    "LocationName": "Xã Hòa Thành"
+  },
+  {
+    "LocationID": "VN5091117",
+    "LocationName": "Xã Hòa Xuân Đông"
+  },
+  {
+    "LocationID": "VN5091103",
+    "LocationName": "Xã Hòa Xuân Nam"
+  },
+  {
+    "LocationID": "VN5091113",
+    "LocationName": "Xã Hòa Xuân Tây"
+  }
+]

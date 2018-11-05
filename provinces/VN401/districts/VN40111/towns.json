@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN4011101",
+    "LocationName": "Thị trấn Quan Sơn"
+  },
+  {
+    "LocationID": "VN4011103",
+    "LocationName": "Xã Mường Mìn"
+  },
+  {
+    "LocationID": "VN4011119",
+    "LocationName": "Xã Na Mèo"
+  },
+  {
+    "LocationID": "VN4011109",
+    "LocationName": "Xã Sơn Điện"
+  },
+  {
+    "LocationID": "VN4011115",
+    "LocationName": "Xã Sơn Hà"
+  },
+  {
+    "LocationID": "VN4011121",
+    "LocationName": "Xã Sơn Lư"
+  },
+  {
+    "LocationID": "VN4011107",
+    "LocationName": "Xã Sơn Thủy"
+  },
+  {
+    "LocationID": "VN4011123",
+    "LocationName": "Xã Tam Lư"
+  },
+  {
+    "LocationID": "VN4011117",
+    "LocationName": "Xã Tam Thanh"
+  },
+  {
+    "LocationID": "VN4011105",
+    "LocationName": "Xã Trung Hạ"
+  },
+  {
+    "LocationID": "VN4011113",
+    "LocationName": "Xã Trung Thượng"
+  },
+  {
+    "LocationID": "VN4011125",
+    "LocationName": "Xã Trung Tiến "
+  },
+  {
+    "LocationID": "VN4011111",
+    "LocationName": "Xã Trung Xuân"
+  }
+]

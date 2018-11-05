@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN1010309",
+    "LocationName": "Phường Bưởi"
+  },
+  {
+    "LocationID": "VN1010301",
+    "LocationName": "Phường Nhật Tân"
+  },
+  {
+    "LocationID": "VN1010313",
+    "LocationName": "Phường Phú Thượng"
+  },
+  {
+    "LocationID": "VN1010305",
+    "LocationName": "Phường Quảng An"
+  },
+  {
+    "LocationID": "VN1010311",
+    "LocationName": "Phường Thuỵ Khuê"
+  },
+  {
+    "LocationID": "VN1010303",
+    "LocationName": "Phường Tứ Liên"
+  },
+  {
+    "LocationID": "VN1010307",
+    "LocationName": "Phường Xuân La"
+  },
+  {
+    "LocationID": "VN1010315",
+    "LocationName": "Phường Yên Phụ"
+  }
+]

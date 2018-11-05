@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN1015509",
+    "LocationName": "Phường Cầu Diễn"
+  },
+  {
+    "LocationID": "VN1015507",
+    "LocationName": "Phường Đại Mỗ"
+  },
+  {
+    "LocationID": "VN1015515",
+    "LocationName": "Phường Mễ Trì"
+  },
+  {
+    "LocationID": "VN1015511",
+    "LocationName": "Phường Mỹ Đình 1"
+  },
+  {
+    "LocationID": "VN1015513",
+    "LocationName": "Phường Mỹ Đình 2"
+  },
+  {
+    "LocationID": "VN1015517",
+    "LocationName": "Phường Phú Đô"
+  },
+  {
+    "LocationID": "VN1015503",
+    "LocationName": "Phường Phương Canh"
+  },
+  {
+    "LocationID": "VN1015505",
+    "LocationName": "Phường Tây Mỗ"
+  },
+  {
+    "LocationID": "VN1015519",
+    "LocationName": "Phường Trung Văn"
+  },
+  {
+    "LocationID": "VN1015501",
+    "LocationName": "Phường Xuân Phương"
+  }
+]

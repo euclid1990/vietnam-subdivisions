@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN7170315",
+    "LocationName": "Phường Kim Dinh"
+  },
+  {
+    "LocationID": "VN7170313",
+    "LocationName": "Phường Long Hương"
+  },
+  {
+    "LocationID": "VN7170309",
+    "LocationName": "Phường Long Tâm"
+  },
+  {
+    "LocationID": "VN7170303",
+    "LocationName": "Phường Long Toàn"
+  },
+  {
+    "LocationID": "VN7170301",
+    "LocationName": "Phường Phước Hiệp"
+  },
+  {
+    "LocationID": "VN7170305",
+    "LocationName": "Phường Phước Hưng"
+  },
+  {
+    "LocationID": "VN7170307",
+    "LocationName": "Phường Phước Nguyên"
+  },
+  {
+    "LocationID": "VN7170311",
+    "LocationName": "Phường Phước Trung"
+  },
+  {
+    "LocationID": "VN7170321",
+    "LocationName": "Xã Hòa Long"
+  },
+  {
+    "LocationID": "VN7170319",
+    "LocationName": "Xã Long Phước"
+  },
+  {
+    "LocationID": "VN7170317",
+    "LocationName": "Xã Tân Hưng"
+  }
+]

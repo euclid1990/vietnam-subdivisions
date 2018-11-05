@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN7110901",
+    "LocationName": "Phường An Bình"
+  },
+  {
+    "LocationID": "VN7110909",
+    "LocationName": "Phường Bình An"
+  },
+  {
+    "LocationID": "VN7110911",
+    "LocationName": "Phường Bình Thắng"
+  },
+  {
+    "LocationID": "VN7110905",
+    "LocationName": "Phường Dĩ An"
+  },
+  {
+    "LocationID": "VN7110913",
+    "LocationName": "Phường Đông Hòa"
+  },
+  {
+    "LocationID": "VN7110907",
+    "LocationName": "Phường Tân Bình"
+  },
+  {
+    "LocationID": "VN7110903",
+    "LocationName": "Phường Tân Đông Hiệp"
+  }
+]

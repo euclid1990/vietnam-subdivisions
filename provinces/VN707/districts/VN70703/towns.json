@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN7070345",
+    "LocationName": "Phường Long Phước"
+  },
+  {
+    "LocationID": "VN7070343",
+    "LocationName": "Phường Long Thuỷ"
+  },
+  {
+    "LocationID": "VN7070305",
+    "LocationName": "Phường Phước Bình"
+  },
+  {
+    "LocationID": "VN7070321",
+    "LocationName": "Phường Sơn Giang"
+  },
+  {
+    "LocationID": "VN7070313",
+    "LocationName": "Phường Thác Mơ"
+  },
+  {
+    "LocationID": "VN7070347",
+    "LocationName": "Xã Long Giang"
+  },
+  {
+    "LocationID": "VN7070327",
+    "LocationName": "Xã Phước Tín"
+  }
+]

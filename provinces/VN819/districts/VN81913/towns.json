@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8191321",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN8191323",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN8191311",
+    "LocationName": "Phường Khánh Hòa"
+  },
+  {
+    "LocationID": "VN8191317",
+    "LocationName": "Phường Vĩnh Phước"
+  },
+  {
+    "LocationID": "VN8191303",
+    "LocationName": "Xã Hòa Đông"
+  },
+  {
+    "LocationID": "VN8191301",
+    "LocationName": "Xã Lạc Hòa"
+  },
+  {
+    "LocationID": "VN8191319",
+    "LocationName": "Xã Lai Hòa"
+  },
+  {
+    "LocationID": "VN8191305",
+    "LocationName": "Xã Vĩnh Hải"
+  },
+  {
+    "LocationID": "VN8191313",
+    "LocationName": "Xã Vĩnh Hiệp"
+  },
+  {
+    "LocationID": "VN8191307",
+    "LocationName": "Xã Vĩnh Tân"
+  }
+]

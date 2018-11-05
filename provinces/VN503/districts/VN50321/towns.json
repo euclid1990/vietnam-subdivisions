@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN5032103",
+    "LocationName": "Thị trấn Tiên Kỳ"
+  },
+  {
+    "LocationID": "VN5032127",
+    "LocationName": "Xã Tiên An"
+  },
+  {
+    "LocationID": "VN5032115",
+    "LocationName": "Xã Tiên Cẩm"
+  },
+  {
+    "LocationID": "VN5032121",
+    "LocationName": "Xã Tiên Cảnh"
+  },
+  {
+    "LocationID": "VN5032117",
+    "LocationName": "Xã Tiên Châu"
+  },
+  {
+    "LocationID": "VN5032113",
+    "LocationName": "Xã Tiên Hà"
+  },
+  {
+    "LocationID": "VN5032101",
+    "LocationName": "Xã Tiên Hiệp"
+  },
+  {
+    "LocationID": "VN5032105",
+    "LocationName": "Xã Tiên Lãnh"
+  },
+  {
+    "LocationID": "VN5032129",
+    "LocationName": "Xã Tiên Lập"
+  },
+  {
+    "LocationID": "VN5032109",
+    "LocationName": "Xã Tiên Lộc"
+  },
+  {
+    "LocationID": "VN5032107",
+    "LocationName": "Xã Tiên Mỹ"
+  },
+  {
+    "LocationID": "VN5032119",
+    "LocationName": "Xã Tiên Ngọc"
+  },
+  {
+    "LocationID": "VN5032123",
+    "LocationName": "Xã Tiên Phong"
+  },
+  {
+    "LocationID": "VN5032111",
+    "LocationName": "Xã Tiên Sơn"
+  },
+  {
+    "LocationID": "VN5032125",
+    "LocationName": "Xã Tiên Thọ"
+  }
+]

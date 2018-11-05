@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN7010305",
+    "LocationName": "Phường An Khánh"
+  },
+  {
+    "LocationID": "VN7010313",
+    "LocationName": "Phường An Lợi Đông"
+  },
+  {
+    "LocationID": "VN7010301",
+    "LocationName": "Phường An Phú"
+  },
+  {
+    "LocationID": "VN7010309",
+    "LocationName": "Phường Bình An"
+  },
+  {
+    "LocationID": "VN7010307",
+    "LocationName": "Phường Bình Khánh"
+  },
+  {
+    "LocationID": "VN7010317",
+    "LocationName": "Phường Bình Trưng Đông"
+  },
+  {
+    "LocationID": "VN7010315",
+    "LocationName": "Phường Bình Trưng Tây"
+  },
+  {
+    "LocationID": "VN7010319",
+    "LocationName": "Phường Cát Lái"
+  },
+  {
+    "LocationID": "VN7010321",
+    "LocationName": "Phường Thạnh Mỹ Lợi"
+  },
+  {
+    "LocationID": "VN7010303",
+    "LocationName": "Phường Thảo Điền"
+  },
+  {
+    "LocationID": "VN7010311",
+    "LocationName": "Phường Thủ Thiêm"
+  }
+]

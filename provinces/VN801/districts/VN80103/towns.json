@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN8010303",
+    "LocationName": "Thị trấn Tân Hưng"
+  },
+  {
+    "LocationID": "VN8010309",
+    "LocationName": "Xã Hưng Điền"
+  },
+  {
+    "LocationID": "VN8010307",
+    "LocationName": "Xã Hưng Điền B"
+  },
+  {
+    "LocationID": "VN8010305",
+    "LocationName": "Xã Hưng Hà"
+  },
+  {
+    "LocationID": "VN8010313",
+    "LocationName": "Xã Hưng Thạnh"
+  },
+  {
+    "LocationID": "VN8010311",
+    "LocationName": "Xã Thạnh Hưng"
+  },
+  {
+    "LocationID": "VN8010323",
+    "LocationName": "Xã Vĩnh Bửu"
+  },
+  {
+    "LocationID": "VN8010321",
+    "LocationName": "Xã Vĩnh Châu A"
+  },
+  {
+    "LocationID": "VN8010315",
+    "LocationName": "Xã Vĩnh Châu B"
+  },
+  {
+    "LocationID": "VN8010319",
+    "LocationName": "Xã Vĩnh Đại"
+  },
+  {
+    "LocationID": "VN8010317",
+    "LocationName": "Xã Vĩnh Lợi"
+  },
+  {
+    "LocationID": "VN8010301",
+    "LocationName": "Xã Vĩnh Thạnh"
+  }
+]

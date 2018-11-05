@@ -1,0 +1,126 @@
+[
+  {
+    "LocationID": "VN4033319",
+    "LocationName": "Thị trấn Quán Hành"
+  },
+  {
+    "LocationID": "VN4033363",
+    "LocationName": "Xã Nghi ân"
+  },
+  {
+    "LocationID": "VN4033311",
+    "LocationName": "Xã Nghi Công Bắc"
+  },
+  {
+    "LocationID": "VN4033303",
+    "LocationName": "Xã Nghi Công Nam"
+  },
+  {
+    "LocationID": "VN4033355",
+    "LocationName": "Xã Nghi Diên"
+  },
+  {
+    "LocationID": "VN4033329",
+    "LocationName": "Xã Nghi Đồng"
+  },
+  {
+    "LocationID": "VN4033345",
+    "LocationName": "Xã Nghi Hoa"
+  },
+  {
+    "LocationID": "VN4033309",
+    "LocationName": "Xã Nghi Hợp"
+  },
+  {
+    "LocationID": "VN4033327",
+    "LocationName": "Xã Nghi Hưng"
+  },
+  {
+    "LocationID": "VN4033347",
+    "LocationName": "Xã Nghi Khánh"
+  },
+  {
+    "LocationID": "VN4033335",
+    "LocationName": "Xã Nghi Kiều"
+  },
+  {
+    "LocationID": "VN4033333",
+    "LocationName": "Xã Nghi Lâm"
+  },
+  {
+    "LocationID": "VN4033341",
+    "LocationName": "Xã Nghi Long"
+  },
+  {
+    "LocationID": "VN4033337",
+    "LocationName": "Xã Nghi Mỹ"
+  },
+  {
+    "LocationID": "VN4033357",
+    "LocationName": "Xã Nghi Phong"
+  },
+  {
+    "LocationID": "VN4033307",
+    "LocationName": "Xã Nghi Phương"
+  },
+  {
+    "LocationID": "VN4033301",
+    "LocationName": "Xã Nghi Quang"
+  },
+  {
+    "LocationID": "VN4033351",
+    "LocationName": "Xã Nghi Thạch"
+  },
+  {
+    "LocationID": "VN4033305",
+    "LocationName": "Xã Nghi Thái"
+  },
+  {
+    "LocationID": "VN4033331",
+    "LocationName": "Xã Nghi Thiết"
+  },
+  {
+    "LocationID": "VN4033349",
+    "LocationName": "Xã Nghi Thịnh"
+  },
+  {
+    "LocationID": "VN4033339",
+    "LocationName": "Xã Nghi Thuận"
+  },
+  {
+    "LocationID": "VN4033325",
+    "LocationName": "Xã Nghi Tiến"
+  },
+  {
+    "LocationID": "VN4033353",
+    "LocationName": "Xã Nghi Trung"
+  },
+  {
+    "LocationID": "VN4033313",
+    "LocationName": "Xã Nghi Trường"
+  },
+  {
+    "LocationID": "VN4033321",
+    "LocationName": "Xã Nghi Văn"
+  },
+  {
+    "LocationID": "VN4033315",
+    "LocationName": "Xã Nghi Vạn"
+  },
+  {
+    "LocationID": "VN4033343",
+    "LocationName": "Xã Nghi Xá"
+  },
+  {
+    "LocationID": "VN4033359",
+    "LocationName": "Xã Nghi Xuân"
+  },
+  {
+    "LocationID": "VN4033323",
+    "LocationName": "Xã Nghi Yên"
+  },
+  {
+    "LocationID": "VN4033365",
+    "LocationName": "Xã Phúc Thọ"
+  }
+]

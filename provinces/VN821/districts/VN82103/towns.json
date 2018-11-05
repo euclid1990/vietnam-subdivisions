@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN8210307",
+    "LocationName": "Thị trấn Ngan Dừa"
+  },
+  {
+    "LocationID": "VN8210311",
+    "LocationName": "Xã Lộc Ninh"
+  },
+  {
+    "LocationID": "VN8210309",
+    "LocationName": "Xã Ninh Hòa"
+  },
+  {
+    "LocationID": "VN8210303",
+    "LocationName": "Xã Ninh Quới"
+  },
+  {
+    "LocationID": "VN8210301",
+    "LocationName": "Xã Ninh Quới A"
+  },
+  {
+    "LocationID": "VN8210315",
+    "LocationName": "Xã Ninh Thạnh Lợi"
+  },
+  {
+    "LocationID": "VN8210317",
+    "LocationName": "Xã Ninh Thạnh Lợi A"
+  },
+  {
+    "LocationID": "VN8210305",
+    "LocationName": "Xã Vĩnh Lộc"
+  },
+  {
+    "LocationID": "VN8210313",
+    "LocationName": "Xã Vĩnh Lộc A"
+  }
+]

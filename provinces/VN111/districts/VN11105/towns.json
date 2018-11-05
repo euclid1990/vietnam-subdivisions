@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1110503",
+    "LocationName": "Thị trấn Ba Sao"
+  },
+  {
+    "LocationID": "VN1110515",
+    "LocationName": "Thị trấn Quế"
+  },
+  {
+    "LocationID": "VN1110517",
+    "LocationName": "Xã Đại Cương"
+  },
+  {
+    "LocationID": "VN1110523",
+    "LocationName": "Xã Đồng Hóa"
+  },
+  {
+    "LocationID": "VN1110509",
+    "LocationName": "Xã Hoàng Tây"
+  },
+  {
+    "LocationID": "VN1110511",
+    "LocationName": "Xã Khả Phong"
+  },
+  {
+    "LocationID": "VN1110519",
+    "LocationName": "Xã Lê Hồ"
+  },
+  {
+    "LocationID": "VN1110513",
+    "LocationName": "Xã Liên Sơn"
+  },
+  {
+    "LocationID": "VN1110531",
+    "LocationName": "Xã Ngọc Sơn"
+  },
+  {
+    "LocationID": "VN1110505",
+    "LocationName": "Xã Nguyễn úy"
+  },
+  {
+    "LocationID": "VN1110521",
+    "LocationName": "Xã Nhật Tân"
+  },
+  {
+    "LocationID": "VN1110507",
+    "LocationName": "Xã Nhật Tựu"
+  },
+  {
+    "LocationID": "VN1110525",
+    "LocationName": "Xã Tân Sơn"
+  },
+  {
+    "LocationID": "VN1110537",
+    "LocationName": "Xã Thanh Sơn"
+  },
+  {
+    "LocationID": "VN1110535",
+    "LocationName": "Xã Thi Sơn"
+  },
+  {
+    "LocationID": "VN1110527",
+    "LocationName": "Xã Thụy Lôi"
+  },
+  {
+    "LocationID": "VN1110501",
+    "LocationName": "Xã Tượng Lĩnh"
+  },
+  {
+    "LocationID": "VN1110529",
+    "LocationName": "Xã Văn Xá"
+  }
+]

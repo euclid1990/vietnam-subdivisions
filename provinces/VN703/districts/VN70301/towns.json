@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN7030117",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN7030123",
+    "LocationName": "Phường 10"
+  },
+  {
+    "LocationID": "VN7030105",
+    "LocationName": "Phường 11"
+  },
+  {
+    "LocationID": "VN7030115",
+    "LocationName": "Phường 12"
+  },
+  {
+    "LocationID": "VN7030101",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN7030125",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN7030121",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN7030119",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN7030103",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN7030111",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN7030113",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN7030109",
+    "LocationName": "Phường 9"
+  },
+  {
+    "LocationID": "VN7030107",
+    "LocationName": "Xã Tà Nung"
+  },
+  {
+    "LocationID": "VN7030131",
+    "LocationName": "Xã Trạm Hành"
+  },
+  {
+    "LocationID": "VN7030127",
+    "LocationName": "Xã Xuân Thọ"
+  },
+  {
+    "LocationID": "VN7030129",
+    "LocationName": "Xã Xuân Trường"
+  }
+]

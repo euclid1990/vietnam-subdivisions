@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8230503",
+    "LocationName": "Thị trấn U Minh"
+  },
+  {
+    "LocationID": "VN8230501",
+    "LocationName": "Xã Khánh An"
+  },
+  {
+    "LocationID": "VN8230505",
+    "LocationName": "Xã Khánh Hòa"
+  },
+  {
+    "LocationID": "VN8230513",
+    "LocationName": "Xã Khánh Hội"
+  },
+  {
+    "LocationID": "VN8230511",
+    "LocationName": "Xã Khánh Lâm"
+  },
+  {
+    "LocationID": "VN8230515",
+    "LocationName": "Xã Khánh Thuận"
+  },
+  {
+    "LocationID": "VN8230507",
+    "LocationName": "Xã Khánh Tiến"
+  },
+  {
+    "LocationID": "VN8230509",
+    "LocationName": "Xã Nguyễn Phích"
+  }
+]

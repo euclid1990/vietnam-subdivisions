@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN7071107",
+    "LocationName": "Phường Tân Bình"
+  },
+  {
+    "LocationID": "VN7071105",
+    "LocationName": "Phường Tân Đồng"
+  },
+  {
+    "LocationID": "VN7071101",
+    "LocationName": "Phường Tân Phú"
+  },
+  {
+    "LocationID": "VN7071115",
+    "LocationName": "Phường Tân Thiện"
+  },
+  {
+    "LocationID": "VN7071109",
+    "LocationName": "Phường Tân Xuân"
+  },
+  {
+    "LocationID": "VN7071103",
+    "LocationName": "Xã Tân Thành"
+  },
+  {
+    "LocationID": "VN7071113",
+    "LocationName": "Xã Tiến Hưng"
+  },
+  {
+    "LocationID": "VN7071111",
+    "LocationName": "Xã Tiến Thành"
+  }
+]

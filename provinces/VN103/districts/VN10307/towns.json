@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN1030707",
+    "LocationName": "Phường Bắc Sơn"
+  },
+  {
+    "LocationID": "VN1030705",
+    "LocationName": "Phường Đồng Hòa"
+  },
+  {
+    "LocationID": "VN1030719",
+    "LocationName": "Phường Lãm Hà"
+  },
+  {
+    "LocationID": "VN1030709",
+    "LocationName": "Phường Nam Sơn"
+  },
+  {
+    "LocationID": "VN1030703",
+    "LocationName": "Phường Ngọc Sơn"
+  },
+  {
+    "LocationID": "VN1030715",
+    "LocationName": "Phường Phù Liễn"
+  },
+  {
+    "LocationID": "VN1030701",
+    "LocationName": "Phường Quán Trữ"
+  },
+  {
+    "LocationID": "VN1030711",
+    "LocationName": "Phường Trần Thành Ngọ"
+  },
+  {
+    "LocationID": "VN1030717",
+    "LocationName": "Phường Tràng Minh"
+  },
+  {
+    "LocationID": "VN1030713",
+    "LocationName": "Phường Văn Đẩu"
+  }
+]

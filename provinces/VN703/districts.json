@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN70313",
+    "LocationName": "Huyện Bảo Lâm"
+  },
+  {
+    "LocationID": "VN70321",
+    "LocationName": "Huyện Cát Tiên"
+  },
+  {
+    "LocationID": "VN70317",
+    "LocationName": "Huyện Đạ Huoai"
+  },
+  {
+    "LocationID": "VN70319",
+    "LocationName": "Huyện Đạ Tẻh"
+  },
+  {
+    "LocationID": "VN70323",
+    "LocationName": "Huyện Đam Rông"
+  },
+  {
+    "LocationID": "VN70315",
+    "LocationName": "Huyện Di Linh"
+  },
+  {
+    "LocationID": "VN70307",
+    "LocationName": "Huyện Đơn Dương"
+  },
+  {
+    "LocationID": "VN70309",
+    "LocationName": "Huyện Đức Trọng"
+  },
+  {
+    "LocationID": "VN70305",
+    "LocationName": "Huyện Lạc Dương"
+  },
+  {
+    "LocationID": "VN70311",
+    "LocationName": "Huyện Lâm Hà"
+  },
+  {
+    "LocationID": "VN70303",
+    "LocationName": "Thành phố Bảo Lộc"
+  },
+  {
+    "LocationID": "VN70301",
+    "LocationName": "Thành phố Đà Lạt"
+  }
+]

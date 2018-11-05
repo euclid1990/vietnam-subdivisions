@@ -1,0 +1,114 @@
+[
+  {
+    "LocationID": "VN2150145",
+    "LocationName": "Phường Cam Giá"
+  },
+  {
+    "LocationID": "VN2150113",
+    "LocationName": "Phường Đồng Quang"
+  },
+  {
+    "LocationID": "VN2150115",
+    "LocationName": "Phường Gia Sàng"
+  },
+  {
+    "LocationID": "VN2150103",
+    "LocationName": "Phường Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN2150119",
+    "LocationName": "Phường Hương Sơn"
+  },
+  {
+    "LocationID": "VN2150143",
+    "LocationName": "Phường Phan Đình Phùng"
+  },
+  {
+    "LocationID": "VN2150137",
+    "LocationName": "Phường Phú Xá"
+  },
+  {
+    "LocationID": "VN2150135",
+    "LocationName": "Phường Quan Triều"
+  },
+  {
+    "LocationID": "VN2150107",
+    "LocationName": "Phường Quang Trung"
+  },
+  {
+    "LocationID": "VN2150101",
+    "LocationName": "Phường Quang Vinh"
+  },
+  {
+    "LocationID": "VN2150117",
+    "LocationName": "Phường Tân Lập"
+  },
+  {
+    "LocationID": "VN2150123",
+    "LocationName": "Phường Tân Long"
+  },
+  {
+    "LocationID": "VN2150147",
+    "LocationName": "Phường Tân Thành"
+  },
+  {
+    "LocationID": "VN2150109",
+    "LocationName": "Phường Tân Thịnh"
+  },
+  {
+    "LocationID": "VN2150111",
+    "LocationName": "Phường Thịnh Đán"
+  },
+  {
+    "LocationID": "VN2150133",
+    "LocationName": "Phường Tích Lương"
+  },
+  {
+    "LocationID": "VN2150121",
+    "LocationName": "Phường Trung Thành"
+  },
+  {
+    "LocationID": "VN2150105",
+    "LocationName": "Phường Trưng Vương"
+  },
+  {
+    "LocationID": "VN2150141",
+    "LocationName": "Phường Túc Duyên"
+  },
+  {
+    "LocationID": "VN2150155",
+    "LocationName": "Xã Cao Ngạn"
+  },
+  {
+    "LocationID": "VN2150153",
+    "LocationName": "Xã Đồng Bẩm"
+  },
+  {
+    "LocationID": "VN2150151",
+    "LocationName": "Xã Lương Sơn"
+  },
+  {
+    "LocationID": "VN2150125",
+    "LocationName": "Xã Phúc Hà"
+  },
+  {
+    "LocationID": "VN2150129",
+    "LocationName": "Xã Phúc Trìu"
+  },
+  {
+    "LocationID": "VN2150127",
+    "LocationName": "Xã Phúc Xuân"
+  },
+  {
+    "LocationID": "VN2150149",
+    "LocationName": "Xã Quyết Thắng"
+  },
+  {
+    "LocationID": "VN2150139",
+    "LocationName": "Xã Tân Cương"
+  },
+  {
+    "LocationID": "VN2150131",
+    "LocationName": "Xã Thịnh Đức"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN2090701",
+    "LocationName": "Thị trấn Bình Gia"
+  },
+  {
+    "LocationID": "VN2090725",
+    "LocationName": "Xã Bình La"
+  },
+  {
+    "LocationID": "VN2090719",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN2090705",
+    "LocationName": "Xã Hoa Thám"
+  },
+  {
+    "LocationID": "VN2090717",
+    "LocationName": "Xã Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN2090737",
+    "LocationName": "Xã Hồng Phong"
+  },
+  {
+    "LocationID": "VN2090735",
+    "LocationName": "Xã Hồng Thái"
+  },
+  {
+    "LocationID": "VN2090739",
+    "LocationName": "Xã Hưng Đạo"
+  },
+  {
+    "LocationID": "VN2090729",
+    "LocationName": "Xã Minh Khai"
+  },
+  {
+    "LocationID": "VN2090733",
+    "LocationName": "Xã Mông ân"
+  },
+  {
+    "LocationID": "VN2090713",
+    "LocationName": "Xã Quang Trung"
+  },
+  {
+    "LocationID": "VN2090707",
+    "LocationName": "Xã Quý Hòa"
+  },
+  {
+    "LocationID": "VN2090721",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN2090727",
+    "LocationName": "Xã Tân Văn"
+  },
+  {
+    "LocationID": "VN2090711",
+    "LocationName": "Xã Thiện Hòa"
+  },
+  {
+    "LocationID": "VN2090715",
+    "LocationName": "Xã Thiện Long"
+  },
+  {
+    "LocationID": "VN2090731",
+    "LocationName": "Xã Thiện Thuật"
+  },
+  {
+    "LocationID": "VN2090723",
+    "LocationName": "Xã Tô Hiệu"
+  },
+  {
+    "LocationID": "VN2090703",
+    "LocationName": "Xã Vĩnh Yên"
+  },
+  {
+    "LocationID": "VN2090709",
+    "LocationName": "Xã Yên Lỗ"
+  }
+]

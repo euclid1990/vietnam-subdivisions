@@ -1,0 +1,22 @@
+[
+  {
+    "LocationID": "VN5010903",
+    "LocationName": "Phường Hòa Hiệp Bắc"
+  },
+  {
+    "LocationID": "VN5010907",
+    "LocationName": "Phường Hòa Hiệp Nam"
+  },
+  {
+    "LocationID": "VN5010901",
+    "LocationName": "Phường Hòa Khánh Bắc"
+  },
+  {
+    "LocationID": "VN5010909",
+    "LocationName": "Phường Hòa Khánh Nam"
+  },
+  {
+    "LocationID": "VN5010905",
+    "LocationName": "Phường Hòa Minh"
+  }
+]

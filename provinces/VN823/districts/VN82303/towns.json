@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN8230303",
+    "LocationName": "Thị trấn Thới Bình"
+  },
+  {
+    "LocationID": "VN8230305",
+    "LocationName": "Xã Biển Bạch"
+  },
+  {
+    "LocationID": "VN8230309",
+    "LocationName": "Xã Biển Bạch Đông"
+  },
+  {
+    "LocationID": "VN8230319",
+    "LocationName": "Xã Hồ Thị Kỷ"
+  },
+  {
+    "LocationID": "VN8230323",
+    "LocationName": "Xã Tân Bằng"
+  },
+  {
+    "LocationID": "VN8230301",
+    "LocationName": "Xã Tân Lộc"
+  },
+  {
+    "LocationID": "VN8230315",
+    "LocationName": "Xã Tân Lộc Bắc"
+  },
+  {
+    "LocationID": "VN8230317",
+    "LocationName": "Xã Tân Lộc Đông"
+  },
+  {
+    "LocationID": "VN8230313",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN8230311",
+    "LocationName": "Xã Thới Bình"
+  },
+  {
+    "LocationID": "VN8230321",
+    "LocationName": "Xã Trí Lực"
+  },
+  {
+    "LocationID": "VN8230307",
+    "LocationName": "Xã Trí Phải"
+  }
+]

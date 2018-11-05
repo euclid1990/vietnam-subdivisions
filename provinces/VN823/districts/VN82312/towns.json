@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8231205",
+    "LocationName": "Thị trấn Năm Căn"
+  },
+  {
+    "LocationID": "VN8231209",
+    "LocationName": "Xã Đất Mới"
+  },
+  {
+    "LocationID": "VN8231207",
+    "LocationName": "Xã Hàm Rồng"
+  },
+  {
+    "LocationID": "VN8231211",
+    "LocationName": "Xã Hàng Vịnh"
+  },
+  {
+    "LocationID": "VN8231201",
+    "LocationName": "Xã Hiệp Tùng"
+  },
+  {
+    "LocationID": "VN8231215",
+    "LocationName": "Xã Lâm Hải"
+  },
+  {
+    "LocationID": "VN8231213",
+    "LocationName": "Xã Tam Giang"
+  },
+  {
+    "LocationID": "VN8231203",
+    "LocationName": "Xã Tam Giang Đông"
+  }
+]

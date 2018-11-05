@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN8210907",
+    "LocationName": "Thị trấn Phước Long"
+  },
+  {
+    "LocationID": "VN8210913",
+    "LocationName": "Xã Hưng Phú"
+  },
+  {
+    "LocationID": "VN8210905",
+    "LocationName": "Xã Phong Thạnh Tây A"
+  },
+  {
+    "LocationID": "VN8210901",
+    "LocationName": "Xã Phong Thạnh Tây B"
+  },
+  {
+    "LocationID": "VN8210911",
+    "LocationName": "Xã Phước Long"
+  },
+  {
+    "LocationID": "VN8210903",
+    "LocationName": "Xã Vĩnh Phú Đông"
+  },
+  {
+    "LocationID": "VN8210909",
+    "LocationName": "Xã Vĩnh Phú Tây"
+  },
+  {
+    "LocationID": "VN8210915",
+    "LocationName": "Xã Vĩnh Thanh"
+  }
+]

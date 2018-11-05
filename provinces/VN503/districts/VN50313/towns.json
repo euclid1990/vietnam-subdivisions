@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN5031307",
+    "LocationName": "Thị trấn Thạnh Mỹ"
+  },
+  {
+    "LocationID": "VN5031311",
+    "LocationName": "Xã Cà Dy"
+  },
+  {
+    "LocationID": "VN5031305",
+    "LocationName": "Xã Chà vàl"
+  },
+  {
+    "LocationID": "VN5031319",
+    "LocationName": "Xã Chơ Chun"
+  },
+  {
+    "LocationID": "VN5031317",
+    "LocationName": "Xã Đắc Pre"
+  },
+  {
+    "LocationID": "VN5031315",
+    "LocationName": "Xã Đắc Pring"
+  },
+  {
+    "LocationID": "VN5031321",
+    "LocationName": "Xã Đắc Tôi"
+  },
+  {
+    "LocationID": "VN5031313",
+    "LocationName": "Xã La Dêê"
+  },
+  {
+    "LocationID": "VN5031301",
+    "LocationName": "Xã Laêê"
+  },
+  {
+    "LocationID": "VN5031309",
+    "LocationName": "Xã Tà Bhing"
+  },
+  {
+    "LocationID": "VN5031323",
+    "LocationName": "Xã Tà Pơơ"
+  },
+  {
+    "LocationID": "VN5031303",
+    "LocationName": "Xã Zuôih"
+  }
+]

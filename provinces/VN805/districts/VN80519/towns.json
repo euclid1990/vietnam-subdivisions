@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8051909",
+    "LocationName": "Thị trấn An Châu"
+  },
+  {
+    "LocationID": "VN8051903",
+    "LocationName": "Xã An Hòa"
+  },
+  {
+    "LocationID": "VN8051917",
+    "LocationName": "Xã Bình Hòa"
+  },
+  {
+    "LocationID": "VN8051905",
+    "LocationName": "Xã Bình Thạnh"
+  },
+  {
+    "LocationID": "VN8051911",
+    "LocationName": "Xã Cần Đăng"
+  },
+  {
+    "LocationID": "VN8051907",
+    "LocationName": "Xã Hòa Bình Thạnh"
+  },
+  {
+    "LocationID": "VN8051923",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN8051919",
+    "LocationName": "Xã Vĩnh An"
+  },
+  {
+    "LocationID": "VN8051915",
+    "LocationName": "Xã Vĩnh Bình"
+  },
+  {
+    "LocationID": "VN8051913",
+    "LocationName": "Xã Vĩnh Hanh"
+  },
+  {
+    "LocationID": "VN8051921",
+    "LocationName": "Xã Vĩnh Lợi"
+  },
+  {
+    "LocationID": "VN8051901",
+    "LocationName": "Xã Vĩnh Nhuận"
+  },
+  {
+    "LocationID": "VN8051925",
+    "LocationName": "Xã Vĩnh Thành"
+  }
+]

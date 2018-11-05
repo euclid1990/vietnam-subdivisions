@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN7012101",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN7012119",
+    "LocationName": "Phường 10"
+  },
+  {
+    "LocationID": "VN7012121",
+    "LocationName": "Phường 11"
+  },
+  {
+    "LocationID": "VN7012123",
+    "LocationName": "Phường 12"
+  },
+  {
+    "LocationID": "VN7012125",
+    "LocationName": "Phường 13"
+  },
+  {
+    "LocationID": "VN7012127",
+    "LocationName": "Phường 14"
+  },
+  {
+    "LocationID": "VN7012129",
+    "LocationName": "Phường 15"
+  },
+  {
+    "LocationID": "VN7012131",
+    "LocationName": "Phường 16"
+  },
+  {
+    "LocationID": "VN7012103",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN7012105",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN7012107",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN7012109",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN7012111",
+    "LocationName": "Phường 6"
+  },
+  {
+    "LocationID": "VN7012113",
+    "LocationName": "Phường 7"
+  },
+  {
+    "LocationID": "VN7012115",
+    "LocationName": "Phường 8"
+  },
+  {
+    "LocationID": "VN7012117",
+    "LocationName": "Phường 9"
+  }
+]

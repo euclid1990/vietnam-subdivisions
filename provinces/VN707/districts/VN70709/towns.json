@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN7070909",
+    "LocationName": "Phường An Lộc"
+  },
+  {
+    "LocationID": "VN7070931",
+    "LocationName": "Phường Hưng Chiến"
+  },
+  {
+    "LocationID": "VN7070935",
+    "LocationName": "Phường Phú Đức"
+  },
+  {
+    "LocationID": "VN7070933",
+    "LocationName": "Phường Phú Thịnh"
+  },
+  {
+    "LocationID": "VN7070903",
+    "LocationName": "Xã Thanh Lương"
+  },
+  {
+    "LocationID": "VN7070901",
+    "LocationName": "Xã Thanh Phú"
+  }
+]

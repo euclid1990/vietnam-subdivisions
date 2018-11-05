@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN3050111",
+    "LocationName": "Phường Chăm Mát"
+  },
+  {
+    "LocationID": "VN3050107",
+    "LocationName": "Phường Đồng Tiến"
+  },
+  {
+    "LocationID": "VN3050105",
+    "LocationName": "Phường Hữu Nghị"
+  },
+  {
+    "LocationID": "VN3050109",
+    "LocationName": "Phường Phương Lâm"
+  },
+  {
+    "LocationID": "VN3050101",
+    "LocationName": "Phường Tân Hòa"
+  },
+  {
+    "LocationID": "VN3050123",
+    "LocationName": "Phường Tân Thịnh"
+  },
+  {
+    "LocationID": "VN3050121",
+    "LocationName": "Phường Thái Bình"
+  },
+  {
+    "LocationID": "VN3050103",
+    "LocationName": "Phường Thịnh Lang"
+  },
+  {
+    "LocationID": "VN3050115",
+    "LocationName": "Xã Dân Chủ"
+  },
+  {
+    "LocationID": "VN3050127",
+    "LocationName": "Xã Hòa Bình"
+  },
+  {
+    "LocationID": "VN3050125",
+    "LocationName": "Xã Sủ Ngòi"
+  },
+  {
+    "LocationID": "VN3050119",
+    "LocationName": "Xã Thái Thịnh"
+  },
+  {
+    "LocationID": "VN3050117",
+    "LocationName": "Xã Th��ng Nhất"
+  },
+  {
+    "LocationID": "VN3050129",
+    "LocationName": "Xã Trung Minh"
+  },
+  {
+    "LocationID": "VN3050113",
+    "LocationName": "Xã Yên Mông"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN4090107",
+    "LocationName": "Phường 1"
+  },
+  {
+    "LocationID": "VN4090111",
+    "LocationName": "Phường 2"
+  },
+  {
+    "LocationID": "VN4090117",
+    "LocationName": "Phường 3"
+  },
+  {
+    "LocationID": "VN4090113",
+    "LocationName": "Phường 4"
+  },
+  {
+    "LocationID": "VN4090103",
+    "LocationName": "Phường 5"
+  },
+  {
+    "LocationID": "VN4090105",
+    "LocationName": "Phường Đông Giang"
+  },
+  {
+    "LocationID": "VN4090101",
+    "LocationName": "Phường Đông Lễ"
+  },
+  {
+    "LocationID": "VN4090115",
+    "LocationName": "Phường Đông Lương"
+  },
+  {
+    "LocationID": "VN4090109",
+    "LocationName": "Phường Đông Thanh"
+  }
+]

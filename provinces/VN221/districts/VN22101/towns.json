@@ -1,0 +1,66 @@
+[
+  {
+    "LocationID": "VN2210137",
+    "LocationName": "Phường Đa Mai"
+  },
+  {
+    "LocationID": "VN2210135",
+    "LocationName": "Phường Dĩnh Kế"
+  },
+  {
+    "LocationID": "VN2210115",
+    "LocationName": "Phường Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN2210101",
+    "LocationName": "Phường Lê Lợi"
+  },
+  {
+    "LocationID": "VN2210109",
+    "LocationName": "Phường Mỹ Độ"
+  },
+  {
+    "LocationID": "VN2210121",
+    "LocationName": "Phường Ngô Quyền"
+  },
+  {
+    "LocationID": "VN2210111",
+    "LocationName": "Phường Thọ Xương"
+  },
+  {
+    "LocationID": "VN2210113",
+    "LocationName": "Phường Trần Nguyên Hãn"
+  },
+  {
+    "LocationID": "VN2210117",
+    "LocationName": "Phường Trần Phú"
+  },
+  {
+    "LocationID": "VN2210133",
+    "LocationName": "Phường Xương Giang"
+  },
+  {
+    "LocationID": "VN2210123",
+    "LocationName": "Xã Dĩnh Trì"
+  },
+  {
+    "LocationID": "VN2210129",
+    "LocationName": "Xã Đồng Sơn"
+  },
+  {
+    "LocationID": "VN2210131",
+    "LocationName": "Xã Song Khê"
+  },
+  {
+    "LocationID": "VN2210119",
+    "LocationName": "Xã Song Mai"
+  },
+  {
+    "LocationID": "VN2210125",
+    "LocationName": "Xã Tân Mỹ"
+  },
+  {
+    "LocationID": "VN2210127",
+    "LocationName": "Xã Tân Tiến"
+  }
+]

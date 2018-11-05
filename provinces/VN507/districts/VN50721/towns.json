@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN5072101",
+    "LocationName": "Thị trấn Vân Canh"
+  },
+  {
+    "LocationID": "VN5072111",
+    "LocationName": "Xã Canh Hiển"
+  },
+  {
+    "LocationID": "VN5072107",
+    "LocationName": "Xã Canh Hiệp"
+  },
+  {
+    "LocationID": "VN5072113",
+    "LocationName": "Xã Canh Hòa"
+  },
+  {
+    "LocationID": "VN5072105",
+    "LocationName": "Xã Canh Liên"
+  },
+  {
+    "LocationID": "VN5072103",
+    "LocationName": "Xã Canh Thuận"
+  },
+  {
+    "LocationID": "VN5072109",
+    "LocationName": "Xã Canh Vinh"
+  }
+]

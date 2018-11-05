@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN1030905",
+    "LocationName": "Phường Bàng La"
+  },
+  {
+    "LocationID": "VN1030911",
+    "LocationName": "Phường Hợp Đức"
+  },
+  {
+    "LocationID": "VN1030913",
+    "LocationName": "Phường Minh Đức"
+  },
+  {
+    "LocationID": "VN1030901",
+    "LocationName": "Phường Ngọc Hải"
+  },
+  {
+    "LocationID": "VN1030903",
+    "LocationName": "Phường Ngọc Xuyên"
+  },
+  {
+    "LocationID": "VN1030907",
+    "LocationName": "Phường Vạn Hương"
+  },
+  {
+    "LocationID": "VN1030909",
+    "LocationName": "Phường Vạn Sơn"
+  }
+]

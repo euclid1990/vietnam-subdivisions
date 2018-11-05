@@ -1,0 +1,58 @@
+[
+  {
+    "LocationID": "VN2231123",
+    "LocationName": "Thị trấn Thứa"
+  },
+  {
+    "LocationID": "VN2231121",
+    "LocationName": "Xã An Thịnh"
+  },
+  {
+    "LocationID": "VN2231127",
+    "LocationName": "Xã Bình Định"
+  },
+  {
+    "LocationID": "VN2231113",
+    "LocationName": "Xã Lai Hạ"
+  },
+  {
+    "LocationID": "VN2231125",
+    "LocationName": "Xã Lâm Thao"
+  },
+  {
+    "LocationID": "VN2231117",
+    "LocationName": "Xã Minh Tân"
+  },
+  {
+    "LocationID": "VN2231105",
+    "LocationName": "Xã Mỹ Hương"
+  },
+  {
+    "LocationID": "VN2231103",
+    "LocationName": "Xã Phú Hòa"
+  },
+  {
+    "LocationID": "VN2231119",
+    "LocationName": "Xã Phú Lương"
+  },
+  {
+    "LocationID": "VN2231109",
+    "LocationName": "Xã Quảng Phú"
+  },
+  {
+    "LocationID": "VN2231107",
+    "LocationName": "Xã Tân Lãng"
+  },
+  {
+    "LocationID": "VN2231115",
+    "LocationName": "Xã Trung Chính"
+  },
+  {
+    "LocationID": "VN2231101",
+    "LocationName": "Xã Trung Kênh"
+  },
+  {
+    "LocationID": "VN2231111",
+    "LocationName": "Xã Trừng Xá"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "LocationID": "VN2090501",
+    "LocationName": "Thị trấn Na Sầm"
+  },
+  {
+    "LocationID": "VN2090509",
+    "LocationName": "Xã An Hùng"
+  },
+  {
+    "LocationID": "VN2090503",
+    "LocationName": "Xã Bắc La"
+  },
+  {
+    "LocationID": "VN2090517",
+    "LocationName": "Xã Gia Miễn"
+  },
+  {
+    "LocationID": "VN2090523",
+    "LocationName": "Xã Hoàng Văn Thụ"
+  },
+  {
+    "LocationID": "VN2090515",
+    "LocationName": "Xã Hoàng Việt"
+  },
+  {
+    "LocationID": "VN2090535",
+    "LocationName": "Xã Hội Hoan"
+  },
+  {
+    "LocationID": "VN2090539",
+    "LocationName": "Xã Hồng Thái"
+  },
+  {
+    "LocationID": "VN2090519",
+    "LocationName": "Xã Nam La"
+  },
+  {
+    "LocationID": "VN2090525",
+    "LocationName": "Xã Nhạc Kỳ"
+  },
+  {
+    "LocationID": "VN2090513",
+    "LocationName": "Xã Tân Lang"
+  },
+  {
+    "LocationID": "VN2090521",
+    "LocationName": "Xã Tân Mỹ"
+  },
+  {
+    "LocationID": "VN2090533",
+    "LocationName": "Xã Tân Tác"
+  },
+  {
+    "LocationID": "VN2090529",
+    "LocationName": "Xã Tân Thanh"
+  },
+  {
+    "LocationID": "VN2090527",
+    "LocationName": "Xã Tân Việt"
+  },
+  {
+    "LocationID": "VN2090537",
+    "LocationName": "Xã Thành Hòa"
+  },
+  {
+    "LocationID": "VN2090511",
+    "LocationName": "Xã Thanh Long"
+  },
+  {
+    "LocationID": "VN2090505",
+    "LocationName": "Xã Thụy Hùng"
+  },
+  {
+    "LocationID": "VN2090531",
+    "LocationName": "Xã Trùng Khánh"
+  },
+  {
+    "LocationID": "VN2090507",
+    "LocationName": "Xã Trùng Quán"
+  }
+]

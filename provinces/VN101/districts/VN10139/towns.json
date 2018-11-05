@@ -1,0 +1,86 @@
+[
+  {
+    "LocationID": "VN1013915",
+    "LocationName": "Thị trấn Quốc Oai"
+  },
+  {
+    "LocationID": "VN1013935",
+    "LocationName": "Xã Cấn Hữu"
+  },
+  {
+    "LocationID": "VN1013931",
+    "LocationName": "Xã Cộng Hòa"
+  },
+  {
+    "LocationID": "VN1013903",
+    "LocationName": "Xã Đại Thành"
+  },
+  {
+    "LocationID": "VN1013925",
+    "LocationName": "Xã Đồng Quang"
+  },
+  {
+    "LocationID": "VN1013941",
+    "LocationName": "Xã Đông Xuân"
+  },
+  {
+    "LocationID": "VN1013913",
+    "LocationName": "Xã Đông Yên"
+  },
+  {
+    "LocationID": "VN1013939",
+    "LocationName": "Xã Hòa Thạch"
+  },
+  {
+    "LocationID": "VN1013923",
+    "LocationName": "Xã Liệp Tuyết"
+  },
+  {
+    "LocationID": "VN1013909",
+    "LocationName": "Xã Nghĩa Hương"
+  },
+  {
+    "LocationID": "VN1013901",
+    "LocationName": "Xã Ngọc Liệp"
+  },
+  {
+    "LocationID": "VN1013921",
+    "LocationName": "Xã Ngọc Mỹ"
+  },
+  {
+    "LocationID": "VN1013927",
+    "LocationName": "Xã Phú Cát"
+  },
+  {
+    "LocationID": "VN1013911",
+    "LocationName": "Xã Phú Mãn"
+  },
+  {
+    "LocationID": "VN1013905",
+    "LocationName": "Xã Phượng Cách"
+  },
+  {
+    "LocationID": "VN1013917",
+    "LocationName": "Xã Sài Sơn"
+  },
+  {
+    "LocationID": "VN1013937",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN1013933",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN1013907",
+    "LocationName": "Xã Thạch Thán"
+  },
+  {
+    "LocationID": "VN1013929",
+    "LocationName": "Xã Tuyết Nghĩa"
+  },
+  {
+    "LocationID": "VN1013919",
+    "LocationName": "Xã Yên Sơn"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN6011101",
+    "LocationName": "Thị trấn Đắk Hà"
+  },
+  {
+    "LocationID": "VN6011109",
+    "LocationName": "Xã Đắk HRing"
+  },
+  {
+    "LocationID": "VN6011105",
+    "LocationName": "Xã Đắk La"
+  },
+  {
+    "LocationID": "VN6011119",
+    "LocationName": "Xã Đăk Long"
+  },
+  {
+    "LocationID": "VN6011103",
+    "LocationName": "Xã Đắk Mar"
+  },
+  {
+    "LocationID": "VN6011121",
+    "LocationName": "Xã Đăk Ngọk"
+  },
+  {
+    "LocationID": "VN6011107",
+    "LocationName": "Xã Đắk PXi"
+  },
+  {
+    "LocationID": "VN6011111",
+    "LocationName": "Xã Đắk Ui"
+  },
+  {
+    "LocationID": "VN6011117",
+    "LocationName": "Xã Hà Mòn"
+  },
+  {
+    "LocationID": "VN6011115",
+    "LocationName": "Xã Ngok Réo"
+  },
+  {
+    "LocationID": "VN6011113",
+    "LocationName": "Xã Ngok Wang"
+  }
+]

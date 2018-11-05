@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN8050113",
+    "LocationName": "Phường Bình Đức"
+  },
+  {
+    "LocationID": "VN8050105",
+    "LocationName": "Phường Bình Khánh"
+  },
+  {
+    "LocationID": "VN8050125",
+    "LocationName": "Phường Đông Xuyên"
+  },
+  {
+    "LocationID": "VN8050103",
+    "LocationName": "Phường Mỹ Bình"
+  },
+  {
+    "LocationID": "VN8050107",
+    "LocationName": "Phường Mỹ Hòa"
+  },
+  {
+    "LocationID": "VN8050109",
+    "LocationName": "Phường Mỹ Long"
+  },
+  {
+    "LocationID": "VN8050115",
+    "LocationName": "Phường Mỹ Phước"
+  },
+  {
+    "LocationID": "VN8050117",
+    "LocationName": "Phường Mỹ Quý"
+  },
+  {
+    "LocationID": "VN8050101",
+    "LocationName": "Phường Mỹ Thạnh"
+  },
+  {
+    "LocationID": "VN8050119",
+    "LocationName": "Phường Mỹ Thới"
+  },
+  {
+    "LocationID": "VN8050111",
+    "LocationName": "Phường Mỹ Xuyên"
+  },
+  {
+    "LocationID": "VN8050123",
+    "LocationName": "Xã Mỹ Hòa Hưng"
+  },
+  {
+    "LocationID": "VN8050121",
+    "LocationName": "Xã Mỹ Khánh"
+  }
+]

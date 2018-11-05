@@ -1,0 +1,70 @@
+[
+  {
+    "LocationID": "VN5070513",
+    "LocationName": "Thị trấn Bồng Sơn"
+  },
+  {
+    "LocationID": "VN5070511",
+    "LocationName": "Thị trấn Tam Quan"
+  },
+  {
+    "LocationID": "VN5070517",
+    "LocationName": "Xã Hòai Châu"
+  },
+  {
+    "LocationID": "VN5070515",
+    "LocationName": "Xã Hòai Châu Bắc"
+  },
+  {
+    "LocationID": "VN5070533",
+    "LocationName": "Xã Hòai Đức"
+  },
+  {
+    "LocationID": "VN5070529",
+    "LocationName": "Xã Hòai Hải"
+  },
+  {
+    "LocationID": "VN5070521",
+    "LocationName": "Xã Hòai Hảo"
+  },
+  {
+    "LocationID": "VN5070525",
+    "LocationName": "Xã Hòai Hương"
+  },
+  {
+    "LocationID": "VN5070509",
+    "LocationName": "Xã Hòai Mỹ"
+  },
+  {
+    "LocationID": "VN5070519",
+    "LocationName": "Xã Hòai Phú"
+  },
+  {
+    "LocationID": "VN5070503",
+    "LocationName": "Xã Hòai Sơn"
+  },
+  {
+    "LocationID": "VN5070527",
+    "LocationName": "Xã Hòai Tân"
+  },
+  {
+    "LocationID": "VN5070507",
+    "LocationName": "Xã Hòai Thanh"
+  },
+  {
+    "LocationID": "VN5070523",
+    "LocationName": "Xã Hòai Thanh Tây"
+  },
+  {
+    "LocationID": "VN5070531",
+    "LocationName": "Xã Hòai Xuân"
+  },
+  {
+    "LocationID": "VN5070505",
+    "LocationName": "Xã Tam Quan Bắc"
+  },
+  {
+    "LocationID": "VN5070501",
+    "LocationName": "Xã Tam Quan Nam"
+  }
+]

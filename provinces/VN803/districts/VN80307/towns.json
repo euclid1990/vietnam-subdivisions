@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN8030723",
+    "LocationName": "Xã Long Khánh A"
+  },
+  {
+    "LocationID": "VN8030725",
+    "LocationName": "Xã Long Khánh B"
+  },
+  {
+    "LocationID": "VN8030727",
+    "LocationName": "Xã Long Thuận"
+  },
+  {
+    "LocationID": "VN8030731",
+    "LocationName": "Xã Phú Thuận A"
+  },
+  {
+    "LocationID": "VN8030729",
+    "LocationName": "Xã Phú Thuận B"
+  },
+  {
+    "LocationID": "VN8030705",
+    "LocationName": "Xã Thường Lạc"
+  },
+  {
+    "LocationID": "VN8030711",
+    "LocationName": "Xã Thường Phước 1"
+  },
+  {
+    "LocationID": "VN8030721",
+    "LocationName": "Xã Thường Phước 2"
+  },
+  {
+    "LocationID": "VN8030703",
+    "LocationName": "Xã Thường Thới Hậu A"
+  },
+  {
+    "LocationID": "VN8030717",
+    "LocationName": "Xã Thường Thới Hậu B"
+  },
+  {
+    "LocationID": "VN8030719",
+    "LocationName": "Xã Thường Thới Tiền"
+  }
+]

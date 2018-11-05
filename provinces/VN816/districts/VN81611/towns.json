@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN8161107",
+    "LocationName": "Thị trấn Long Mỹ"
+  },
+  {
+    "LocationID": "VN8161109",
+    "LocationName": "Thị trấn Trà Lồng"
+  },
+  {
+    "LocationID": "VN8161103",
+    "LocationName": "Xã Long Bình"
+  },
+  {
+    "LocationID": "VN8161113",
+    "LocationName": "Xã Long Phú"
+  },
+  {
+    "LocationID": "VN8161111",
+    "LocationName": "Xã Long Trị"
+  },
+  {
+    "LocationID": "VN8161129",
+    "LocationName": "Xã Long Trị A"
+  },
+  {
+    "LocationID": "VN8161125",
+    "LocationName": "Xã Lương Nghĩa"
+  },
+  {
+    "LocationID": "VN8161121",
+    "LocationName": "Xã Lương Tâm"
+  },
+  {
+    "LocationID": "VN8161115",
+    "LocationName": "Xã Tân Phú"
+  },
+  {
+    "LocationID": "VN8161101",
+    "LocationName": "Xã Thuận Hòa"
+  },
+  {
+    "LocationID": "VN8161117",
+    "LocationName": "Xã Thuận Hưng"
+  },
+  {
+    "LocationID": "VN8161105",
+    "LocationName": "Xã Vĩnh Thuận Đông"
+  },
+  {
+    "LocationID": "VN8161119",
+    "LocationName": "Xã Vĩnh Viễn"
+  },
+  {
+    "LocationID": "VN8161127",
+    "LocationName": "Xã Vĩnh Viễn A"
+  },
+  {
+    "LocationID": "VN8161123",
+    "LocationName": "Xã Xà Phiên"
+  }
+]

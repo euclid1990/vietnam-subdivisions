@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN5010315",
+    "LocationName": "Phường An Khê"
+  },
+  {
+    "LocationID": "VN5010311",
+    "LocationName": "Phường Chính Gián"
+  },
+  {
+    "LocationID": "VN5010321",
+    "LocationName": "Phường Hòa Khê"
+  },
+  {
+    "LocationID": "VN5010305",
+    "LocationName": "Phường Tam Thuận"
+  },
+  {
+    "LocationID": "VN5010309",
+    "LocationName": "Phường Tân Chính"
+  },
+  {
+    "LocationID": "VN5010303",
+    "LocationName": "Phường Thạc Gián"
+  },
+  {
+    "LocationID": "VN5010317",
+    "LocationName": "Phường Thanh Khê Đông"
+  },
+  {
+    "LocationID": "VN5010319",
+    "LocationName": "Phường Thanh Khê Tây"
+  },
+  {
+    "LocationID": "VN5010313",
+    "LocationName": "Phường Vĩnh Trung"
+  },
+  {
+    "LocationID": "VN5010301",
+    "LocationName": "Phường Xuân Hà"
+  }
+]

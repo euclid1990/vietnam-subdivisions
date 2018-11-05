@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN8130105",
+    "LocationName": "Phường An Bình"
+  },
+  {
+    "LocationID": "VN8130117",
+    "LocationName": "Phường An Hòa"
+  },
+  {
+    "LocationID": "VN8130119",
+    "LocationName": "Phường Rạch Sỏi"
+  },
+  {
+    "LocationID": "VN8130115",
+    "LocationName": "Phường Vĩnh Bảo"
+  },
+  {
+    "LocationID": "VN8130113",
+    "LocationName": "Phường Vĩnh Hiệp"
+  },
+  {
+    "LocationID": "VN8130101",
+    "LocationName": "Phường Vĩnh Lạc"
+  },
+  {
+    "LocationID": "VN8130121",
+    "LocationName": "Phường Vĩnh Lợi"
+  },
+  {
+    "LocationID": "VN8130103",
+    "LocationName": "Phường Vĩnh Quang"
+  },
+  {
+    "LocationID": "VN8130111",
+    "LocationName": "Phường Vĩnh Thanh"
+  },
+  {
+    "LocationID": "VN8130109",
+    "LocationName": "Phường Vĩnh Thanh Vân"
+  },
+  {
+    "LocationID": "VN8130123",
+    "LocationName": "Phường Vĩnh Thông"
+  },
+  {
+    "LocationID": "VN8130107",
+    "LocationName": "Xã Phi Thông"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN7090929",
+    "LocationName": "Thị trấn Châu Thành"
+  },
+  {
+    "LocationID": "VN7090921",
+    "LocationName": "Xã An Bình"
+  },
+  {
+    "LocationID": "VN7090911",
+    "LocationName": "Xã An Cơ"
+  },
+  {
+    "LocationID": "VN7090913",
+    "LocationName": "Xã Biên Giới"
+  },
+  {
+    "LocationID": "VN7090901",
+    "LocationName": "Xã Đồng Khởi"
+  },
+  {
+    "LocationID": "VN7090927",
+    "LocationName": "Xã Hảo Đước"
+  },
+  {
+    "LocationID": "VN7090919",
+    "LocationName": "Xã Hòa Hội"
+  },
+  {
+    "LocationID": "VN7090915",
+    "LocationName": "Xã Hòa Thạnh"
+  },
+  {
+    "LocationID": "VN7090925",
+    "LocationName": "Xã Long Vĩnh"
+  },
+  {
+    "LocationID": "VN7090905",
+    "LocationName": "Xã Ninh Điền"
+  },
+  {
+    "LocationID": "VN7090907",
+    "LocationName": "Xã Phước Vinh"
+  },
+  {
+    "LocationID": "VN7090909",
+    "LocationName": "Xã Thái Bình"
+  },
+  {
+    "LocationID": "VN7090923",
+    "LocationName": "Xã Thanh Điền"
+  },
+  {
+    "LocationID": "VN7090903",
+    "LocationName": "Xã Thành Long"
+  },
+  {
+    "LocationID": "VN7090917",
+    "LocationName": "Xã Trí Bình"
+  }
+]

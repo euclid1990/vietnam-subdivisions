@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN2170305",
+    "LocationName": "Phường âu Cơ"
+  },
+  {
+    "LocationID": "VN2170315",
+    "LocationName": "Phường Hùng Vương"
+  },
+  {
+    "LocationID": "VN2170303",
+    "LocationName": "Phường Phong Châu"
+  },
+  {
+    "LocationID": "VN2170319",
+    "LocationName": "Phường Thanh Vinh"
+  },
+  {
+    "LocationID": "VN2170301",
+    "LocationName": "Phường Trường Thịnh"
+  },
+  {
+    "LocationID": "VN2170307",
+    "LocationName": "Xã Hà Lộc"
+  },
+  {
+    "LocationID": "VN2170313",
+    "LocationName": "Xã Hà Thạch"
+  },
+  {
+    "LocationID": "VN2170317",
+    "LocationName": "Xã Phú Hộ"
+  },
+  {
+    "LocationID": "VN2170311",
+    "LocationName": "Xã Thanh Minh"
+  },
+  {
+    "LocationID": "VN2170309",
+    "LocationName": "Xã Văn Lung"
+  }
+]

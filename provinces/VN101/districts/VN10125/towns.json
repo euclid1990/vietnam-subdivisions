@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1012535",
+    "LocationName": "Thị trấn Chi Đông"
+  },
+  {
+    "LocationID": "VN1012525",
+    "LocationName": "Thị trấn Quang Minh"
+  },
+  {
+    "LocationID": "VN1012515",
+    "LocationName": "Xã Chu Phan"
+  },
+  {
+    "LocationID": "VN1012501",
+    "LocationName": "Xã Đại Thịnh"
+  },
+  {
+    "LocationID": "VN1012521",
+    "LocationName": "Xã Hoàng Kim"
+  },
+  {
+    "LocationID": "VN1012503",
+    "LocationName": "Xã Kim Hoa"
+  },
+  {
+    "LocationID": "VN1012511",
+    "LocationName": "Xã Liên Mạc"
+  },
+  {
+    "LocationID": "VN1012517",
+    "LocationName": "Xã Mê Linh"
+  },
+  {
+    "LocationID": "VN1012529",
+    "LocationName": "Xã Tam Đồng"
+  },
+  {
+    "LocationID": "VN1012505",
+    "LocationName": "Xã Thạch Đà"
+  },
+  {
+    "LocationID": "VN1012509",
+    "LocationName": "Xã Thanh Lâm"
+  },
+  {
+    "LocationID": "VN1012533",
+    "LocationName": "Xã Tiền Phong"
+  },
+  {
+    "LocationID": "VN1012527",
+    "LocationName": "Xã Tiến Thắng"
+  },
+  {
+    "LocationID": "VN1012531",
+    "LocationName": "Xã Tiến Thịnh"
+  },
+  {
+    "LocationID": "VN1012523",
+    "LocationName": "Xã Tráng Việt"
+  },
+  {
+    "LocationID": "VN1012507",
+    "LocationName": "Xã Tự Lập"
+  },
+  {
+    "LocationID": "VN1012519",
+    "LocationName": "Xã Văn Khê"
+  },
+  {
+    "LocationID": "VN1012513",
+    "LocationName": "Xã Vạn Yên"
+  }
+]

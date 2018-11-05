@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN2190103",
+    "LocationName": "Phường Đống Đa"
+  },
+  {
+    "LocationID": "VN2190117",
+    "LocationName": "Phường Đồng Tâm"
+  },
+  {
+    "LocationID": "VN2190101",
+    "LocationName": "Phường Hội Hợp"
+  },
+  {
+    "LocationID": "VN2190109",
+    "LocationName": "Phường Khai Quang"
+  },
+  {
+    "LocationID": "VN2190115",
+    "LocationName": "Phường Liên Bảo"
+  },
+  {
+    "LocationID": "VN2190105",
+    "LocationName": "Phường Ngô Quyền"
+  },
+  {
+    "LocationID": "VN2190113",
+    "LocationName": "Phường Tích Sơn"
+  },
+  {
+    "LocationID": "VN2190107",
+    "LocationName": "Xã Định Trung"
+  },
+  {
+    "LocationID": "VN2190111",
+    "LocationName": "Xã Thanh Trù"
+  }
+]

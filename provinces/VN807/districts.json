@@ -1,0 +1,46 @@
+[
+  {
+    "LocationID": "VN80713",
+    "LocationName": "Huyện Cái Bè"
+  },
+  {
+    "LocationID": "VN80709",
+    "LocationName": "Huyện Cai Lậy"
+  },
+  {
+    "LocationID": "VN80707",
+    "LocationName": "Huyện Châu Thành"
+  },
+  {
+    "LocationID": "VN80711",
+    "LocationName": "Huyện Chợ Gạo"
+  },
+  {
+    "LocationID": "VN80717",
+    "LocationName": "Huyện Gò Công Đông"
+  },
+  {
+    "LocationID": "VN80715",
+    "LocationName": "Huyện Gò Công Tây"
+  },
+  {
+    "LocationID": "VN80719",
+    "LocationName": "Huyện Tân Phú Đông"
+  },
+  {
+    "LocationID": "VN80705",
+    "LocationName": "Huyện Tân Phước"
+  },
+  {
+    "LocationID": "VN80701",
+    "LocationName": "Thành phố Mỹ Tho"
+  },
+  {
+    "LocationID": "VN80721",
+    "LocationName": "Thị Xã Cai Lậy"
+  },
+  {
+    "LocationID": "VN80703",
+    "LocationName": "Thị xã Gò Công"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN8011709",
+    "LocationName": "Thị trấn Bến Lức"
+  },
+  {
+    "LocationID": "VN8011705",
+    "LocationName": "Xã An Thạnh"
+  },
+  {
+    "LocationID": "VN8011721",
+    "LocationName": "Xã Bình Đức"
+  },
+  {
+    "LocationID": "VN8011707",
+    "LocationName": "Xã Long Hiệp"
+  },
+  {
+    "LocationID": "VN8011713",
+    "LocationName": "Xã Lương Bình"
+  },
+  {
+    "LocationID": "VN8011715",
+    "LocationName": "Xã Lương Hòa"
+  },
+  {
+    "LocationID": "VN8011723",
+    "LocationName": "Xã Mỹ Yên"
+  },
+  {
+    "LocationID": "VN8011729",
+    "LocationName": "Xã Nhựt Chánh"
+  },
+  {
+    "LocationID": "VN8011727",
+    "LocationName": "Xã Phước Lợi"
+  },
+  {
+    "LocationID": "VN8011719",
+    "LocationName": "Xã Tân Bửu"
+  },
+  {
+    "LocationID": "VN8011717",
+    "LocationName": "Xã Tân Hòa"
+  },
+  {
+    "LocationID": "VN8011725",
+    "LocationName": "Xã Thạnh Đức"
+  },
+  {
+    "LocationID": "VN8011703",
+    "LocationName": "Xã Thạnh Hòa"
+  },
+  {
+    "LocationID": "VN8011711",
+    "LocationName": "Xã Thạnh Lợi"
+  },
+  {
+    "LocationID": "VN8011701",
+    "LocationName": "Xã Thanh Phú"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "LocationID": "VN1071909",
+    "LocationName": "Thị trấn Kẻ Sặt"
+  },
+  {
+    "LocationID": "VN1071935",
+    "LocationName": "Xã Bình Minh"
+  },
+  {
+    "LocationID": "VN1071933",
+    "LocationName": "Xã Bình Xuyên"
+  },
+  {
+    "LocationID": "VN1071927",
+    "LocationName": "Xã Cổ Bi"
+  },
+  {
+    "LocationID": "VN1071923",
+    "LocationName": "Xã Hồng Khê"
+  },
+  {
+    "LocationID": "VN1071913",
+    "LocationName": "Xã Hùng Thắng"
+  },
+  {
+    "LocationID": "VN1071901",
+    "LocationName": "Xã Hưng Thịnh"
+  },
+  {
+    "LocationID": "VN1071917",
+    "LocationName": "Xã Long Xuyên"
+  },
+  {
+    "LocationID": "VN1071907",
+    "LocationName": "Xã Nhân Quyền"
+  },
+  {
+    "LocationID": "VN1071905",
+    "LocationName": "Xã Tân Hồng"
+  },
+  {
+    "LocationID": "VN1071919",
+    "LocationName": "Xã Tân Việt"
+  },
+  {
+    "LocationID": "VN1071929",
+    "LocationName": "Xã Thái Dương"
+  },
+  {
+    "LocationID": "VN1071931",
+    "LocationName": "Xã Thái Hòa"
+  },
+  {
+    "LocationID": "VN1071925",
+    "LocationName": "Xã Thái Học"
+  },
+  {
+    "LocationID": "VN1071921",
+    "LocationName": "Xã Thúc Kháng"
+  },
+  {
+    "LocationID": "VN1071915",
+    "LocationName": "Xã Tráng Liệt"
+  },
+  {
+    "LocationID": "VN1071903",
+    "LocationName": "Xã Vĩnh Hồng"
+  },
+  {
+    "LocationID": "VN1071911",
+    "LocationName": "Xã Vĩnh Tuy"
+  }
+]

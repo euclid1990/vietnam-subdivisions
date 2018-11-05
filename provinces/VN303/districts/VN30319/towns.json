@@ -1,0 +1,62 @@
+[
+  {
+    "LocationID": "VN3031901",
+    "LocationName": "Thị trấn Mộc Châu"
+  },
+  {
+    "LocationID": "VN3031941",
+    "LocationName": "Thị trấn NT Mộc Châu"
+  },
+  {
+    "LocationID": "VN3031915",
+    "LocationName": "Xã Chiềng Hắc"
+  },
+  {
+    "LocationID": "VN3031921",
+    "LocationName": "Xã Chiềng Khứa"
+  },
+  {
+    "LocationID": "VN3031903",
+    "LocationName": "Xã Chiềng Sơn"
+  },
+  {
+    "LocationID": "VN3031949",
+    "LocationName": "Xã Đông Sang"
+  },
+  {
+    "LocationID": "VN3031917",
+    "LocationName": "Xã Hua Păng"
+  },
+  {
+    "LocationID": "VN3031929",
+    "LocationName": "Xã Lóng Sập"
+  },
+  {
+    "LocationID": "VN3031923",
+    "LocationName": "Xã Mường Sang"
+  },
+  {
+    "LocationID": "VN3031937",
+    "LocationName": "Xã Nà Mường"
+  },
+  {
+    "LocationID": "VN3031939",
+    "LocationName": "Xã Phiêng Luông"
+  },
+  {
+    "LocationID": "VN3031907",
+    "LocationName": "Xã Qui Hướng"
+  },
+  {
+    "LocationID": "VN3031911",
+    "LocationName": "Xã Tà Lại"
+  },
+  {
+    "LocationID": "VN3031905",
+    "LocationName": "Xã Tân Hợp"
+  },
+  {
+    "LocationID": "VN3031943",
+    "LocationName": "Xã Tân Lập"
+  }
+]

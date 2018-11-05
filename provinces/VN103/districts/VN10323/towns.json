@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN1032309",
+    "LocationName": "Thị trấn Cát Bà"
+  },
+  {
+    "LocationID": "VN1032301",
+    "LocationName": "Thị trấn Cát Hải"
+  },
+  {
+    "LocationID": "VN1032303",
+    "LocationName": "Xã Đồng Bài"
+  },
+  {
+    "LocationID": "VN1032305",
+    "LocationName": "Xã Gia Luận"
+  },
+  {
+    "LocationID": "VN1032319",
+    "LocationName": "Xã Hiền Hào"
+  },
+  {
+    "LocationID": "VN1032313",
+    "LocationName": "Xã Hoàng Châu"
+  },
+  {
+    "LocationID": "VN1032311",
+    "LocationName": "Xã Nghĩa Lộ"
+  },
+  {
+    "LocationID": "VN1032317",
+    "LocationName": "Xã Phù Long"
+  },
+  {
+    "LocationID": "VN1032321",
+    "LocationName": "Xã Trân Châu"
+  },
+  {
+    "LocationID": "VN1032315",
+    "LocationName": "Xã Văn Phong"
+  },
+  {
+    "LocationID": "VN1032323",
+    "LocationName": "Xã Việt Hải"
+  },
+  {
+    "LocationID": "VN1032307",
+    "LocationName": "Xã Xuân Đám"
+  }
+]

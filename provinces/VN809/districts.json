@@ -1,0 +1,34 @@
+[
+  {
+    "LocationID": "VN80908",
+    "LocationName": "Huyện Bình Tân"
+  },
+  {
+    "LocationID": "VN80903",
+    "LocationName": "Huyện Long Hồ"
+  },
+  {
+    "LocationID": "VN80905",
+    "LocationName": "Huyện Mang Thít"
+  },
+  {
+    "LocationID": "VN80909",
+    "LocationName": "Huyện Tam Bình"
+  },
+  {
+    "LocationID": "VN80911",
+    "LocationName": "Huyện Trà Ôn"
+  },
+  {
+    "LocationID": "VN80913",
+    "LocationName": "Huyện Vũng Liêm"
+  },
+  {
+    "LocationID": "VN80901",
+    "LocationName": "Thành phố Vĩnh Long"
+  },
+  {
+    "LocationID": "VN80907",
+    "LocationName": "Thị xã Bình Minh"
+  }
+]

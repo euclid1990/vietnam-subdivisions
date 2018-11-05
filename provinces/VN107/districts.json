@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN10719",
+    "LocationName": "Huyện Bình Giang"
+  },
+  {
+    "LocationID": "VN10717",
+    "LocationName": "Huyện Cẩm Giàng"
+  },
+  {
+    "LocationID": "VN10713",
+    "LocationName": "Huyện Gia Lộc"
+  },
+  {
+    "LocationID": "VN10711",
+    "LocationName": "Huyện Kim Thành"
+  },
+  {
+    "LocationID": "VN10709",
+    "LocationName": "Huyện Kinh Môn"
+  },
+  {
+    "LocationID": "VN10705",
+    "LocationName": "Huyện Nam Sách"
+  },
+  {
+    "LocationID": "VN10723",
+    "LocationName": "Huyện Ninh Giang"
+  },
+  {
+    "LocationID": "VN10707",
+    "LocationName": "Huyện Thanh Hà"
+  },
+  {
+    "LocationID": "VN10721",
+    "LocationName": "Huyện Thanh Miện"
+  },
+  {
+    "LocationID": "VN10715",
+    "LocationName": "Huyện Tứ Kỳ"
+  },
+  {
+    "LocationID": "VN10701",
+    "LocationName": "Thành phố Hải Dương"
+  },
+  {
+    "LocationID": "VN10703",
+    "LocationName": "Thị xã Chí Linh"
+  }
+]

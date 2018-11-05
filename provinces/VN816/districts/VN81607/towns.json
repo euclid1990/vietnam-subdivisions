@@ -1,0 +1,26 @@
+[
+  {
+    "LocationID": "VN8160701",
+    "LocationName": "Phường Hiệp Thành"
+  },
+  {
+    "LocationID": "VN8160705",
+    "LocationName": "Phường Lái Hiếu"
+  },
+  {
+    "LocationID": "VN8160703",
+    "LocationName": "Phường Ngã Bảy"
+  },
+  {
+    "LocationID": "VN8160709",
+    "LocationName": "Xã Đại Thành"
+  },
+  {
+    "LocationID": "VN8160707",
+    "LocationName": "Xã Hiệp Lợi"
+  },
+  {
+    "LocationID": "VN8160711",
+    "LocationName": "Xã Tân Thành"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN5070319",
+    "LocationName": "Thị trấn An Lão"
+  },
+  {
+    "LocationID": "VN5070311",
+    "LocationName": "Xã An Dũng"
+  },
+  {
+    "LocationID": "VN5070315",
+    "LocationName": "Xã An Hòa"
+  },
+  {
+    "LocationID": "VN5070303",
+    "LocationName": "Xã An Hưng"
+  },
+  {
+    "LocationID": "VN5070317",
+    "LocationName": "Xã An Nghĩa"
+  },
+  {
+    "LocationID": "VN5070307",
+    "LocationName": "Xã An Quang"
+  },
+  {
+    "LocationID": "VN5070301",
+    "LocationName": "Xã An Tân"
+  },
+  {
+    "LocationID": "VN5070305",
+    "LocationName": "Xã An Toàn"
+  },
+  {
+    "LocationID": "VN5070309",
+    "LocationName": "Xã An Trung"
+  },
+  {
+    "LocationID": "VN5070313",
+    "LocationName": "Xã An Vinh"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN30117",
+    "LocationName": "Huyện Điện Biên"
+  },
+  {
+    "LocationID": "VN30119",
+    "LocationName": "Huyện Điện Biên Đông"
+  },
+  {
+    "LocationID": "VN30121",
+    "LocationName": "Huyện Mường ảng"
+  },
+  {
+    "LocationID": "VN30111",
+    "LocationName": "Huyện Mường Chà"
+  },
+  {
+    "LocationID": "VN30104",
+    "LocationName": "Huyện Mường Nhé"
+  },
+  {
+    "LocationID": "VN30123",
+    "LocationName": "Huyện Nậm Pồ"
+  },
+  {
+    "LocationID": "VN30113",
+    "LocationName": "Huyện Tủa Chùa"
+  },
+  {
+    "LocationID": "VN30115",
+    "LocationName": "Huyện Tuần Giáo"
+  },
+  {
+    "LocationID": "VN30101",
+    "LocationName": "Thành phố Điện Biên Phủ"
+  },
+  {
+    "LocationID": "VN30103",
+    "LocationName": "Thị xã Mường Lay"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "LocationID": "VN3051001",
+    "LocationName": "Thị trấn Cao Phong"
+  },
+  {
+    "LocationID": "VN3051019",
+    "LocationName": "Xã Bắc Phong"
+  },
+  {
+    "LocationID": "VN3051021",
+    "LocationName": "Xã Bình Thanh"
+  },
+  {
+    "LocationID": "VN3051007",
+    "LocationName": "Xã Đông Phong"
+  },
+  {
+    "LocationID": "VN3051013",
+    "LocationName": "Xã Dũng Phong"
+  },
+  {
+    "LocationID": "VN3051025",
+    "LocationName": "Xã Nam Phong"
+  },
+  {
+    "LocationID": "VN3051011",
+    "LocationName": "Xã Tân Phong"
+  },
+  {
+    "LocationID": "VN3051009",
+    "LocationName": "Xã Tây Phong"
+  },
+  {
+    "LocationID": "VN3051005",
+    "LocationName": "Xã Thu Phong"
+  },
+  {
+    "LocationID": "VN3051003",
+    "LocationName": "Xã Thung Nai"
+  },
+  {
+    "LocationID": "VN3051023",
+    "LocationName": "Xã Xuân Phong"
+  },
+  {
+    "LocationID": "VN3051015",
+    "LocationName": "Xã Yên Lập"
+  },
+  {
+    "LocationID": "VN3051017",
+    "LocationName": "Xã Yên Thượng"
+  }
+]

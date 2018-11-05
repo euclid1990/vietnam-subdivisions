@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN7150309",
+    "LocationName": "Thị trấn Liên Hương"
+  },
+  {
+    "LocationID": "VN7150303",
+    "LocationName": "Thị trấn Phan Rí Cửa"
+  },
+  {
+    "LocationID": "VN7150321",
+    "LocationName": "Xã Bình Thạnh"
+  },
+  {
+    "LocationID": "VN7150307",
+    "LocationName": "Xã Chí Công"
+  },
+  {
+    "LocationID": "VN7150319",
+    "LocationName": "Xã Hòa Minh"
+  },
+  {
+    "LocationID": "VN7150323",
+    "LocationName": "Xã Hòa Phú"
+  },
+  {
+    "LocationID": "VN7150311",
+    "LocationName": "Xã Phan Dũng"
+  },
+  {
+    "LocationID": "VN7150301",
+    "LocationName": "Xã Phong Phú"
+  },
+  {
+    "LocationID": "VN7150305",
+    "LocationName": "Xã Phú Lạc"
+  },
+  {
+    "LocationID": "VN7150317",
+    "LocationName": "Xã Phước Thể"
+  },
+  {
+    "LocationID": "VN7150313",
+    "LocationName": "Xã Vĩnh Hảo"
+  },
+  {
+    "LocationID": "VN7150315",
+    "LocationName": "Xã Vĩnh Tân"
+  }
+]

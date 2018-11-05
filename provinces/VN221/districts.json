@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN22109",
+    "LocationName": "Huyện Hiệp Hòa"
+  },
+  {
+    "LocationID": "VN22111",
+    "LocationName": "Huyện Lạng Giang"
+  },
+  {
+    "LocationID": "VN22115",
+    "LocationName": "Huyện Lục Nam"
+  },
+  {
+    "LocationID": "VN22107",
+    "LocationName": "Huyện Lục Ngạn"
+  },
+  {
+    "LocationID": "VN22113",
+    "LocationName": "Huyện Sơn Động"
+  },
+  {
+    "LocationID": "VN22105",
+    "LocationName": "Huyện Tân Yên"
+  },
+  {
+    "LocationID": "VN22117",
+    "LocationName": "Huyện Việt Yên"
+  },
+  {
+    "LocationID": "VN22119",
+    "LocationName": "Huyện Yên Dũng"
+  },
+  {
+    "LocationID": "VN22103",
+    "LocationName": "Huyện Yên Thế"
+  },
+  {
+    "LocationID": "VN22101",
+    "LocationName": "Thành phố Bắc Giang"
+  }
+]

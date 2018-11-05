@@ -1,0 +1,38 @@
+[
+  {
+    "LocationID": "VN8150317",
+    "LocationName": "Phường Tân Hưng"
+  },
+  {
+    "LocationID": "VN8150301",
+    "LocationName": "Phường Tân Lộc"
+  },
+  {
+    "LocationID": "VN8150319",
+    "LocationName": "Phường Thạnh Hòa"
+  },
+  {
+    "LocationID": "VN8150321",
+    "LocationName": "Phường Thới Thuận"
+  },
+  {
+    "LocationID": "VN8150305",
+    "LocationName": "Phường Thốt Nốt"
+  },
+  {
+    "LocationID": "VN8150307",
+    "LocationName": "Phường Thuận An"
+  },
+  {
+    "LocationID": "VN8150315",
+    "LocationName": "Phường Thuận Hưng"
+  },
+  {
+    "LocationID": "VN8150311",
+    "LocationName": "Phường Trung Kiên"
+  },
+  {
+    "LocationID": "VN8150309",
+    "LocationName": "Phường Trung Nhứt"
+  }
+]

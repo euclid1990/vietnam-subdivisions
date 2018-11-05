@@ -1,0 +1,50 @@
+[
+  {
+    "LocationID": "VN7110525",
+    "LocationName": "Phường Khánh Bình"
+  },
+  {
+    "LocationID": "VN7110543",
+    "LocationName": "Phường Tân Hiệp"
+  },
+  {
+    "LocationID": "VN7110505",
+    "LocationName": "Phường Tân Phước Khánh"
+  },
+  {
+    "LocationID": "VN7110509",
+    "LocationName": "Phường Thạnh Phước"
+  },
+  {
+    "LocationID": "VN7110535",
+    "LocationName": "Phường Uyên Hưng"
+  },
+  {
+    "LocationID": "VN7110531",
+    "LocationName": "Thị trấn Thái Hòa"
+  },
+  {
+    "LocationID": "VN7110527",
+    "LocationName": "Xã Bạch Đằng"
+  },
+  {
+    "LocationID": "VN7110521",
+    "LocationName": "Xã Hội Nghĩa"
+  },
+  {
+    "LocationID": "VN7110507",
+    "LocationName": "Xã Phú Chánh"
+  },
+  {
+    "LocationID": "VN7110529",
+    "LocationName": "Xã Tân Vĩnh Hiệp"
+  },
+  {
+    "LocationID": "VN7110541",
+    "LocationName": "Xã Thạnh Hội"
+  },
+  {
+    "LocationID": "VN7110519",
+    "LocationName": "Xã Vĩnh Tân"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN3020205",
+    "LocationName": "Phường Đoàn Kết"
+  },
+  {
+    "LocationID": "VN3020211",
+    "LocationName": "Phường Đông Phong"
+  },
+  {
+    "LocationID": "VN3020203",
+    "LocationName": "Phường Quyết Thắng"
+  },
+  {
+    "LocationID": "VN3020215",
+    "LocationName": "Phường Quyết Tiến"
+  },
+  {
+    "LocationID": "VN3020201",
+    "LocationName": "Phường Tân Phong"
+  },
+  {
+    "LocationID": "VN3020207",
+    "LocationName": "Xã Nậm Loong"
+  },
+  {
+    "LocationID": "VN3020209",
+    "LocationName": "Xã San Thàng"
+  }
+]

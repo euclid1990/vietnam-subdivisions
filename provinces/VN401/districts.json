@@ -1,0 +1,110 @@
+[
+  {
+    "LocationID": "VN40113",
+    "LocationName": "Huyện Bá Thước"
+  },
+  {
+    "LocationID": "VN40115",
+    "LocationName": "Huyện Cẩm Thuỷ"
+  },
+  {
+    "LocationID": "VN40145",
+    "LocationName": "Huyện Đông Sơn"
+  },
+  {
+    "LocationID": "VN40131",
+    "LocationName": "Huyện Hà Trung"
+  },
+  {
+    "LocationID": "VN40139",
+    "LocationName": "Huyện Hậu Lộc"
+  },
+  {
+    "LocationID": "VN40143",
+    "LocationName": "Huyện Hoằng Hoá"
+  },
+  {
+    "LocationID": "VN40117",
+    "LocationName": "Huyện Lang Chánh"
+  },
+  {
+    "LocationID": "VN40107",
+    "LocationName": "Huyện Mường Lát"
+  },
+  {
+    "LocationID": "VN40133",
+    "LocationName": "Huyện Nga Sơn"
+  },
+  {
+    "LocationID": "VN40121",
+    "LocationName": "Huyện Ngọc Lặc"
+  },
+  {
+    "LocationID": "VN40127",
+    "LocationName": "Huyện Như Thanh"
+  },
+  {
+    "LocationID": "VN40125",
+    "LocationName": "Huyện Như Xuân"
+  },
+  {
+    "LocationID": "VN40151",
+    "LocationName": "Huyện Nông Cống"
+  },
+  {
+    "LocationID": "VN40109",
+    "LocationName": "Huyện Quan Hoá"
+  },
+  {
+    "LocationID": "VN40111",
+    "LocationName": "Huyện Quan Sơn"
+  },
+  {
+    "LocationID": "VN40149",
+    "LocationName": "Huyện Quảng Xương"
+  },
+  {
+    "LocationID": "VN40119",
+    "LocationName": "Huyện Thạch Thành"
+  },
+  {
+    "LocationID": "VN40141",
+    "LocationName": "Huyện Thiệu Hóa"
+  },
+  {
+    "LocationID": "VN40137",
+    "LocationName": "Huyện Thọ Xuân"
+  },
+  {
+    "LocationID": "VN40123",
+    "LocationName": "Huyện Thường Xuân"
+  },
+  {
+    "LocationID": "VN40153",
+    "LocationName": "Huyện Tĩnh Gia"
+  },
+  {
+    "LocationID": "VN40147",
+    "LocationName": "Huyện Triệu Sơn"
+  },
+  {
+    "LocationID": "VN40129",
+    "LocationName": "Huyện Vĩnh Lộc"
+  },
+  {
+    "LocationID": "VN40135",
+    "LocationName": "Huyện Yên Định"
+  },
+  {
+    "LocationID": "VN40101",
+    "LocationName": "Thành phố Thanh Hoá"
+  },
+  {
+    "LocationID": "VN40103",
+    "LocationName": "Thị xã Bỉm Sơn"
+  },
+  {
+    "LocationID": "VN40105",
+    "LocationName": "Thị xã Sầm Sơn"
+  }
+]

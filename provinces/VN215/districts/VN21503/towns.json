@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN2150319",
+    "LocationName": "Phường Bách Quang"
+  },
+  {
+    "LocationID": "VN2150305",
+    "LocationName": "Phường Cải Đan"
+  },
+  {
+    "LocationID": "VN2150301",
+    "LocationName": "Phường Lương Châu"
+  },
+  {
+    "LocationID": "VN2150303",
+    "LocationName": "Phường Mỏ Chè"
+  },
+  {
+    "LocationID": "VN2150307",
+    "LocationName": "Phường Phố Cò"
+  },
+  {
+    "LocationID": "VN2150315",
+    "LocationName": "Phường Thắng Lợi"
+  },
+  {
+    "LocationID": "VN2150313",
+    "LocationName": "Xã Bá Xuyên"
+  },
+  {
+    "LocationID": "VN2150317",
+    "LocationName": "Xã Bình Sơn"
+  },
+  {
+    "LocationID": "VN2150311",
+    "LocationName": "Xã Tân Quang"
+  },
+  {
+    "LocationID": "VN2150309",
+    "LocationName": "Xã Vinh Sơn"
+  }
+]

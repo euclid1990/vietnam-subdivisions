@@ -1,0 +1,30 @@
+[
+  {
+    "LocationID": "VN8231313",
+    "LocationName": "Thị Trấn Rạch Gốc"
+  },
+  {
+    "LocationID": "VN8231303",
+    "LocationName": "Xã Đất Mũi"
+  },
+  {
+    "LocationID": "VN8231305",
+    "LocationName": "Xã Tam Giang Tây"
+  },
+  {
+    "LocationID": "VN8231311",
+    "LocationName": "Xã Tân ân"
+  },
+  {
+    "LocationID": "VN8231301",
+    "LocationName": "Xã Tân ân Tây"
+  },
+  {
+    "LocationID": "VN8231309",
+    "LocationName": "Xã Viên An"
+  },
+  {
+    "LocationID": "VN8231307",
+    "LocationName": "Xã Viên An Đông"
+  }
+]

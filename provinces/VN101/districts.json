@@ -1,0 +1,122 @@
+[
+  {
+    "LocationID": "VN10151",
+    "LocationName": "Huyện Ba Vì"
+  },
+  {
+    "LocationID": "VN10153",
+    "LocationName": "Huyện Chương Mỹ"
+  },
+  {
+    "LocationID": "VN10133",
+    "LocationName": "Huyện Đan Phượng"
+  },
+  {
+    "LocationID": "VN10117",
+    "LocationName": "Huyện Đông Anh"
+  },
+  {
+    "LocationID": "VN10119",
+    "LocationName": "Huyện Gia Lâm"
+  },
+  {
+    "LocationID": "VN10137",
+    "LocationName": "Huyện Hoài Đức"
+  },
+  {
+    "LocationID": "VN10125",
+    "LocationName": "Huyện Mê Linh"
+  },
+  {
+    "LocationID": "VN10145",
+    "LocationName": "Huyện Mỹ Đức"
+  },
+  {
+    "LocationID": "VN10149",
+    "LocationName": "Huyện Phú Xuyên"
+  },
+  {
+    "LocationID": "VN10131",
+    "LocationName": "Huyện Phúc Thọ"
+  },
+  {
+    "LocationID": "VN10139",
+    "LocationName": "Huyện Quốc Oai"
+  },
+  {
+    "LocationID": "VN10115",
+    "LocationName": "Huyện Sóc Sơn"
+  },
+  {
+    "LocationID": "VN10135",
+    "LocationName": "Huyện Thạch Thất"
+  },
+  {
+    "LocationID": "VN10141",
+    "LocationName": "Huyện Thanh Oai"
+  },
+  {
+    "LocationID": "VN10123",
+    "LocationName": "Huyện Thanh Trì"
+  },
+  {
+    "LocationID": "VN10143",
+    "LocationName": "Huyện Thường Tín"
+  },
+  {
+    "LocationID": "VN10147",
+    "LocationName": "Huyện Ứng Hòa"
+  },
+  {
+    "LocationID": "VN10101",
+    "LocationName": "Quận Ba Đình"
+  },
+  {
+    "LocationID": "VN10157",
+    "LocationName": "Quận Bắc Từ Liêm"
+  },
+  {
+    "LocationID": "VN10113",
+    "LocationName": "Quận Cầu Giấy"
+  },
+  {
+    "LocationID": "VN10109",
+    "LocationName": "Quận Đống Đa"
+  },
+  {
+    "LocationID": "VN10127",
+    "LocationName": "Quận Hà Đông"
+  },
+  {
+    "LocationID": "VN10107",
+    "LocationName": "Quận Hai Bà Trưng"
+  },
+  {
+    "LocationID": "VN10105",
+    "LocationName": "Quận Hoàn Kiếm"
+  },
+  {
+    "LocationID": "VN10108",
+    "LocationName": "Quận Hoàng Mai"
+  },
+  {
+    "LocationID": "VN10106",
+    "LocationName": "Quận Long Biên"
+  },
+  {
+    "LocationID": "VN10155",
+    "LocationName": "Quận Nam Từ Liêm"
+  },
+  {
+    "LocationID": "VN10103",
+    "LocationName": "Quận Tây Hồ"
+  },
+  {
+    "LocationID": "VN10111",
+    "LocationName": "Quận Thanh Xuân"
+  },
+  {
+    "LocationID": "VN10129",
+    "LocationName": "Thị Xã Sơn Tây"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": "VN8132107",
+    "LocationName": "Thị trấn An Thới"
+  },
+  {
+    "LocationID": "VN8132101",
+    "LocationName": "Thị trấn Dương Đông"
+  },
+  {
+    "LocationID": "VN8132117",
+    "LocationName": "Xã Bãi Thơm"
+  },
+  {
+    "LocationID": "VN8132103",
+    "LocationName": "Xã Cửa Cạn"
+  },
+  {
+    "LocationID": "VN8132111",
+    "LocationName": "Xã Cửa Dương"
+  },
+  {
+    "LocationID": "VN8132105",
+    "LocationName": "Xã Dương Tơ"
+  },
+  {
+    "LocationID": "VN8132109",
+    "LocationName": "Xã Gành Dầu"
+  },
+  {
+    "LocationID": "VN8132113",
+    "LocationName": "Xã Hàm Ninh"
+  },
+  {
+    "LocationID": "VN8132115",
+    "LocationName": "Xã Hòn Thơm"
+  },
+  {
+    "LocationID": "VN8132119",
+    "LocationName": "Xã Thổ Châu"
+  }
+]
